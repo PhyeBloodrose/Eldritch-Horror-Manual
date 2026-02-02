@@ -226,5 +226,13 @@
   "Azathoth": {
     "connects_to": [],
     "requires": "|Azathoth|"
+  },
+  "Cthulhu": {
+    "connects_to": [],
+    "requires": "|Cthulhu|"
+  },
+  "Shub-Niggurath": {
+    "connects_to": [],
+    "requires": "|Shub-Niggurath|"
   }
 }

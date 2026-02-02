@@ -122,10 +122,13 @@
     "AncientDefeated": {
         "hidden": true
     },
-    "Azathoth_Mystery": {
+    "AzathothMystery": {
         "hidden": true
     },
-    "Cthulhu_Mystery": {
+    "CthulhuMystery": {
+        "hidden": true
+    },
+    "Shub-NiggurathMystery": {
         "hidden": true
     }
 }

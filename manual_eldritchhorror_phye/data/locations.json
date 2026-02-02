@@ -2125,12 +2125,101 @@
     "requires": "|@Sea Clue|"
   },
   {
+    "name": "Shub-Niggurath - Hunting the Thousand",
+    "region": "Shub-Niggurath",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Shub-NiggurathMystery"
+    ],
+    "requires": "|@Clues:4|"
+  },
+  {
+    "name": "Shub-Niggurath - Nature of the All-Mother",
+    "region": "Shub-Niggurath",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Shub-NiggurathMystery"
+    ],
+    "requires": "|@Clues:4|"
+  },
+  {
+    "name": "Shub-Niggurath - Rituals in the Wild",
+    "region": "Shub-Niggurath",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Shub-NiggurathMystery"
+    ],
+    "requires": "|@Clues:4|"
+  },
+  {
+    "name": "Shub-Niggurath - Spawn of the Black Goat",
+    "region": "Shub-Niggurath",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Shub-NiggurathMystery"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Shub-Niggurath - Blasphemy of the Black Goat",
+    "region": "Shub-Niggurath",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Shub-NiggurathMystery",
+        "Forsaken Lore"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Shub-Niggurath - Hour of the Moon Lens",
+    "region": "Shub-Niggurath",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Shub-NiggurathMystery",
+        "Forsaken Lore"
+    ],
+    "requires": "|@Clues:4|"
+  },
+  {
+    "name": "Shub-Niggurath Defeated",
+    "region": "Shub-Niggurath",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AncientDefeated"
+    ],
+    "requires": "{canReachCategory(Shub-NiggurathMystery,3)}"
+  },
+  {
+    "name": "Shub-Niggurath - City Research Encounter",
+    "region": "Shub-Niggurath",
+    "category": [
+        "Ancient Ones Research"
+    ],
+    "requires": "|@City Clue|"
+  },
+  {
+    "name": "Shub-Niggurath - Wilderness Research Encounter",
+    "region": "Shub-Niggurath",
+    "category": [
+        "Ancient Ones Research"
+    ],
+    "requires": "|@Wilderness Clue|"
+  },
+  {
+    "name": "Shub-Niggurath - Sea Research Encounter",
+    "region": "Shub-Niggurath",
+    "category": [
+        "Ancient Ones Research"
+    ],
+    "requires": "|@Sea Clue|"
+  },
+  {
     "name": "Campaign Complete!",
     "region": "General Region",
     "victory": true,
     "category": [
       "Victory Condition"
     ],
-    "requires": "{canReachCategory(AncientDefeated,2)}"
+    "requires": "{canReachCategory(AncientDefeated,3)}"
   }
 ]

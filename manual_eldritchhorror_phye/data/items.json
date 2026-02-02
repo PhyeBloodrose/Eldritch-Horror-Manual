@@ -1784,7 +1784,8 @@
         "Spells",
         "Incantation",
         "Ritual",
-        "Glamour"
+        "Glamour",
+        "Magical Weapon"
     ],
     "progression_skip_balancing": true
   },
@@ -1796,7 +1797,8 @@
         "Spells",
         "Incantation",
         "Ritual",
-        "Glamour"
+        "Glamour",
+        "Magical Weapon"
     ],
     "progression_skip_balancing": true
   },
@@ -1808,7 +1810,8 @@
         "Spells",
         "Incantation",
         "Ritual",
-        "Glamour"
+        "Glamour",
+        "Magical Weapon"
     ],
     "progression_skip_balancing": true
   },
@@ -1820,7 +1823,8 @@
         "Spells",
         "Incantation",
         "Ritual",
-        "Glamour"
+        "Glamour",
+        "Magical Weapon"
     ],
     "progression_skip_balancing": true
   }
