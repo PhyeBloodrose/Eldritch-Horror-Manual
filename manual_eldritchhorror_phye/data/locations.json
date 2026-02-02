@@ -2925,6 +2925,103 @@
     "requires": "|@Sea Clue|"
   },
   {
+    "name": "Abhoth - Child of Abhoth",
+    "region": "Abhoth",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AbhothMystery",
+        "Under the Pyramids"
+    ],
+    "requires": "|@Investigators:4| AND (|@Weapon| OR |@Magical Weapon|)"
+  },
+  {
+    "name": "Abhoth - Exploring the Caverns",
+    "region": "Abhoth",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AbhothMystery",
+        "Under the Pyramids"
+    ],
+    "requires": "|@Investigators:4|"
+  },
+  {
+    "name": "Abhoth - Sealing the Caverns",
+    "region": "Abhoth",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AbhothMystery",
+        "Under the Pyramids"
+    ],
+    "requires": "|@Investigators:4|"
+  },
+  {
+    "name": "Abhoth - Spawn of Uncleanliness",
+    "region": "Abhoth",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AbhothMystery",
+        "Under the Pyramids"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4| AND (|@Weapon| OR |@Magical Weapon|)"
+  },
+  {
+    "name": "Abhoth - The Source of Filth and Disease",
+    "region": "Abhoth",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AbhothMystery",
+        "Under the Pyramids"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Abhoth - Touched by Abhoth",
+    "region": "Abhoth",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AbhothMystery",
+        "Under the Pyramids"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Abhoth Defeated",
+    "region": "Abhoth",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AncientDefeated",
+        "Under the Pyramids"
+    ],
+    "requires": "{canReachCategory(AbhothMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
+  },
+  {
+    "name": "Abhoth - City Research Encounter",
+    "region": "Abhoth",
+    "category": [
+        "Ancient Ones Research",
+        "Under the Pyramids"
+    ],
+    "requires": "|@City Clue|"
+  },
+  {
+    "name": "Abhoth - Wilderness Research Encounter",
+    "region": "Abhoth",
+    "category": [
+        "Ancient Ones Research",
+        "Under the Pyramids"
+    ],
+    "requires": "|@Wilderness Clue|"
+  },
+  {
+    "name": "Abhoth - Sea Research Encounter",
+    "region": "Abhoth",
+    "category": [
+        "Ancient Ones Research",
+        "Under the Pyramids"
+    ],
+    "requires": "|@Sea Clue|"
+  },
+  {
     "name": "Antediluvium - Dread Countenance",
     "region": "Antediluvium",
     "category": [
