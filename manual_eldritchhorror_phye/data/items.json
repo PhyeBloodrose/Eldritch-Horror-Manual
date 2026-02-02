@@ -469,7 +469,7 @@
   },
   {
     "count": 1,
-    "name": "Darrel Simmons",
+    "name": "Darrell Simmons",
     "category": [
       "Investigators",
       "The Dreamlands"
@@ -2217,7 +2217,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
-        "MountRuin"
+        "MountainRuin"
     ],
     "progression_skip_balancing": true
   },
@@ -2281,7 +2281,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
-        "Mountains of Madness"
+        "MountainRuin"
     ],
     "progression_skip_balancing": true
   },
@@ -2345,7 +2345,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
-        "Mountains of Madness"
+        "MountainPyramid"
     ],
     "progression_skip_balancing": true
   },
@@ -2354,8 +2354,7 @@
     "name": "Sacrifices to Make",
     "category": [
         "Unique Assets Deck",
-        "Task",
-        "Mountains of Madness"
+        "Task"
     ],
     "progression_skip_balancing": true
   },
@@ -2365,7 +2364,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
-        "Mountains of Madness"
+        "MountainStrange"
     ],
     "progression_skip_balancing": true
   },
@@ -2386,7 +2385,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
-        "Mountains of Madness"
+        "MountainDream"
     ],
     "progression_skip_balancing": true
   },
@@ -2409,7 +2408,7 @@
         "Item",
         "Magical Weapon",
         "Relic",
-        "Strange Remnants"
+        "StrangePyramid"
     ],
     "progression_skip_balancing": true
   },
@@ -2452,8 +2451,7 @@
         "Unique Assets Deck",
         "Item",
         "Magical",
-        "Relic",
-        "Strange Remnants"
+        "Relic"
     ],
     "progression_skip_balancing": true
   },
@@ -2465,7 +2463,7 @@
         "Item",
         "Magical",
         "Relic",
-        "Strange Remnants"
+        "StrangePyramid"
     ],
     "progression_skip_balancing": true
   },
@@ -2497,8 +2495,7 @@
         "Unique Assets Deck",
         "Item",
         "Magical",
-        "Relic",
-        "Strange Remnants"
+        "Relic"
     ],
     "progression_skip_balancing": true
   },
@@ -2519,8 +2516,7 @@
     "category": [
         "Unique Assets Deck",
         "Item",
-        "Relic",
-        "Strange Remnants"
+        "Relic"
     ],
     "progression_skip_balancing": true
   },
@@ -2554,8 +2550,7 @@
         "Unique Assets Deck",
         "Item",
         "Magical",
-        "Relic",
-        "Under the Pyramids"
+        "Relic"
     ],
     "progression_skip_balancing": true
   },
@@ -2676,8 +2671,7 @@
         "Unique Assets Deck",
         "Ally",
         "Magical",
-        "Relic",
-        "Under the Pyramids"
+        "Relic"
     ],
     "progression_skip_balancing": true
   },

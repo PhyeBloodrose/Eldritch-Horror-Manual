@@ -1,6 +1,91 @@
 {
   "General Region": {
-    "connects_to": [],
+    "starting": true,
+    "connects_to": [
+        "Investigators",
+        "Ancient Ones"
+    ],
+    "requires": ""
+  },
+  "Investigators": {
+    "connects_to": [
+        "Akachi",
+        "Charlie",
+        "Diana",
+        "Jacqueline",
+        "Jim",
+        "Leo",
+        "Lily",
+        "Lola",
+        "Mark",
+        "Norman",
+        "Silas",
+        "Trish",
+        "Agnes",
+        "Daisy",
+        "Finn",
+        "George",
+        "Patrice",
+        "Tommy",
+        "Ursula",
+        "Wilson",
+        "Marie",
+        "Skids",
+        "Tony",
+        "Zoey",
+        "Hank",
+        "Harvey",
+        "Joe",
+        "Mandy",
+        "Minh",
+        "Monterey",
+        "Rex",
+        "Sister",
+        "Dexter",
+        "Jenny",
+        "Michael",
+        "Wendy",
+        "Amanda",
+        "Carolyn",
+        "Darrell",
+        "Gloria",
+        "Kate",
+        "Luke",
+        "Vincent",
+        "William",
+        "Ashcan",
+        "Bob",
+        "Rita",
+        "Roland",
+        "Agatha",
+        "Calvin",
+        "Carson",
+        "Daniela",
+        "Father",
+        "Preston",
+        "Sefina"
+    ],
+    "requires": ""
+  },
+  "Ancient Ones": {
+    "connects_to": [
+        "Azathoth",
+        "Cthulhu",
+        "Shub-Niggurath",
+        "Yog-Sothoth",
+        "Yig",
+        "The Elder Things",
+        "Ithaqua",
+        "Syzygy",
+        "Abhoth",
+        "Nephren-Ka",
+        "Hastur",
+        "Atlach-Nacha",
+        "Hypnos",
+        "Shudde M'ell",
+        "Antediluvium",
+        "Nyarlathotep"
+    ],
     "requires": ""
   },
   "Akachi": {
@@ -155,9 +240,9 @@
     "connects_to": [],
     "requires": "|Carolyn Fern|"
   },
-  "Darrel": {
+  "Darrell": {
     "connects_to": [],
-    "requires": "|Darrel Simmons|"
+    "requires": "|Darrell Simmons|"
   },
   "Gloria": {
     "connects_to": [],
@@ -250,5 +335,110 @@
   "Ithaqua": {
     "connects_to": [],
     "requires": "|Ithaqua|"
+  },
+  "Syzygy": {
+    "connects_to": [],
+    "requires": "|Syzygy|"
+  },
+  "Abhoth": {
+    "connects_to": [],
+    "requires": "|Abhoth|"
+  },
+  "Nephren-Ka": {
+    "connects_to": [],
+    "requires": "|Nephren-Ka|"
+  },
+  "Hastur": {
+    "connects_to": [],
+    "requires": "|Hastur|"
+  },
+  "Atlach-Nacha": {
+    "connects_to": [],
+    "requires": "|Atlach-Nacha|"
+  },
+  "Hypnos": {
+    "connects_to": [],
+    "requires": "|Hypnos|"
+  },
+  "Shudde M'ell": {
+    "connects_to": [],
+    "requires": "|Shudde M'ell|"
+  },
+  "Antediluvium": {
+    "connects_to": [],
+    "requires": "|Antediluvium|"
+  },
+  "Nyarlathotep": {
+    "connects_to": [
+        "BDP_1",
+        "CSB_1",
+        "CBT_1",
+        "OBW_1"
+    ],
+    "requires": "|Nyarlathotep|"
+  },
+  "BDP_1": {
+    "connects_to": [
+        "BDP_2"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:3|"
+  },
+  "BDP_2": {
+    "connects_to": [
+        "BDP_3"
+    ],
+    "requires": ""
+  },
+  "BDP_3": {
+    "connects_to": [],
+    "requires": "|Eye of Light| AND |@Clues:5|"
+  },
+  "CSB_1": {
+    "connects_to": [
+        "CSB_2"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:3|"
+  },
+  "CSB_2": {
+    "connects_to": [
+        "CSB_3"
+    ],
+    "requires": ""
+  },
+  "CSB_3": {
+    "connects_to": [],
+    "requires": "|@Weapon| OR |@Magical Weapon|"
+  },
+  "CBT_1": {
+    "connects_to": [
+        "CBT_2"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:3|"
+  },
+  "CBT_2": {
+    "connects_to": [
+        "CBT_3"
+    ],
+    "requires": "|@Weapon| OR |@Magical Weapon|"
+  },
+  "CBT_3": {
+    "connects_to": [],
+    "requires": "|@Magical Weapon|"
+  },
+  "OBW_1": {
+    "connects_to": [
+        "OBW_2"
+    ],
+    "requires": "|@Investigators:4| AND |Eye of Darkness|"
+  },
+  "OBW_2": {
+    "connects_to": [
+        "OBW_3"
+    ],
+    "requires": "|@Clues:3|"
+  },
+  "OBW_3": {
+    "connects_to": [],
+    "requires": "|@Weapon| OR |@Magical Weapon|"
   }
 }

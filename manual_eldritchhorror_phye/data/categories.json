@@ -31,6 +31,22 @@
         "yaml_option": [ "Mountains_of_Madness", "Cities_in_Ruin" ],
         "hidden": true
     },
+    "MountainPyramid": {
+        "yaml_option": [ "Mountains_of_Madness", "Under_the_Pyramids" ],
+        "hidden": true
+    },
+    "MountainStrange": {
+        "yaml_option": [ "Mountains_of_Madness", "Strange_Remnants" ],
+        "hidden": true
+    },
+    "MountainDream": {
+        "yaml_option": [ "Mountains_of_Madness", "The_Dreamlands" ],
+        "hidden": true
+    },
+    "StrangePyramid": {
+        "yaml_option": [ "Strange_Remnants", "Under_the_Pyramids" ],
+        "hidden": true
+    },
     "Personal Consequence": {
         "yaml_option": [ "Personal_Consequence" ],
         "hidden": true

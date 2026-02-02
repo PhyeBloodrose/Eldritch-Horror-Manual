@@ -1376,8 +1376,8 @@
     "requires": ""
   },
   {
-    "name": "Darrel Simmons - Starting Equipment 1",
-    "region": "Darrel",
+    "name": "Darrell Simmons - Starting Equipment 1",
+    "region": "Darrell",
     "category": [
         "Investigator Unlocks",
         "The Dreamlands"
@@ -1385,8 +1385,8 @@
     "requires": ""
   },
   {
-    "name": "Darrel Simmons - Starting Equipment 2",
-    "region": "Darrel",
+    "name": "Darrell Simmons - Starting Equipment 2",
+    "region": "Darrell",
     "category": [
         "Investigator Unlocks",
         "The Dreamlands"
@@ -1394,8 +1394,8 @@
     "requires": ""
   },
   {
-    "name": "Darrel Simmons - A Thousand Words - Photographic Proof",
-    "region": "Darrel",
+    "name": "Darrell Simmons - A Thousand Words - Photographic Proof",
+    "region": "Darrell",
     "category": [
         "Personal Stories",
         "The Dreamlands"
@@ -1403,8 +1403,8 @@
     "requires": ""
   },
   {
-    "name": "Darrel Simmons - A Thousand Words - The Film is Ruined",
-    "region": "Darrel",
+    "name": "Darrell Simmons - A Thousand Words - The Film is Ruined",
+    "region": "Darrell",
     "category": [
         "Personal Stories",
         "Personal Consequence",
@@ -2071,6 +2071,102 @@
     "requires": ""
   },
   {
+    "name": "Brotherhood of the Dark Pharaoh - Investigating the Greath Sphinx - Stage I",
+    "region": "BDP_1",
+    "category": [
+        "Adventures"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Brotherhood of the Dark Pharaoh - Labyrinth of Queen Nitocris - Stage 2",
+    "region": "BDP_2",
+    "category": [
+        "Adventures"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Brotherhood of the Dark Pharaoh - Eye of Light - Stage 3",
+    "region": "BDP_3",
+    "category": [
+        "Adventures"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cult of the Bloody Tongue - Mountain of the Black Wind - Stage I",
+    "region": "CBT_1",
+    "category": [
+        "Adventures"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cult of the Bloody Tongue - Attacked in Transit - Stage 2",
+    "region": "CBT_2",
+    "category": [
+        "Adventures"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cult of the Bloody Tongue - God of the Bloody Tongue - Stage 3",
+    "region": "CBT_3",
+    "category": [
+        "Adventures"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Order of the Bloated Woman - Eye of Darkness - Stage I",
+    "region": "OBW_1",
+    "category": [
+        "Adventures"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Order of the Bloated Woman - To Gray Dragon Island - Stage 2",
+    "region": "OBW_2",
+    "category": [
+        "Adventures"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Order of the Bloated Woman - The Bloated Woman - Stage 3",
+    "region": "OBW_3",
+    "category": [
+        "Adventures"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cult of the Sand Bat - Outback Investigation - Stage I",
+    "region": "CSB_1",
+    "category": [
+        "Adventures"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cult of the Sand Bat - The City Beneath the Sands - Stage 2",
+    "region": "CSB_2",
+    "category": [
+        "Adventures"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cult of the Sand Bat - Hour of the Sand Bat - Stage 3",
+    "region": "CSB_3",
+    "category": [
+        "Adventures"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Azathoth - Occult Research",
     "region": "Azathoth",
     "category": [
@@ -2702,7 +2798,7 @@
   },
   {
     "name": "Ithaqua Defeated",
-    "region": "The Elder Things",
+    "region": "Ithaqua",
     "category": [
         "Ancient Ones Mysteries",
         "AncientDefeated",
@@ -2738,12 +2834,168 @@
     "requires": "|@Sea Clue|"
   },
   {
+    "name": "Antediluvium - Dread Countenance",
+    "region": "Antediluvium",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AntediluviumMystery"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4| AND |@Spells:2| AND |Grotesque Statue|"
+  },
+  {
+    "name": "Antediluvium - Emerald Dreams",
+    "region": "Antediluvium",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AntediluviumMystery"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4| AND |@Spells:4|"
+  },
+  {
+    "name": "Antediluvium - Sleeper Ascendant",
+    "region": "Antediluvium",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AntediluviumMystery"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Antediluvium - The Order of Rising Stars",
+    "region": "Antediluvium",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AntediluviumMystery"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Antediluvium - Through the Ages",
+    "region": "Antediluvium",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AntediluviumMystery"
+    ],
+    "requires": "|@Investigators:4| AND |@Spells:2|"
+  },
+  {
+    "name": "Antediluvium - Time Immemorial",
+    "region": "Antediluvium",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AntediluviumMystery"
+    ],
+    "requires": "|@Investigators:4| and |@Clues:4|"
+  },
+  {
+    "name": "Antediluvium Defeated",
+    "region": "Antediluvium",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AncientDefeated"
+    ],
+    "requires": "{canReachCategory(AntediluviumMystery,3)} AND |@Clues:12| AND |@Spells:12| AND |@Ancient Ones:3|"
+  },
+  {
+    "name": "Antediluvium - City Research Encounter",
+    "region": "Antediluvium",
+    "category": [
+        "Ancient Ones Research"
+    ],
+    "requires": "|@City Clue|"
+  },
+  {
+    "name": "Antediluvium - Wilderness Research Encounter",
+    "region": "Antediluvium",
+    "category": [
+        "Ancient Ones Research"
+    ],
+    "requires": "|@Wilderness Clue|"
+  },
+  {
+    "name": "Antediluvium - Sea Research Encounter",
+    "region": "Antediluvium",
+    "category": [
+        "Ancient Ones Research"
+    ],
+    "requires": "|@Sea Clue|"
+  },
+  {
+    "name": "Nyarlathotep - Brotherhood of the Dark Pharaoh",
+    "region": "BDP_3",
+    "category": [
+        "Ancient Ones Mysteries",
+        "NyarlathotepMystery"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Nyarlathotep - Cult of the Bloody Tongue",
+    "region": "CBT_3",
+    "category": [
+        "Ancient Ones Mysteries",
+        "NyarlathotepMystery"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Nyarlathotep - Cult of the Sand Bat",
+    "region": "CSB_3",
+    "category": [
+        "Ancient Ones Mysteries",
+        "NyarlathotepMystery"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Nyarlathotep - Order of the Bloated Woman",
+    "region": "OBW_3",
+    "category": [
+        "Ancient Ones Mysteries",
+        "NyarlathotepMystery"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Nyarlathotep Defeated",
+    "region": "Nyarlathotep",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AncientDefeated"
+    ],
+    "requires": "{canReachCategory(NyarlathotepMystery,2)} AND |@Clues:10|  AND |@Ancient Ones:3|"
+  },
+  {
+    "name": "Nyarlathotep - City Research Encounter",
+    "region": "Nyarlathotep",
+    "category": [
+        "Ancient Ones Research"
+    ],
+    "requires": "|@City Clue|"
+  },
+  {
+    "name": "Nyarlathotep - Wilderness Research Encounter",
+    "region": "Nyarlathotep",
+    "category": [
+        "Ancient Ones Research"
+    ],
+    "requires": "|@Wilderness Clue|"
+  },
+  {
+    "name": "Nyarlathotep - Sea Research Encounter",
+    "region": "Nyarlathotep",
+    "category": [
+        "Ancient Ones Research"
+    ],
+    "requires": "|@Sea Clue|"
+  },
+  {
     "name": "Campaign Complete!",
     "region": "General Region",
     "victory": true,
     "category": [
       "Victory Condition"
     ],
-    "requires": "{canReachCategory(AncientDefeated,4)}"
+    "requires": "{canReachCategory(AncientDefeated,6)}"
   }
 ]
