@@ -124,5 +124,8 @@
     },
     "Azathoth_Mystery": {
         "hidden": true
+    },
+    "Cthulhu_Mystery": {
+        "hidden": true
     }
 }
