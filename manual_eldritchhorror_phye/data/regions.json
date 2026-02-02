@@ -1,0 +1,230 @@
+{
+  "General Region": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Akachi": {
+    "connects_to": [],
+    "requires": "|Akachi Onyele|"
+  },
+  "Charlie": {
+    "connects_to": [],
+    "requires": "|Charlie Kane|"
+  },
+  "Diana": {
+    "connects_to": [],
+    "requires": "|Diana Stanley|"
+  },
+  "Jacqueline": {
+    "connects_to": [],
+    "requires": "|Jacqueline Fine|"
+  },
+  "Jim": {
+    "connects_to": [],
+    "requires": "|Jim Culver|"
+  },
+  "Leo": {
+    "connects_to": [],
+    "requires": "|Leo Anderson|"
+  },
+  "Lily": {
+    "connects_to": [],
+    "requires": "|Lily Chen|"
+  },
+  "Lola": {
+    "connects_to": [],
+    "requires": "|Lola Hayes|"
+  },
+  "Mark": {
+    "connects_to": [],
+    "requires": "|Mark Harrigan|"
+  },
+  "Norman": {
+    "connects_to": [],
+    "requires": "|Norman Withers|"
+  },
+  "Silas": {
+    "connects_to": [],
+    "requires": "|Silas Marsh|"
+  },
+  "Trish": {
+    "connects_to": [],
+    "requires": "|Trish Scarborough|"
+  },
+  "Agnes": {
+    "connects_to": [],
+    "requires": "|Agnes Baker|"
+  },
+  "Daisy": {
+    "connects_to": [],
+    "requires": "|Daisy Walker|"
+  },
+  "Finn": {
+    "connects_to": [],
+    "requires": "|Finn Edwards|"
+  },
+  "George": {
+    "connects_to": [],
+    "requires": "|George Barnaby|"
+  },
+  "Patrice": {
+    "connects_to": [],
+    "requires": "|Patrice Hathaway|"
+  },
+  "Tommy": {
+    "connects_to": [],
+    "requires": "|Tommy Muldoon|"
+  },
+  "Ursula": {
+    "connects_to": [],
+    "requires": "|Ursula Downs|"
+  },
+  "Wilson": {
+    "connects_to": [],
+    "requires": "|Wilson Richards|"
+  },
+  "Marie": {
+    "connects_to": [],
+    "requires": "|Marie Lambeau|"
+  },
+  "Skids": {
+    "connects_to": [],
+    "requires": "|\"Skids\" O'Toole|"
+  },
+  "Tony": {
+    "connects_to": [],
+    "requires": "|Tony Morgan|"
+  },
+  "Zoey": {
+    "connects_to": [],
+    "requires": "|Zoey Samaras|"
+  },
+  "Hank": {
+    "connects_to": [],
+    "requires": "|Hank Samson|"
+  },
+  "Harvey": {
+    "connects_to": [],
+    "requires": "|Harvey Walters|"
+  },
+  "Joe": {
+    "connects_to": [],
+    "requires": "|Joe Diamond|"
+  },
+  "Mandy": {
+    "connects_to": [],
+    "requires": "|Mandy Thompson|"
+  },
+  "Minh": {
+    "connects_to": [],
+    "requires": "|Minh Thi Phan|"
+  },
+  "Monterey": {
+    "connects_to": [],
+    "requires": "|Monterey Jack|"
+  },
+  "Rex": {
+    "connects_to": [],
+    "requires": "|Rex Murphy|"
+  },
+  "Sister": {
+    "connects_to": [],
+    "requires": "|Sister Mary|"
+  },
+  "Dexter": {
+    "connects_to": [],
+    "requires": "|Dexter Drake|"
+  },
+  "Jenny": {
+    "connects_to": [],
+    "requires": "|Jenny Barnes|"
+  },
+  "Michael": {
+    "connects_to": [],
+    "requires": "|Michael McGlen|"
+  },
+  "Wendy": {
+    "connects_to": [],
+    "requires": "|Wendy Adams|"
+  },
+  "Amanda": {
+    "connects_to": [],
+    "requires": "|Amanda Sharpe|"
+  },
+  "Carolyn": {
+    "connects_to": [],
+    "requires": "|Carolyn Fern|"
+  },
+  "Darrel": {
+    "connects_to": [],
+    "requires": "|Darrel Simmons|"
+  },
+  "Gloria": {
+    "connects_to": [],
+    "requires": "|Gloria Goldberg|"
+  },
+  "Kate": {
+    "connects_to": [],
+    "requires": "|Kate Winthrop|"
+  },
+  "Luke": {
+    "connects_to": [],
+    "requires": "|Luke Robinson|"
+  },
+  "Vincent": {
+    "connects_to": [],
+    "requires": "|Vincent Lee|"
+  },
+  "William": {
+    "connects_to": [],
+    "requires": "|William Yorick|"
+  },
+  "Ashcan": {
+    "connects_to": [],
+    "requires": "|\"Ashcan\" Pete|"
+  },
+  "Bob": {
+    "connects_to": [],
+    "requires": "|Bob Jenkins|"
+  },
+  "Rita": {
+    "connects_to": [],
+    "requires": "|Rita Young|"
+  },
+  "Roland": {
+    "connects_to": [],
+    "requires": "|Roland Banks|"
+  },
+  "Agatha": {
+    "connects_to": [],
+    "requires": "|Agatha Crane|"
+  },
+  "Calvin": {
+    "connects_to": [],
+    "requires": "|Calvin Wright|"
+  },
+  "Carson": {
+    "connects_to": [],
+    "requires": "|Carson Sinclair|"
+  },
+  "Daniela": {
+    "connects_to": [],
+    "requires": "|Daniela Reyes|"
+  },
+  "Father": {
+    "connects_to": [],
+    "requires": "|Father Mateo|"
+  },
+  "Preston": {
+    "connects_to": [],
+    "requires": "|Preston Fairmont|"
+  },
+  "Sefina": {
+    "connects_to": [],
+    "requires": "|Sefina Rousseau|"
+  },
+  "Azathoth": {
+    "connects_to": [],
+    "requires": "|Azathoth|"
+  }
+}

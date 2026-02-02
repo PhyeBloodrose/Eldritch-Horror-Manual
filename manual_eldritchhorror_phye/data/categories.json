@@ -1,0 +1,128 @@
+{
+    "Forsaken Lore": {
+        "yaml_option": [ "Forsaken_Lore" ],
+        "hidden": true
+    },
+    "Mountains of Madness": {
+        "yaml_option": [ "Mountains_of_Madness" ],
+        "hidden": true
+    },
+    "Strange Remnants": {
+        "yaml_option": [ "Strange_Remnants" ],
+        "hidden": true
+    },
+    "Under the Pyramids": {
+        "yaml_option": [ "Under_the_Pyramids" ],
+        "hidden": true
+    },
+    "Signs of Carcosa": {
+        "yaml_option": [ "Signs_of_Carcosa" ],
+        "hidden": true
+    },
+    "The Dreamlands": {
+        "yaml_option": [ "The_Dreamlands" ],
+        "hidden": true
+    },
+    "Cities in Ruin": {
+        "yaml_option": [ "Cities_in_Ruin" ],
+        "hidden": true
+    },
+    "Personal Consequence": {
+        "yaml_option": [ "Personal_Consequence" ],
+        "hidden": true
+    },
+    "Extra_2": {
+        "yaml_option": [ "Second_Investigator" ],
+        "hidden": true
+    },
+    "Extra_3": {
+        "yaml_option": [ "Third_Investigator" ],
+        "hidden": true
+    },
+    "Extra_4": {
+        "yaml_option": [ "Fourth_Investigator" ],
+        "hidden": true
+    },
+    "Extra_5": {
+        "yaml_option": [ "Fifth_Investigator" ],
+        "hidden": true
+    },
+    "Extra_6": {
+        "yaml_option": [ "Sixth_Investigator" ],
+        "hidden": true
+    },
+    "Extra_7": {
+        "yaml_option": [ "Seventh_Investigator" ],
+        "hidden": true
+    },
+    "Extra_8": {
+        "yaml_option": [ "Eighth_Investigator" ],
+        "hidden": true
+    },
+    "Clues": {
+        "hidden": true
+    },
+    "MoM Clues": {
+        "hidden": true
+    },
+    "UtP Clues": {
+        "hidden": true
+    },
+    "DL Clues": {
+        "hidden": true
+    },
+    "City Clue": {
+        "hidden": true
+    },
+    "Wilderess Clue": {
+        "hidden": true
+    },
+    "Sea Clue": {
+        "hidden": true
+    },
+    "Item": {
+        "hidden": true
+    },
+    "Tome": {
+        "hidden": true
+    },
+    "Magical": {
+        "hidden": true
+    },
+    "Magical Weapon": {
+        "hidden": true
+    },
+    "Weapon": {
+        "hidden": true
+    },
+    "Teamwork": {
+        "hidden": true
+    },
+    "Elixir": {
+        "hidden": true
+    },
+    "Relic": {
+        "hidden": true
+    },
+    "Trinket": {
+        "hidden": true
+    },
+    "Spells": {
+        "hidden": true
+    },
+    "Incantation": {
+        "hidden": true
+    },
+    "Ritual": {
+        "hidden": true
+    },
+    "Glamour": {
+        "hidden": true
+    },
+    "AncientDefeated": {
+        "hidden": true
+    },
+    "Azathoth_Mystery": {
+        "hidden": true
+    }
+}

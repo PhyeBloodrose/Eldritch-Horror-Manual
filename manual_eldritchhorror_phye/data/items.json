@@ -1,0 +1,1827 @@
+[
+  {
+    "count": 1,
+    "name": "Abhoth",
+    "category": [
+      "Ancient Ones",
+      "Under the Pyramids"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Antediluvium",
+    "category": [
+      "Ancient Ones"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Atlach-Nacha",
+    "category": [
+      "Ancient Ones",
+      "The Dreamlands"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Azathoth",
+    "category": [
+      "Ancient Ones"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cthulhu",
+    "category": [
+      "Ancient Ones"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hastur",
+    "category": [
+      "Ancient Ones",
+      "Signs of Carcosa"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hypnos",
+    "category": [
+      "Ancient Ones",
+      "The Dreamlands"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ithaqua",
+    "category": [
+      "Ancient Ones",
+      "Mountains of Madness"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Nephren-Ka",
+    "category": [
+      "Ancient Ones",
+      "Under the Pyramids"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Nyarlathotep",
+    "category": [
+      "Ancient Ones"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rise of the Elder Things",
+    "category": [
+      "Ancient Ones",
+      "Mountains of Madness"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shub-Niggurath",
+    "category": [
+      "Ancient Ones"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shudde M'ell",
+    "category": [
+      "Ancient Ones",
+      "Cities in Ruin"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Syzygy",
+    "category": [
+      "Ancient Ones",
+      "Strange Remnants"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Yig",
+    "category": [
+      "Ancient Ones",
+      "Forsaken Lore"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Yog-Sothoth",
+    "category": [
+      "Ancient Ones"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Akachi Onyele",
+    "category": [
+      "Investigators"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Charlie Kane",
+    "category": [
+      "Investigators"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Diana Stanley",
+    "category": [
+      "Investigators"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jacqueline Fine",
+    "category": [
+      "Investigators"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jim Culver",
+    "category": [
+      "Investigators"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Leo Anderson",
+    "category": [
+      "Investigators"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lily Chen",
+    "category": [
+      "Investigators"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lola Hayes",
+    "category": [
+      "Investigators"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mark Harrigan",
+    "category": [
+      "Investigators"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Norman Withers",
+    "category": [
+      "Investigators"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Silas Marsh",
+    "category": [
+      "Investigators"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Trish Scarborough",
+    "category": [
+      "Investigators"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Agnes Baker",
+    "category": [
+      "Investigators",
+      "Mountains of Madness"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Daisy Walker",
+    "category": [
+      "Investigators",
+      "Mountains of Madness"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Finn Edwards",
+    "category": [
+      "Investigators",
+      "Mountains of Madness"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "George Barnaby",
+    "category": [
+      "Investigators",
+      "Mountains of Madness"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Patrice Hathaway",
+    "category": [
+      "Investigators",
+      "Mountains of Madness"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tommy Muldoon",
+    "category": [
+      "Investigators",
+      "Mountains of Madness"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ursula Downs",
+    "category": [
+      "Investigators",
+      "Mountains of Madness"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wilson Richards",
+    "category": [
+      "Investigators",
+      "Mountains of Madness"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Marie Lambeau",
+    "category": [
+      "Investigators",
+      "Strange Remnants"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "\"Skids\" O'Toole",
+    "category": [
+      "Investigators",
+      "Strange Remnants"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tony Morgan",
+    "category": [
+      "Investigators",
+      "Strange Remnants"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Zoey Samaras",
+    "category": [
+      "Investigators",
+      "Strange Remnants"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hank Samson",
+    "category": [
+      "Investigators",
+      "Under the Pyramids"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Harvey Walters",
+    "category": [
+      "Investigators",
+      "Under the Pyramids"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Joe Diamond",
+    "category": [
+      "Investigators",
+      "Under the Pyramids"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mandy Thompson",
+    "category": [
+      "Investigators",
+      "Under the Pyramids"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Minh Thi Phan",
+    "category": [
+      "Investigators",
+      "Under the Pyramids"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Monterey Jack",
+    "category": [
+      "Investigators",
+      "Under the Pyramids"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rex Murphy",
+    "category": [
+      "Investigators",
+      "Under the Pyramids"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sister Mary",
+    "category": [
+      "Investigators",
+      "Under the Pyramids"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dexter Drake",
+    "category": [
+      "Investigators",
+      "Signs of Carcosa"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jenny Barnes",
+    "category": [
+      "Investigators",
+      "Signs of Carcosa"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Michael McGlen",
+    "category": [
+      "Investigators",
+      "Signs of Carcosa"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wendy Adams",
+    "category": [
+      "Investigators",
+      "Signs of Carcosa"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Amanda Sharpe",
+    "category": [
+      "Investigators",
+      "The Dreamlands"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Carolyn Fern",
+    "category": [
+      "Investigators",
+      "The Dreamlands"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Darrel Simmons",
+    "category": [
+      "Investigators",
+      "The Dreamlands"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gloria Goldberg",
+    "category": [
+      "Investigators",
+      "The Dreamlands"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kate Winthrop",
+    "category": [
+      "Investigators",
+      "The Dreamlands"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Luke Robinson",
+    "category": [
+      "Investigators",
+      "The Dreamlands"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vincent Lee",
+    "category": [
+      "Investigators",
+      "The Dreamlands"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "William Yorick",
+    "category": [
+      "Investigators",
+      "The Dreamlands"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "\"Ashcan\" Pete",
+    "category": [
+      "Investigators",
+      "Cities in Ruins"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bob Jenkins",
+    "category": [
+      "Investigators",
+      "Cities in Ruins"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rita Young",
+    "category": [
+      "Investigators",
+      "Cities in Ruins"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Roland Banks",
+    "category": [
+      "Investigators",
+      "Cities in Ruins"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Agatha Crane",
+    "category": [
+      "Investigators"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Calvin Wright",
+    "category": [
+      "Investigators"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Carson Sinclair",
+    "category": [
+      "Investigators"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Daniela Reyes",
+    "category": [
+      "Investigators"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Father Mateo",
+    "category": [
+      "Investigators"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Preston Fairmont",
+    "category": [
+      "Investigators"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sefina Rousseau",
+    "category": [
+      "Investigators"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (The Amazon)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "Wilderness Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Antartica)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "Sea Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Arkham)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Buenos Aires)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (The Himalayas)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "Wilderness Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Heart of Africa)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "Wilderness Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Istanbul)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (London)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (The Pyramids)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "Wilderness Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Rome)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (San Francisco)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Shanghai)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Sydney)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Tokyo)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Tunguska)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "Wilderness Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Space 1)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Space 2)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "Sea Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Space 3)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "Sea Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Space 4)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "Wilderness Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Space 5)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Space 6)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Space 7)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Space 8)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "Sea Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Space 9)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "Wilderness Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Space 10)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "Wilderness Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Space 11)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "Sea Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Space 12)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "Sea Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Space 13)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "Sea Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Space 14)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Space 15)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Space 16)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Space 17)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Space 18)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "Sea Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Space 19)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "Wilderness Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Space 20)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Space 21)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "Wilderness Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (City of the Elder Things)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "MoM Clues",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Frozen Waste)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "MoM Clues",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Lake Camp)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "MoM Clues",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Miscatonic Outpost)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "MoM Clues",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Plateau of Leng)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "MoM Clues",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Snowy Mountains)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "MoM Clues",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Alexandria)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "UtP Clues",
+        "Under the Pyramids",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (The Bent Pyramid)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "UtP Clues",
+        "Under the Pyramids",
+        "Wilderness Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Cairo)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "UtP Clues",
+        "Under the Pyramids",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (The Nile River)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "UtP Clues",
+        "Under the Pyramids",
+        "Wilderness Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (The Sahara Desert)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "UtP Clues",
+        "Under the Pyramids",
+        "Wilderness Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Tel El-Amarna)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "UtP Clues",
+        "Under the Pyramids",
+        "Wilderness Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Celephais)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "DL Clues",
+        "The Dreamlands",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Dylath-Leen)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "DL Clues",
+        "The Dreamlands",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (The Enchanted Wood)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "DL Clues",
+        "The Dreamlands",
+        "Wilderness Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (The Moon)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "DL Clues",
+        "The Dreamlands",
+        "Wilderness Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Ulthar)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "DL Clues",
+        "The Dreamlands",
+        "City Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (The Underworld)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "DL Clues",
+        "The Dreamlands",
+        "Wilderness Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clue (Unknown Kadath)",
+    "category": [
+        "Clue Pool",
+        "Clues",
+        "DL Clues",
+        "The Dreamlands",
+        "Wilderness Clue"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Cultes des Goules",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Tome"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "De Vermis Mysteriis",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Tome"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Flute of the Other Gods",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Gate Box",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Glass of Mortlan",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Grotesque Statue",
+    "category": [
+        "Artifact Deck",
+        "Item"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lightning Gun",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical Weapon"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mi-go Brain Case",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical",
+        "Teamwork"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Necronomicon",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Tome"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Pallid Mask",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ruby of R'lyeh",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Sword of Saint Jerome",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical Weapon"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "T'tka Halot",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Tome"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "The Silver Key",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Cursed Sphere",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Elixir of Life",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Elixir",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Massa di Requiem per Shuggay",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Tome",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Milk of Shub-Niggurath",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Elixir",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Satchel of the Void",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Serpent Crown",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Sword of Y'ha-Talla",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical Weapon",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Zanthu Tablets",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Tome",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Alien Device",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Crystal of the Elder Things",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Dhol Chants",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Tome",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Eltdown Shards",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Tome",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Heart of Winter",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Hyperborean Crystal",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Livre d'lvon",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Tome",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Pnakotic Manuscripts",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Tome",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Bone Pipes",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Dragon Idol",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical",
+        "Relic",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Khopesh of the Abyss",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical Weapon",
+        "Relic",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mask of the Watcher",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Book of the Dead",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Relic",
+        "Tome",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Scales of Thoth",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Relic",
+        "Magical",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Shining Trapezohedron",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Twin Scepters",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical",
+        "Relic",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Key to Carcosa",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "King in Yellow",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Tome",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mask of Sthenelus",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical",
+        "Relic",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Tattered Cloak",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Crux of Cykranosh",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Crystallizer of Dreams",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical",
+        "Teamwork",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Elder Key",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Tome",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Pentacle of Planes",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Fetch Stick",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical Weapon",
+        "Cities in Ruins"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "G'harne Fragments",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Relic",
+        "Tome",
+        "Cities in Ruins"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Tikkouen Elixir",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Elixir",
+        "Cities in Ruins"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Vach-Viraj Chant",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical",
+        "Tome",
+        "Cities in Ruins"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Black Book",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Tome"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Black Fan",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Magical"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Hemisphere Map",
+    "category": [
+        "Artifact Deck",
+        "Item"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "True Magick",
+    "category": [
+        "Artifact Deck",
+        "Item",
+        "Tome"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "I'm a Spell",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Incantation",
+        "Ritual",
+        "Glamour"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "I'm a Spell 2",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Incantation",
+        "Ritual",
+        "Glamour"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "I'm a Spell 3",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Incantation",
+        "Ritual",
+        "Glamour"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "I'm a Spell 4",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Incantation",
+        "Ritual",
+        "Glamour"
+    ],
+    "progression_skip_balancing": true
+  }
+]

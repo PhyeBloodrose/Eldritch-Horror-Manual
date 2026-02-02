@@ -1,0 +1,156 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "user": {
+        "Short_Game": {
+            "description": [
+                "This will require you to defeat 3 Ancient Ones instead of the usual 6"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Options"
+        },
+        "Personal_Consequence": {
+            "description": [
+                "This will add Personal Stories' Consequences as checks.",
+                "Be aware this may force you to play an investigator several times!"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Options"
+        },
+        "Forsaken_Lore": {
+            "description": [
+                "This will add the 'Forsaken Lore' expansion into the pool."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Expansions"
+        },
+        "Mountains_of_Madness": {
+            "description": [
+                "This will add the 'Mountains of Madness' expansion into the pool."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Expansions"
+        },
+        "Strange_Remnants": {
+            "description": [
+                "This will add the 'Strange Remnants' expansion into the pool."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Expansions"
+        },
+        "Under_the_Pyramids": {
+            "description": [
+                "This will add the 'Under the Pyramids' expansion into the pool."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Expansions"
+        },
+        "Signs_of_Carcosa": {
+            "description": [
+                "This will add the 'Signs of Carcosa' expansion into the pool."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Expansions"
+        },
+        "The_Dreamlands": {
+            "description": [
+                "This will add the 'The Dreamlands' expansion into the pool."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Expansions"
+        },
+        "Cities_in_Ruin": {
+            "description": [
+                "This will add the 'Cities in Ruin' expansion into the pool."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Expansions"
+        },
+        "Second_Investigator": {
+            "description": [
+                "Starts the Game with another investigator."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Starting Investigators - PICK AS MANY YOU WANT EXTRA TO START WITH!"
+        },
+        "Third_Investigator": {
+            "description": [
+                "Starts the Game with another investigator."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Starting Investigators - PICK AS MANY YOU WANT EXTRA TO START WITH!"
+        },
+        "Fourth_Investigator": {
+            "description": [
+                "Starts the Game with another investigator."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Starting Investigators - PICK AS MANY YOU WANT EXTRA TO START WITH!"
+        },
+        "Fifth_Investigator": {
+            "description": [
+                "Starts the Game with another investigator."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Starting Investigators - PICK AS MANY YOU WANT EXTRA TO START WITH!"
+        },
+        "Sixth_Investigator": {
+            "description": [
+                "Starts the Game with another investigator."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Starting Investigators - PICK AS MANY YOU WANT EXTRA TO START WITH!"
+        },
+        "Seventh_Investigator": {
+            "description": [
+                "Starts the Game with another investigator."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Starting Investigators - PICK AS MANY YOU WANT EXTRA TO START WITH!"
+        },
+        "Eighth_Investigator": {
+            "description": [
+                "Starts the Game with another investigator."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Starting Investigators - PICK AS MANY YOU WANT EXTRA TO START WITH!"
+        }
+    }
+
+}

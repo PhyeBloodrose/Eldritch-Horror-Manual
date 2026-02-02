@@ -1,0 +1,2136 @@
+[
+  {
+    "name": "Starting Investigator",
+    "region": "General Region",
+    "category": [
+      "Starting Stuff"
+    ],
+    "requires": "",
+    "place_item_category": [
+      "Investigators"
+    ]
+  },
+  {
+    "name": "Second Starting Investigator",
+    "region": "General Region",
+    "category": [
+        "Starting Stuff",
+        "Extra_2"
+    ],
+    "requires": "",
+    "place_item_category": [
+        "Investigators"
+    ]
+  },
+  {
+    "name": "Third Starting Investigator",
+    "region": "General Region",
+    "category": [
+        "Starting Stuff",
+        "Extra_3"
+    ],
+    "requires": "",
+    "place_item_category": [
+        "Investigators"
+    ]
+  },
+  {
+    "name": "Fourth Starting Investigator",
+    "region": "General Region",
+    "category": [
+        "Starting Stuff",
+        "Extra_4"
+    ],
+    "requires": "",
+    "place_item_category": [
+        "Investigators"
+    ]
+  },
+  {
+    "name": "Fifth Starting Investigator",
+    "region": "General Region",
+    "category": [
+        "Starting Stuff",
+        "Extra_5"
+    ],
+    "requires": "",
+    "place_item_category": [
+      "Investigators"
+    ]
+  },
+  {
+    "name": "Sixth Starting Investigator",
+    "region": "General Region",
+    "category": [
+        "Starting Stuff",
+        "Extra_6"
+    ],
+    "requires": "",
+    "place_item_category": [
+      "Investigators"
+    ]
+  },
+  {
+    "name": "Seventh Starting Investigator",
+    "region": "General Region",
+    "category": [
+        "Starting Stuff",
+        "Extra_7"
+    ],
+    "requires": "",
+    "place_item_category": [
+      "Investigators"
+    ]
+  },
+  {
+    "name": "Eighth Starting Investigator",
+    "region": "General Region",
+    "category": [
+        "Starting Stuff",
+        "Extra_8"
+    ],
+    "requires": "",
+    "place_item_category": [
+      "Investigators"
+    ]
+  },
+  {
+    "name": "First Starting Ancient One",
+    "region": "General Region",
+    "category": [
+      "Starting Stuff"
+    ],
+    "requires": "",
+    "place_item_category": [
+      "Ancient Ones"
+    ]
+  },
+  {
+    "name": "Second Starting Ancient One",
+    "region": "General Region",
+    "category": [
+      "Starting Stuff"
+    ],
+    "requires": "",
+    "place_item_category": [
+      "Ancient Ones"
+    ]
+  },
+  {
+    "name": "Starting Clue Pool 1",
+    "region": "General Region",
+    "category": [
+      "Starting Stuff"
+    ],
+    "requires": "",
+    "place_item_category": [
+      "Clues"
+    ]
+  },
+  {
+    "name": "Starting Clue Pool 2",
+    "region": "General Region",
+    "category": [
+      "Starting Stuff"
+    ],
+    "requires": "",
+    "place_item_category": [
+      "Clues"
+    ]
+  },
+  {
+    "name": "Akachi Onyele - Starting Equipment 1",
+    "region": "Akachi",
+    "category": [
+      "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Akachi Onyele - Starting Equipment 2",
+    "region": "Akachi",
+    "category": [
+      "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Akachi Onyele - Guardian of the Veil - The Earth Speaks",
+    "region": "Akachi",
+    "category": [
+      "Personal Stories"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Akachi Onyele - Guardian of the Veil - The Earth's Anger",
+    "region": "Akachi",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Charlie Kane - Starting Equipment",
+    "region": "Charlie",
+    "category": [
+      "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Charlie Kane - Citizen Kane - Kane for Office!",
+    "region": "Charlie",
+    "category": [
+      "Personal Stories"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Charlie Kane - Citizen Kane - Dark Times",
+    "region": "Charlie",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Diana Stanley - Starting Equipment 1",
+    "region": "Diana",
+    "category": [
+      "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Diana Stanley - Starting Equipment 2",
+    "region": "Diana",
+    "category": [
+      "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Diana Stanley - Bound by the Past - Redeemed",
+    "region": "Diana",
+    "category": [
+      "Personal Stories"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Diana Stanley - Bound by the Past - One of Us",
+    "region": "Diana",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jacqueline Fine - Starting Equipment 1",
+    "region": "Jacqueline",
+    "category": [
+      "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jacqueline Fine - Starting Equipment 2",
+    "region": "Jacqueline",
+    "category": [
+      "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jacqueline Fine - Arbiter of Fate - Oracle",
+    "region": "Jacqueline",
+    "category": [
+      "Personal Stories"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jacqueline Fine - Arbiter of Fate - Dark Future",
+    "region": "Jacqueline",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jim Culver - Starting Equipment 1",
+    "region": "Jim",
+    "category": [
+      "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jim Culver - Starting Equipment 2",
+    "region": "Jim",
+    "category": [
+      "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jim Culver - Dead Rising - Sweet Harmony",
+    "region": "Jim",
+    "category": [
+      "Personal Stories"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jim Culver - Dead Rising - Out of Tune",
+    "region": "Jim",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Leo Anderson - Starting Equipment",
+    "region": "Leo",
+    "category": [
+      "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Leo Anderson - The Expedition - Full Party",
+    "region": "Leo",
+    "category": [
+      "Personal Stories"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Leo Anderson - The Expedition - All Your Fault",
+    "region": "Leo",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Lily Chen - Starting Equipment 1",
+    "region": "Lily",
+    "category": [
+      "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Lily Chen - Starting Equipment 2",
+    "region": "Lily",
+    "category": [
+      "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Lily Chen - All That Stands - The Chosen One",
+    "region": "Lily",
+    "category": [
+      "Personal Stories"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Lily Chen - All That Stands - Doomed to Failure",
+    "region": "Lily",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Lola Hayes - Starting Equipment",
+    "region": "Lola",
+    "category": [
+      "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Lola Hayes - In the Limelight - Method Acting",
+    "region": "Lola",
+    "category": [
+      "Personal Stories"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Lola Hayes - In the Limelight - Denouement",
+    "region": "Lola",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mark Harrigan - Starting Equipment 1",
+    "region": "Mark",
+    "category": [
+      "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mark Harrigan - Starting Equipment 2",
+    "region": "Mark",
+    "category": [
+      "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mark Harrigan - Shadowed Heart - A Reason to Live",
+    "region": "Mark",
+    "category": [
+      "Personal Stories"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mark Harrigan - Shadowed Heart - Total Abandon",
+    "region": "Mark",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Norman Withers - Starting Equipment",
+    "region": "Norman",
+    "category": [
+      "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Norman Withers - Written in the Stars - As Foretold",
+    "region": "Norman",
+    "category": [
+      "Personal Stories"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Norman Withers - Written in the Stars - Discredited",
+    "region": "Norman",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Silas Marsh - Starting Equipment",
+    "region": "Silas",
+    "category": [
+      "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Silas Marsh - The Call - Smooth Sailing",
+    "region": "Silas",
+    "category": [
+      "Personal Stories"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Silas Marsh - The Call - Dark Depths",
+    "region": "Silas",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Trish Scarborough - Starting Equipment",
+    "region": "Trish",
+    "category": [
+      "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Trish Scarborough - Cracking the Code - Breaking the Limits",
+    "region": "Trish",
+    "category": [
+      "Personal Stories"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Trish Scarborough - Cracking the Code - Shadows",
+    "region": "Trish",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Agnes Baker - Starting Equipment 1",
+    "region": "Agnes",
+    "category": [
+        "Investigator Unlocks",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Agnes Baker - Starting Equipment 2",
+    "region": "Agnes",
+    "category": [
+        "Investigator Unlocks",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Agnes Baker - In a Past Life - Blood Awakened",
+    "region": "Agnes",
+    "category": [
+        "Personal Stories",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Agnes Baker - In a Past Life - History Repeats",
+    "region": "Agnes",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Daisy Walker - Starting Equipment 1",
+    "region": "Daisy",
+    "category": [
+        "Investigator Unlocks",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Daisy Walker - Starting Equipment 2",
+    "region": "Daisy",
+    "category": [
+        "Investigator Unlocks",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Daisy Walker - Unknown Secrets - The Missing Book",
+    "region": "Daisy",
+    "category": [
+        "Personal Stories",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Daisy Walker - Unknown Secrets - Anterograde Amnesia",
+    "region": "Daisy",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Finn Edwards - Starting Equipment 1",
+    "region": "Finn",
+    "category": [
+        "Investigator Unlocks",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Finn Edwards - Starting Equipment 2",
+    "region": "Finn",
+    "category": [
+        "Investigator Unlocks",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Finn Edwards - Starting Equipment 3",
+    "region": "Finn",
+    "category": [
+        "Investigator Unlocks",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Finn Edwards - Don't Get Caught - Notorious Smuggler",
+    "region": "Finn",
+    "category": [
+        "Personal Stories",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Finn Edwards - Don't Get Caught - Known Criminal",
+    "region": "Finn",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "George Barnaby - Starting Equipment 1",
+    "region": "George",
+    "category": [
+        "Investigator Unlocks",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "George Barnaby - Starting Equipment 2",
+    "region": "George",
+    "category": [
+        "Investigator Unlocks",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "George Barnaby - My Sweet Maria - Justice",
+    "region": "George",
+    "category": [
+        "Personal Stories",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "George Barnaby - My Sweet Maria - Lost and Alone",
+    "region": "George",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Patrice Hathaway - Starting Equipment 1",
+    "region": "Patrice",
+    "category": [
+        "Investigator Unlocks",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Patrice Hathaway - Starting Equipment 2",
+    "region": "Patrice",
+    "category": [
+        "Investigator Unlocks",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Patrice Hathaway - Cadenza - Inspiring Virtuoso",
+    "region": "Patrice",
+    "category": [
+        "Personal Stories",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Patrice Hathaway - Cadenza - Chant du Cygne",
+    "region": "Patrice",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tommy Muldoon - Starting Equipment",
+    "region": "Tommy",
+    "category": [
+        "Investigator Unlocks",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tommy Muldoon - We Need a Hero! - Valiant Protector",
+    "region": "Tommy",
+    "category": [
+        "Personal Stories",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tommy Muldoon - We Need a Hero! - Not Good Enough",
+    "region": "Tommy",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ursula Downs - Starting Equipment",
+    "region": "Ursula",
+    "category": [
+        "Investigator Unlocks",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ursula Downs - Next Big Discovery - Renowned",
+    "region": "Ursula",
+    "category": [
+        "Personal Stories",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ursula Downs - Next Big Discovery - Pandora's Box",
+    "region": "Ursula",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Wilson Richards - Starting Equipment",
+    "region": "Wilson",
+    "category": [
+        "Investigator Unlocks",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Wilson Richards - Heckuva Job - Jack of All Trades",
+    "region": "Wilson",
+    "category": [
+        "Personal Stories",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Wilson Richards - Heckuva Job - Too Little, Too Late",
+    "region": "Wilson",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Mountains of Madness"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Marie Lambeau - Starting Equipment 1",
+    "region": "Marie",
+    "category": [
+        "Investigator Unlocks",
+        "Strange Remnants"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Marie Lambeau - Starting Equipment 2",
+    "region": "Marie",
+    "category": [
+        "Investigator Unlocks",
+        "Strange Remnants"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Marie Lambeau - Grand-mere's Warning - Smokey Velvet",
+    "region": "Marie",
+    "category": [
+        "Personal Stories",
+        "Strange Remnants"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Marie Lambeau - Grand-mere's Warning - Evil of Old",
+    "region": "Marie",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Strange Remnants"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "\"Skids\" O'Toole - Starting Equipment",
+    "region": "Skids",
+    "category": [
+        "Investigator Unlocks",
+        "Strange Remnants"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "\"Skids\" O'Toole - Leave it to Chance - Lucky Seven",
+    "region": "Skids",
+    "category": [
+        "Personal Stories",
+        "Strange Remnants"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "\"Skids\" O'Toole - Leave it to Chance - Snake Eyes",
+    "region": "Skids",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Strange Remnants"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tony Morgan - Starting Equipment",
+    "region": "Tony",
+    "category": [
+        "Investigator Unlocks",
+        "Strange Remnants"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tony Morgan - Thrill of the Hunt - Trophy Hunter",
+    "region": "Tony",
+    "category": [
+        "Personal Stories",
+        "Strange Remnants"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tony Morgan - Thrill of the Hunt - Blacklisted",
+    "region": "Tony",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Strange Remnants"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Zoey Samaras - Starting Equipment",
+    "region": "Zoey",
+    "category": [
+        "Investigator Unlocks",
+        "Strange Remnants"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Zoey Samaras - In His Name - Crusade",
+    "region": "Zoey",
+    "category": [
+        "Personal Stories",
+        "Strange Remnants"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Zoey Samaras - In His Name - Gone Astray",
+    "region": "Zoey",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Strange Remnants"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Hank Samson - Starting Equipment",
+    "region": "Hank",
+    "category": [
+        "Investigator Unlocks",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Hank Samson - Where's Pa? - I found Pa!",
+    "region": "Hank",
+    "category": [
+        "Personal Stories",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Hank Samson - Where's Pa? - Congenital Analgesia",
+    "region": "Hank",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Harvey Walters - Starting Equipment",
+    "region": "Harvey",
+    "category": [
+        "Investigator Unlocks",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Harvey Walters - Higher Education - Eureka!",
+    "region": "Harvey",
+    "category": [
+        "Personal Stories",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Harvey Walters - Higher Education - Worse than I Feared",
+    "region": "Harvey",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Joe Diamond - Starting Equipment",
+    "region": "Joe",
+    "category": [
+        "Investigator Unlocks",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Joe Diamond - Finish the Job - Hardboiled",
+    "region": "Joe",
+    "category": [
+        "Personal Stories",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Joe Diamond - Finish the Job - Cold Case",
+    "region": "Joe",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mandy Thompson - Starting Equipment 1",
+    "region": "Mandy",
+    "category": [
+        "Investigator Unlocks",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mandy Thompson - Starting Equipment 2",
+    "region": "Mandy",
+    "category": [
+        "Investigator Unlocks",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mandy Thompson - Connect the Dots - The Answer is Clear",
+    "region": "Mandy",
+    "category": [
+        "Personal Stories",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mandy Thompson - Connect the Dots - Inevitability",
+    "region": "Mandy",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Minh Thi Phan - Starting Equipment 1",
+    "region": "Minh",
+    "category": [
+        "Investigator Unlocks",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Minh Thi Phan - Starting Equipment 2",
+    "region": "Minh",
+    "category": [
+        "Investigator Unlocks",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Minh Thi Phan - Alone and Afraid - Loyalty",
+    "region": "Minh",
+    "category": [
+        "Personal Stories",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Minh Thi Phan - Alone and Afraid - Falling Apart",
+    "region": "Minh",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Monterey Jack - Starting Equipment 1",
+    "region": "Monterey",
+    "category": [
+        "Investigator Unlocks",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Monterey Jack - Starting Equipment 2",
+    "region": "Monterey",
+    "category": [
+        "Investigator Unlocks",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Monterey Jack - Searching Ages Past - Nothing Stays Hidden",
+    "region": "Monterey",
+    "category": [
+        "Personal Stories",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Monterey Jack - Searching Ages Past - Dug Too Deep",
+    "region": "Monterey",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rex Murphy - Starting Equipment",
+    "region": "Rex",
+    "category": [
+        "Investigator Unlocks",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rex Murphy - Dispelling the Curse - Curse Lifted",
+    "region": "Rex",
+    "category": [
+        "Personal Stories",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rex Murphy - Dispelling the Curse - Downward Spiral",
+    "region": "Rex",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sister Mary - Starting Equipment",
+    "region": "Sister",
+    "category": [
+        "Investigator Unlocks",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sister Mary - He is My Shepherd - Fear No Evil",
+    "region": "Sister",
+    "category": [
+        "Personal Stories",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sister Mary - He is My Shepherd - Faith Shaken",
+    "region": "Sister",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Under the Pyramids"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Dexter Drake - Starting Equipment 1",
+    "region": "Dexter",
+    "category": [
+        "Investigator Unlocks",
+        "Signs of Carcosa"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Dexter Drake - Starting Equipment 2",
+    "region": "Dexter",
+    "category": [
+        "Investigator Unlocks",
+        "Signs of Carcosa"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Dexter Drake - The Great Drake - Sorcerer Supreme",
+    "region": "Dexter",
+    "category": [
+        "Personal Stories",
+        "Signs of Carcosa"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Dexter Drake - The Great Drake - Delve Too Deep",
+    "region": "Dexter",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Signs of Carcosa"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jenny Barnes - Starting Equipment 1",
+    "region": "Jenny",
+    "category": [
+        "Investigator Unlocks",
+        "Signs of Carcosa"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jenny Barnes - Starting Equipment 2",
+    "region": "Jenny",
+    "category": [
+        "Investigator Unlocks",
+        "Signs of Carcosa"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jenny Barnes - Search for Isabelle - Isabelle",
+    "region": "Jenny",
+    "category": [
+        "Personal Stories",
+        "Signs of Carcosa"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jenny Barnes - Search for Isabelle - Too Late",
+    "region": "Jenny",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Signs of Carcosa"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Michael McGlen - Starting Equipment",
+    "region": "Michael",
+    "category": [
+        "Investigator Unlocks",
+        "Signs of Carcosa"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Michael McGlen - Oath of Vengeance - For Louie",
+    "region": "Michael",
+    "category": [
+        "Personal Stories",
+        "Signs of Carcosa"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Michael McGlen - Oath of Vengeance - On the Run",
+    "region": "Michael",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Signs of Carcosa"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Wendy Adams - Starting Equipment",
+    "region": "Wendy",
+    "category": [
+        "Investigator Unlocks",
+        "Signs of Carcosa"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Wendy Adams - Memento - Reunited",
+    "region": "Wendy",
+    "category": [
+        "Personal Stories",
+        "Signs of Carcosa"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Wendy Adams - Memento - Downtrodden",
+    "region": "Wendy",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Signs of Carcosa"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Amanda Sharpe - Starting Equipment",
+    "region": "Amanda",
+    "category": [
+        "Investigator Unlocks",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Amanda Sharpe - Dreaming of R'lyeh - Honor Student",
+    "region": "Amanda",
+    "category": [
+        "Personal Stories",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Amanda Sharpe - Dreaming of R'lyeh - Deep Destiny",
+    "region": "Amanda",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Carolyn Fern - Starting Equipment 1",
+    "region": "Carolyn",
+    "category": [
+        "Investigator Unlocks",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Carolyn Fern - Starting Equipment 2",
+    "region": "Carolyn",
+    "category": [
+        "Investigator Unlocks",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Carolyn Fern - Final Analysis - Missing Link",
+    "region": "Carolyn",
+    "category": [
+        "Personal Stories",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Carolyn Fern - Final Analysis - Growing Unrest",
+    "region": "Carolyn",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Darrel Simmons - Starting Equipment 1",
+    "region": "Darrel",
+    "category": [
+        "Investigator Unlocks",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Darrel Simmons - Starting Equipment 2",
+    "region": "Darrel",
+    "category": [
+        "Investigator Unlocks",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Darrel Simmons - A Thousand Words - Photographic Proof",
+    "region": "Darrel",
+    "category": [
+        "Personal Stories",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Darrel Simmons - A Thousand Words - The Film is Ruined",
+    "region": "Darrel",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Gloria Goldberg - Starting Equipment 1",
+    "region": "Gloria",
+    "category": [
+        "Investigator Unlocks",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Gloria Goldberg - Starting Equipment 2",
+    "region": "Gloria",
+    "category": [
+        "Investigator Unlocks",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Gloria Goldberg - Based on a True Story - Inspiration",
+    "region": "Gloria",
+    "category": [
+        "Personal Stories",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Gloria Goldberg - Based on a True Story - Captivated",
+    "region": "Gloria",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kate Winthrop - Starting Equipment 1",
+    "region": "Kate",
+    "category": [
+        "Investigator Unlocks",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kate Winthrop - Starting Equipment 2",
+    "region": "Kate",
+    "category": [
+        "Investigator Unlocks",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kate Winthrop - Resonance - I Understand!",
+    "region": "Kate",
+    "category": [
+        "Personal Stories",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kate Winthrop - Resonance - Not Again",
+    "region": "Kate",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Luke Robinson - Starting Equipment 1",
+    "region": "Luke",
+    "category": [
+        "Investigator Unlocks",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Luke Robinson - Starting Equipment 2",
+    "region": "Luke",
+    "category": [
+        "Investigator Unlocks",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Luke Robinson - Shadow of Doubt - Dreamer",
+    "region": "Luke",
+    "category": [
+        "Personal Stories",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Luke Robinson - Shadow of Doubt - Insomnia",
+    "region": "Luke",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Vincent Lee - Starting Equipment",
+    "region": "Vincent",
+    "category": [
+        "Investigator Unlocks",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Vincent Lee - The Doctor is In - Do No Harm",
+    "region": "Vincent",
+    "category": [
+        "Personal Stories",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Vincent Lee - The Doctor is In - Mortal Wounds",
+    "region": "Vincent",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "William Yorick - Starting Equipment 1",
+    "region": "William",
+    "category": [
+        "Investigator Unlocks",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "William Yorick - Starting Equipment 2",
+    "region": "William",
+    "category": [
+        "Investigator Unlocks",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "William Yorick - To Be Or Not To Be - Commitment",
+    "region": "William",
+    "category": [
+        "Personal Stories",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "William Yorick - To Be Or Not To Be - Alas, Poor Yorick",
+    "region": "William",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "The Dreamlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "\"Ashcan\" Pete - Starting Equipment 1",
+    "region": "Ashcan",
+    "category": [
+        "Investigator Unlocks",
+        "Cities in Ruins"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "\"Ashcan\" Pete - Starting Equipment 2",
+    "region": "Ashcan",
+    "category": [
+        "Investigator Unlocks",
+        "Cities in Ruins"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "\"Ashcan\" Pete - Powerful Nightmares - Sweet Dreams",
+    "region": "Ashcan",
+    "category": [
+        "Personal Stories",
+        "Cities in Ruins"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "\"Ashcan\" Pete - Powerful Nightmares - Barely Holding On",
+    "region": "Ashcan",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Cities in Ruins"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Bob Jenkins - Starting Equipment 1",
+    "region": "Bob",
+    "category": [
+        "Investigator Unlocks",
+        "Cities in Ruins"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Bob Jenkins - Starting Equipment 2",
+    "region": "Bob",
+    "category": [
+        "Investigator Unlocks",
+        "Cities in Ruins"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Bob Jenkins - Doing Business - Jackpot!",
+    "region": "Bob",
+    "category": [
+        "Personal Stories",
+        "Cities in Ruins"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Bob Jenkins - Doing Business - Greed",
+    "region": "Bob",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Cities in Ruins"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rita Young - Starting Equipment",
+    "region": "Rita",
+    "category": [
+        "Investigator Unlocks",
+        "Cities in Ruins"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rita Young - Through Prejudice - The Comeback",
+    "region": "Rita",
+    "category": [
+        "Personal Stories",
+        "Cities in Ruins"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rita Young - Through Prejudice - Leave Me Alone!",
+    "region": "Rita",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Cities in Ruins"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Roland Banks - Starting Equipment 1",
+    "region": "Roland",
+    "category": [
+        "Investigator Unlocks",
+        "Cities in Ruins"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Roland Banks - Starting Equipment 2",
+    "region": "Roland",
+    "category": [
+        "Investigator Unlocks",
+        "Cities in Ruins"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Roland Banks - The Truth is Out There - By the Book",
+    "region": "Roland",
+    "category": [
+        "Personal Stories",
+        "Cities in Ruins"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Roland Banks - The Truth is Out There - Early Retirement",
+    "region": "Roland",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence",
+        "Cities in Ruins"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Agatha Crane - Starting Equipment 1",
+    "region": "Agatha",
+    "category": [
+        "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Agatha Crane - Starting Equipment 2",
+    "region": "Agatha",
+    "category": [
+        "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Agatha Crane - The Scientific Method - Rational Explanation",
+    "region": "Agatha",
+    "category": [
+        "Personal Stories"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Agatha Crane - The Scientific Method - Superstition",
+    "region": "Agatha",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Calvin Wright - Starting Equipment 1",
+    "region": "Calvin",
+    "category": [
+        "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Calvin Wright - Starting Equipment 2",
+    "region": "Calvin",
+    "category": [
+        "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Calvin Wright - A Friend Indeed - Calvin's Will",
+    "region": "Calvin",
+    "category": [
+        "Personal Stories"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Calvin Wright - A Friend Indeed - Calvin's Demons",
+    "region": "Calvin",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Carson Sinclair - Starting Equipment 1",
+    "region": "Carson",
+    "category": [
+        "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Carson Sinclair - Starting Equipment 2",
+    "region": "Carson",
+    "category": [
+        "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Carson Sinclair - Seeking Answers - Loyal Friend",
+    "region": "Carson",
+    "category": [
+        "Personal Stories"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Carson Sinclair - Seeking Answers - Failed Again",
+    "region": "Carson",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Daniela Reyes - Starting Equipment",
+    "region": "Daniela",
+    "category": [
+        "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Daniela Reyes - The Shape of Things - Resourceful",
+    "region": "Daniela",
+    "category": [
+        "Personal Stories"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Daniela Reyes - The Shape of Things - Superstitious",
+    "region": "Daniela",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Father Mateo - Starting Equipment",
+    "region": "Father",
+    "category": [
+        "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Father Mateo - In Nomine Patris - Charitable Father",
+    "region": "Father",
+    "category": [
+        "Personal Stories"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Father Mateo - In Nomine Patris - Undeniable",
+    "region": "Father",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Preston Fairmont - Starting Equipment",
+    "region": "Preston",
+    "category": [
+        "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Preston Fairmont - Wealth Without Work - Philanthropy",
+    "region": "Preston",
+    "category": [
+        "Personal Stories"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Preston Fairmont - Wealth Without Work - Festering Greed",
+    "region": "Preston",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sefina Rousseau - Starting Equipment 1",
+    "region": "Sefina",
+    "category": [
+        "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sefina Rousseau - Starting Equipment 2",
+    "region": "Sefina",
+    "category": [
+        "Investigator Unlocks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sefina Rousseau - Calling - The Painted World",
+    "region": "Sefina",
+    "category": [
+        "Personal Stories"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sefina Rousseau - Calling - Lost Reality",
+    "region": "Sefina",
+    "category": [
+        "Personal Stories",
+        "Personal Consequence"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Successful General City Encounter",
+    "region": "General Region",
+    "category": [
+        "Investigator Encounters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Successful General Wilderness Encounter",
+    "region": "General Region",
+    "category": [
+        "Investigator Encounters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Successful General Sea Encounter",
+    "region": "General Region",
+    "category": [
+        "Investigator Encounters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Successful Expedition Encounter",
+    "region": "General Region",
+    "category": [
+        "Investigator Encounters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Successful Otherworld Encounter",
+    "region": "General Region",
+    "category": [
+        "Investigator Encounters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Successful Combat Encounter",
+    "region": "General Region",
+    "category": [
+        "Investigator Encounters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Successful Research Encounter",
+    "region": "General Region",
+    "category": [
+        "Investigator Encounters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Azathoth - Occult Research",
+    "region": "Azathoth",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AzathothMystery"
+    ],
+    "requires": "|@Clues:4|"
+  },
+  {
+    "name": "Azathoth - Omen of Devastation",
+    "region": "Azathoth",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AzathothMystery"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Azathoth - Seed of the Deamon Sultan",
+    "region": "Azathoth",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AzathothMystery"
+    ],
+    "requires": "|@Clues:4|"
+  },
+  {
+    "name": "Azathoth - The True Name",
+    "region": "Azathoth",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AzathothMystery"
+    ],
+    "requires": "|@Clues:4|"
+  },
+  {
+    "name": "Azathoth - The Green Flame",
+    "region": "Azathoth",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AzathothMystery",
+        "Forsaken Lore"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Azathoth - Voice of Azathoth",
+    "region": "Azathoth",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AzathothMystery",
+        "Forsaken Lore"
+    ],
+    "requires": "|@Clues:4| AND |Massa di Requiem per Shuggay|"
+  },
+  {
+    "name": "Azathoth Defeated",
+    "region": "Azathoth",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AncientDefeated"
+    ],
+    "requires": "{canReachCategory(AzathothMystery,3)}"
+  },
+  {
+    "name": "Azathoth - City Research Encounter",
+    "region": "Azathoth",
+    "category": [
+        "Ancient Ones Research"
+    ],
+    "requires": "|@City Clue|"
+  },
+  {
+    "name": "Azathoth - Wilderness Research Encounter",
+    "region": "Azathoth",
+    "category": [
+        "Ancient Ones Research"
+    ],
+    "requires": "|@Wilderness Clue|"
+  },
+  {
+    "name": "Azathoth - Sea Research Encounter",
+    "region": "Azathoth",
+    "category": [
+        "Ancient Ones Research"
+    ],
+    "requires": "|@Sea Clue|"
+  },
+  {
+    "name": "Cthulhu - R'lyeh Risen",
+    "region": "Cthulhu",
+    "category": [
+        "Ancient Ones Mysteries",
+        "CthulhuMystery"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cthulhu - The Deep Ones Attack!",
+    "region": "Cthulhu",
+    "category": [
+        "Ancient Ones Mysteries",
+        "CthulhuMystery"
+    ],
+    "requires": "|@Clues:4|"
+  },
+  {
+    "name": "Cthulhu - The Stars are Right!",
+    "region": "Cthulhu",
+    "category": [
+        "Ancient Ones Mysteries",
+        "CthulhuMystery"
+    ],
+    "requires": "|@Clues:4|"
+  },
+  {
+    "name": "Cthulhu - Watching the Stars",
+    "region": "Cthulhu",
+    "category": [
+        "Ancient Ones Mysteries",
+        "CthulhuMystery"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cthulhu - Queen of the Deep Ones",
+    "region": "Cthulhu",
+    "category": [
+        "Ancient Ones Mysteries",
+        "CthulhuMystery",
+        "Forsaken Lore"
+    ],
+    "requires": "|Sword of Y'ha-Talla|"
+  },
+  {
+    "name": "Cthulhu - Threatening Seas",
+    "region": "Cthulhu",
+    "category": [
+        "Ancient Ones Mysteries",
+        "CthulhuMystery",
+        "Forsaken Lore"
+    ],
+    "requires": "|@Spells:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Cthulhu Defeated",
+    "region": "Cthulhu",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AncientDefeated"
+    ],
+    "requires": "{canReachCategory(CthulhuMystery,3)}"
+  },
+  {
+    "name": "Cthulhu - City Research Encounter",
+    "region": "Cthulhu",
+    "category": [
+        "Ancient Ones Research"
+    ],
+    "requires": "|@City Clue|"
+  },
+  {
+    "name": "Cthulhu - Wilderness Research Encounter",
+    "region": "Cthulhu",
+    "category": [
+        "Ancient Ones Research"
+    ],
+    "requires": "|@Wilderness Clue|"
+  },
+  {
+    "name": "Cthulhu - Sea Research Encounter",
+    "region": "Cthulhu",
+    "category": [
+        "Ancient Ones Research"
+    ],
+    "requires": "|@Sea Clue|"
+  },
+  {
+    "name": "Campaign Complete!",
+    "region": "General Region",
+    "victory": true,
+    "category": [
+      "Victory Condition"
+    ],
+    "requires": "{canReachCategory(AncientDefeated,2)}"
+  }
+]
