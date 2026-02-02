@@ -1,7 +1,8 @@
 # Eldritch-Horror-Manual
 Requirements to play this Manual:
-Eldritch Horror (Core)
-Eldritch Horror: Masks of Nyarlathotep
+* Eldritch Horror (Core)
+* Eldritch Horror: Masks of Nyarlathotep
+  
 You may have to use proxies to use the preludes of Ancient Ones you do not have access to. Since the preludes required comes from different expansions.
 
 ## Campaign Rules
