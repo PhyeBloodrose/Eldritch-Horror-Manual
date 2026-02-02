@@ -242,5 +242,9 @@
   "Yig": {
     "connects_to": [],
     "requires": "|Yig|"
+  },
+  "The Elder Things": {
+    "connects_to": [],
+    "requires": "|Rise of the Elder Things|"
   }
 }

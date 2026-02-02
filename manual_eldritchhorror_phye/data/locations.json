@@ -2133,7 +2133,7 @@
         "Ancient Ones Mysteries",
         "AncientDefeated"
     ],
-    "requires": "{canReachCategory(AzathothMystery,3)} AND |@Clues:12|"
+    "requires": "{canReachCategory(AzathothMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
   },
   {
     "name": "Azathoth - City Research Encounter",
@@ -2222,7 +2222,7 @@
         "Ancient Ones Mysteries",
         "AncientDefeated"
     ],
-    "requires": "{canReachCategory(CthulhuMystery,3)} AND |@Clues:12|"
+    "requires": "{canReachCategory(CthulhuMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
   },
   {
     "name": "Cthulhu - City Research Encounter",
@@ -2311,7 +2311,7 @@
         "Ancient Ones Mysteries",
         "AncientDefeated"
     ],
-    "requires": "{canReachCategory(Shub-NiggurathMystery,3)} AND |@Clues:12|"
+    "requires": "{canReachCategory(Shub-NiggurathMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
   },
   {
     "name": "Shub-Niggurath - City Research Encounter",
@@ -2400,7 +2400,7 @@
         "Ancient Ones Mysteries",
         "AncientDefeated"
     ],
-    "requires": "{canReachCategory(Yog-SothothMystery,3)} AND |@Clues:12|"
+    "requires": "{canReachCategory(Yog-SothothMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
   },
   {
     "name": "Yog-Sothoth - City Research Encounter",
@@ -2494,7 +2494,7 @@
         "AncientDefeated",
         "Forsaken Lore"
     ],
-    "requires": "{canReachCategory(Yog-SothothMystery,3)} AND |@Clues:12|"
+    "requires": "{canReachCategory(YigMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
   },
   {
     "name": "Yig - City Research Encounter",
@@ -2520,6 +2520,123 @@
     "category": [
         "Ancient Ones Research",
         "Forsaken Lore"
+    ],
+    "requires": "|@Sea Clue|"
+  },
+  {
+    "name": "Rise of the Elder Things - An Alien Ritual",
+    "region": "The Elder Things",
+    "category": [
+        "Ancient Ones Mysteries",
+        "TheElderThingsMystery",
+        "Mountains of Madness"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4| AND |@Ally:4|"
+  },
+  {
+    "name": "Rise of the Elder Things - An Expedition Compromised",
+    "region": "The Elder Things",
+    "category": [
+        "Ancient Ones Mysteries",
+        "TheElderThingsMystery",
+        "Mountains of Madness"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4| AND (|@Weapon| OR |@Magical Weapon|)"
+  },
+  {
+    "name": "Rise of the Elder Things - At the Mountains of Madness",
+    "region": "The Elder Things",
+    "category": [
+        "Ancient Ones Mysteries",
+        "TheElderThingsMystery",
+        "Mountains of Madness"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Rise of the Elder Things - Binding the Dark God",
+    "region": "The Elder Things",
+    "category": [
+        "Ancient Ones Mysteries",
+        "TheElderThingsMystery",
+        "Mountains of Madness"
+    ],
+    "requires": "|@Investigators:4|"
+  },
+  {
+    "name": "Rise of the Elder Things - Discovery of an Ancient Civilization",
+    "region": "The Elder Things",
+    "category": [
+        "Ancient Ones Mysteries",
+        "TheElderThingsMystery",
+        "Mountains of Madness"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Rise of the Elder Things - Invasion of the Elder Things",
+    "region": "The Elder Things",
+    "category": [
+        "Ancient Ones Mysteries",
+        "TheElderThingsMystery",
+        "Mountains of Madness"
+    ],
+    "requires": "|@Investigators:4| AND (|@Weapon| OR |@Magical Weapon|) AND |Alien Device|"
+  },
+  {
+    "name": "Rise of the Elder Things - Mysterious Disappearances",
+    "region": "The Elder Things",
+    "category": [
+        "Ancient Ones Mysteries",
+        "TheElderThingsMystery",
+        "Mountains of Madness"
+    ],
+    "requires": "|@Investigators:4| AND |@City Clue:2|"
+  },
+  {
+    "name": "Rise of the Elder Things - The Dark God's Prison Crumbles",
+    "region": "The Elder Things",
+    "category": [
+        "Ancient Ones Mysteries",
+        "TheElderThingsMystery",
+        "Mountains of Madness"
+    ],
+    "requires": "|@Investigators:4|"
+  },
+  {
+    "name": "Rise of the Elder Things Defeated",
+    "region": "The Elder Things",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AncientDefeated",
+        "Mountains of Madness"
+    ],
+    "requires": "{canReachCategory(TheElderThingsMystery,4)} AND |@Clues:16| AND |@Ancient Ones:3|"
+  },
+  {
+    "name": "Rise of the Elder Things - City Research Encounter",
+    "region": "The Elder Things",
+    "category": [
+        "Ancient Ones Research",
+        "Mountains of Madness"
+    ],
+    "requires": "|@City Clue|"
+  },
+  {
+    "name": "Rise of the Elder Things - Wilderness Research Encounter",
+    "region": "The Elder Things",
+    "category": [
+        "Ancient Ones Research",
+        "Mountains of Madness"
+    ],
+    "requires": "|@Wilderness Clue|"
+  },
+  {
+    "name": "Rise of the Elder Things - Sea Research Encounter",
+    "region": "The Elder Things",
+    "category": [
+        "Ancient Ones Research",
+        "Mountains of Madness"
     ],
     "requires": "|@Sea Clue|"
   },

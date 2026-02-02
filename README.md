@@ -1,9 +1,9 @@
 # Eldritch-Horror-Manual
-Requirements to play this Manual:
+Minimum requirements to play this Manual:
 * Eldritch Horror (Core)
 * Eldritch Horror: Masks of Nyarlathotep
   
-You may have to use proxies to use the preludes of Ancient Ones you do not have access to. Since the preludes required comes from different expansions.
+You may have to use proxies to use the preludes you do not have access to since the preludes required may be from other expansions.
 
 ## Campaign Rules
 For more information about how the Campaign Mode works, look no further than this wiki: https://eldritchhorror.fandom.com/wiki/Campaign
