@@ -1953,7 +1953,7 @@
         "Ancient Ones Mysteries",
         "AzathothMystery"
     ],
-    "requires": "|@Clues:4|"
+    "requires": "|@Investigators:4| AND |@Clues:4|"
   },
   {
     "name": "Azathoth - Omen of Devastation",
@@ -1962,7 +1962,7 @@
         "Ancient Ones Mysteries",
         "AzathothMystery"
     ],
-    "requires": ""
+    "requires": "|@Investigators:4|"
   },
   {
     "name": "Azathoth - Seed of the Deamon Sultan",
@@ -1971,7 +1971,7 @@
         "Ancient Ones Mysteries",
         "AzathothMystery"
     ],
-    "requires": "|@Clues:4|"
+    "requires": "|@Investigators:4| AND |@Clues:4|"
   },
   {
     "name": "Azathoth - The True Name",
@@ -1980,7 +1980,7 @@
         "Ancient Ones Mysteries",
         "AzathothMystery"
     ],
-    "requires": "|@Clues:4|"
+    "requires": "|@Investigators:4| AND |@Clues:4|"
   },
   {
     "name": "Azathoth - The Green Flame",
@@ -1990,7 +1990,7 @@
         "AzathothMystery",
         "Forsaken Lore"
     ],
-    "requires": ""
+    "requires": "|@Investigators:4| AND (|@Weapon| OR |@Magical Weapon|)"
   },
   {
     "name": "Azathoth - Voice of Azathoth",
@@ -2000,7 +2000,7 @@
         "AzathothMystery",
         "Forsaken Lore"
     ],
-    "requires": "|@Clues:4| AND |Massa di Requiem per Shuggay|"
+    "requires": "|@Investigators:4| AND |@Clues:4| AND |Massa di Requiem per Shuggay|"
   },
   {
     "name": "Azathoth Defeated",
@@ -2051,7 +2051,7 @@
         "Ancient Ones Mysteries",
         "CthulhuMystery"
     ],
-    "requires": "|@Clues:4|"
+    "requires": "|@Investigators:4| AND |@Clues:4|"
   },
   {
     "name": "Cthulhu - The Stars are Right!",
@@ -2060,7 +2060,7 @@
         "Ancient Ones Mysteries",
         "CthulhuMystery"
     ],
-    "requires": "|@Clues:4|"
+    "requires": "|@Investigators:4| AND |@Clues:4|"
   },
   {
     "name": "Cthulhu - Watching the Stars",
@@ -2069,7 +2069,7 @@
         "Ancient Ones Mysteries",
         "CthulhuMystery"
     ],
-    "requires": ""
+    "requires": "|@Investigators:4| AND (|@Weapon| OR |@Magical Weapon|)"
   },
   {
     "name": "Cthulhu - Queen of the Deep Ones",
@@ -2079,7 +2079,7 @@
         "CthulhuMystery",
         "Forsaken Lore"
     ],
-    "requires": "|Sword of Y'ha-Talla|"
+    "requires": "|@Investigators:4| AND |Sword of Y'ha-Talla|"
   },
   {
     "name": "Cthulhu - Threatening Seas",
@@ -2089,7 +2089,7 @@
         "CthulhuMystery",
         "Forsaken Lore"
     ],
-    "requires": "|@Spells:4| AND |@Clues:4|"
+    "requires": "|@Investigators:4| AND |@Spells:4| AND |@Clues:4|"
   },
   {
     "name": "Cthulhu Defeated",
@@ -2131,7 +2131,7 @@
         "Ancient Ones Mysteries",
         "Shub-NiggurathMystery"
     ],
-    "requires": "|@Clues:4|"
+    "requires": "|@Investigators:4| AND (|@Weapon| OR |@Magical Weapon|) AND |@Clues:4|"
   },
   {
     "name": "Shub-Niggurath - Nature of the All-Mother",
@@ -2140,7 +2140,7 @@
         "Ancient Ones Mysteries",
         "Shub-NiggurathMystery"
     ],
-    "requires": "|@Clues:4|"
+    "requires": "|@Investigators:4| AND |@Clues:4|"
   },
   {
     "name": "Shub-Niggurath - Rituals in the Wild",
@@ -2149,7 +2149,7 @@
         "Ancient Ones Mysteries",
         "Shub-NiggurathMystery"
     ],
-    "requires": "|@Clues:4|"
+    "requires": "|@Investigators:4| AND |@Clues:4|"
   },
   {
     "name": "Shub-Niggurath - Spawn of the Black Goat",
@@ -2158,7 +2158,7 @@
         "Ancient Ones Mysteries",
         "Shub-NiggurathMystery"
     ],
-    "requires": ""
+    "requires": "|@Investigators:4| AND (|@Weapon| OR |@Magical Weapon|)"
   },
   {
     "name": "Shub-Niggurath - Blasphemy of the Black Goat",
@@ -2168,7 +2168,7 @@
         "Shub-NiggurathMystery",
         "Forsaken Lore"
     ],
-    "requires": ""
+    "requires": "|@Investigators:4| AND (|@Weapon| OR |@Magical Weapon|)"
   },
   {
     "name": "Shub-Niggurath - Hour of the Moon Lens",
@@ -2178,7 +2178,7 @@
         "Shub-NiggurathMystery",
         "Forsaken Lore"
     ],
-    "requires": "|@Clues:4|"
+    "requires": "|@Investigators:4| AND (|@Weapon| OR |@Magical Weapon|) AND |@Clues:4|"
   },
   {
     "name": "Shub-Niggurath Defeated",
@@ -2214,12 +2214,101 @@
     "requires": "|@Sea Clue|"
   },
   {
+    "name": "Yog-Sothoth - Arcane Understanding",
+    "region": "Yog-Sothoth",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Yog-SothothMystery"
+    ],
+    "requires": "|@Investigators:4| AND |@Spells:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Yog-Sothoth - Spawn of Yog-Sothoth",
+    "region": "Yog-Sothoth",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Yog-SothothMystery"
+    ],
+    "requires": "|@Investigators:4| AND (|@Weapon| OR |@Magical Weapon|)"
+  },
+  {
+    "name": "Yog-Sothoth - The Beyond One",
+    "region": "Yog-Sothoth",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Yog-SothothMystery"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Yog-Sothoth - Where the Old Ones Broke Through",
+    "region": "Yog-Sothoth",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Yog-SothothMystery"
+    ],
+    "requires": "|@Investigators:4| AND |@Spells:4|"
+  },
+  {
+    "name": "Yog-Sothoth - The Stone Circles",
+    "region": "Yog-Sothoth",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Yog-SothothMystery",
+        "Forsaken Lore"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Yog-Sothoth - Void Between Worlds",
+    "region": "Yog-Sothoth",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Yog-SothothMystery",
+        "Forsaken Lore"
+    ],
+    "requires": "|@Investigators:4|"
+  },
+  {
+    "name": "Yog-Sothoth Defeated",
+    "region": "Yog-Sothoth",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AncientDefeated"
+    ],
+    "requires": "{canReachCategory(Yog-SothothMystery,3)}"
+  },
+  {
+    "name": "Yog-Sothoth - City Research Encounter",
+    "region": "Yog-Sothoth",
+    "category": [
+        "Ancient Ones Research"
+    ],
+    "requires": "|@City Clue|"
+  },
+  {
+    "name": "Yog-Sothoth - Wilderness Research Encounter",
+    "region": "Yog-Sothoth",
+    "category": [
+        "Ancient Ones Research"
+    ],
+    "requires": "|@Wilderness Clue|"
+  },
+  {
+    "name": "Yog-Sothoth - Sea Research Encounter",
+    "region": "Yog-Sothoth",
+    "category": [
+        "Ancient Ones Research"
+    ],
+    "requires": "|@Sea Clue|"
+  },
+  {
     "name": "Campaign Complete!",
     "region": "General Region",
     "victory": true,
     "category": [
       "Victory Condition"
     ],
-    "requires": "{canReachCategory(AncientDefeated,3)}"
+    "requires": "{canReachCategory(AncientDefeated,4)}"
   }
 ]

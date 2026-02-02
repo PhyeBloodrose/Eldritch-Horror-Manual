@@ -234,5 +234,9 @@
   "Shub-Niggurath": {
     "connects_to": [],
     "requires": "|Shub-Niggurath|"
+  },
+  "Yog-Sothoth": {
+    "connects_to": [],
+    "requires": "|Yog-Sothoth|"
   }
 }

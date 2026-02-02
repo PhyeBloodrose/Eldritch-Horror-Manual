@@ -1827,5 +1827,15 @@
         "Magical Weapon"
     ],
     "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "I'm an Asset",
+    "category": [
+        "Asset Deck",
+        "Item",
+        "Weapon"
+    ],
+    "progression_skip_balancing": true
   }
 ]
