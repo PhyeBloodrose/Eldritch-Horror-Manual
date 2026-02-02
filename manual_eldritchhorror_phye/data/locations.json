@@ -2834,6 +2834,97 @@
     "requires": "|@Sea Clue|"
   },
   {
+    "name": "Syzygy - Discovery of the Cosmic Alignment",
+    "region": "Syzygy",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Strange Remnants"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:8|"
+  },
+  {
+    "name": "Syzygy - Foritfying the Barrier",
+    "region": "Syzygy",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Strange Remnants"
+    ],
+    "requires": "|@Investigators:4| AND |@Spells:2|"
+  },
+  {
+    "name": "Syzygy - Plea to the Court of Azathoth",
+    "region": "Syzygy",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Strange Remnants"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4| AND (|@Weapon| OR |@Magical Weapon|)"
+  },
+  {
+    "name": "Syzygy - Relics of the Ancient World",
+    "region": "Syzygy",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Strange Remnants"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4| AND |@Relic:4|"
+  },
+  {
+    "name": "Syzygy - Shrouded in Mysticism",
+    "region": "Syzygy",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Strange Remnants"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4| AND |@Spells:4|"
+  },
+  {
+    "name": "Syzygy - Unearthly Piping",
+    "region": "Syzygy",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Strange Remnants"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4| AND |@Spells:4|"
+  },
+  {
+    "name": "Syzygy Defeated",
+    "region": "Syzygy",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AncientDefeated",
+        "Strange Remnants"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4| AND |@Ancient Ones:3|"
+  },
+  {
+    "name": "Syzygy - City Research Encounter",
+    "region": "Syzygy",
+    "category": [
+        "Ancient Ones Research",
+        "Strange Remnants"
+    ],
+    "requires": "|@City Clue|"
+  },
+  {
+    "name": "Syzygy - Wilderness Research Encounter",
+    "region": "Syzygy",
+    "category": [
+        "Ancient Ones Research",
+        "Strange Remnants"
+    ],
+    "requires": "|@Wilderness Clue|"
+  },
+  {
+    "name": "Syzygy - Sea Research Encounter",
+    "region": "Syzygy",
+    "category": [
+        "Ancient Ones Research",
+        "Strange Remnants"
+    ],
+    "requires": "|@Sea Clue|"
+  },
+  {
     "name": "Antediluvium - Dread Countenance",
     "region": "Antediluvium",
     "category": [

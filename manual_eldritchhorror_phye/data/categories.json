@@ -174,5 +174,11 @@
     },
     "IthaquaMystery": {
         "hidden": true
+    },
+    "AntediluviumMystery": {
+        "hidden": true
+    },
+    "NyarlathotepMystery": {
+        "hidden": true
     }
 }
