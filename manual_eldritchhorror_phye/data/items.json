@@ -2178,5 +2178,934 @@
         "Ally"
     ],
     "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Anna Tilton",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Antarctic Guide",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Constance Hawberk",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Courier Run",
+    "category": [
+        "Unique Assets Deck",
+        "Task",
+        "MountRuin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Danforth",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Dog Sled",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Dr. Hiram Upham",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Esteban Herrero",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Father Merluzzo",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "For the Greater Good",
+    "category": [
+        "Unique Assets Deck",
+        "Task",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Henry Wilcox",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Kid O'Brien",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Old Journal",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "Tome",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Professor Armitage",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Provisions",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Purifying the World",
+    "category": [
+        "Unique Assets Deck",
+        "Task",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Sacrifices to Make",
+    "category": [
+        "Unique Assets Deck",
+        "Task",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Sealing the Old Ones",
+    "category": [
+        "Unique Assets Deck",
+        "Task",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Sir William Brinton",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Walking the Ley Lines",
+    "category": [
+        "Unique Assets Deck",
+        "Task",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "William Dyer",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ancient Sword",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "Magical Weapon",
+        "Relic",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Asenath Waite",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Etienne Laurent",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Exploring the Ruins",
+    "category": [
+        "Unique Assets Deck",
+        "Task",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lost Treasure",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "Magical",
+        "Relic",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mysterious Idol",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "Magical",
+        "Relic",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Prayer",
+    "category": [
+        "Unique Assets Deck",
+        "Task",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Professor Rice",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Stone Calendar",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "Magical",
+        "Relic",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Stone Chest",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "Relic",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Stone Tablet",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "Relic",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Canopic Jar",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "Magical",
+        "Relic",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Cryptic Text",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "Tome",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Cursed Tablet",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "Magical",
+        "Relic",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Enoch Bowen",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Erich Weiss",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Fossilized Samples",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "Relic",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Halpin Chalmers",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Invoke the Elements",
+    "category": [
+        "Unique Assets Deck",
+        "Task",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Jeweled Scarab",
+    "category": [
+        "Unique Assets Deck",
+        "Trinket",
+        "Magical",
+        "Relic",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Know Thy Enemy",
+    "category": [
+        "Unique Assets Deck",
+        "Task",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ornate Scarab",
+    "category": [
+        "Unique Assets Deck",
+        "Trinket",
+        "Magical",
+        "Relic",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Pharaonic Mask",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "Magical",
+        "Relic",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Treasure Map",
+    "category": [
+        "Unique Assets Deck",
+        "Trinket",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Wooden Puppet",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Magical",
+        "Relic",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Albert Wilmarth",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Corinna Jones",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Enlist the Masses",
+    "category": [
+        "Unique Assets Deck",
+        "Task",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Funding the Cause",
+    "category": [
+        "Unique Assets Deck",
+        "Task",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Granny Orne",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Hildred Castaigne",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mastering the Art",
+    "category": [
+        "Unique Assets Deck",
+        "Task",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Turning the Tide",
+    "category": [
+        "Unique Assets Deck",
+        "Task",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ace of Swords",
+    "category": [
+        "Unique Assets Deck",
+        "Trinket",
+        "Tarot",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Basil Elton",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Bury Them Deep",
+    "category": [
+        "Unique Assets Deck",
+        "Task",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Death XIII",
+    "category": [
+        "Unique Assets Deck",
+        "Trinket",
+        "Tarot",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Dimensional Study",
+    "category": [
+        "Unique Assets Deck",
+        "Task",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Five of Pentacles",
+    "category": [
+        "Unique Assets Deck",
+        "Trinket",
+        "Tarot",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Flux Stabilizer",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Four of Cups",
+    "category": [
+        "Unique Assets Deck",
+        "Trinket",
+        "Tarot",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Miss Doyle",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mythos Codex",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "Tome",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Randolph Carter",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "The Moon XVIII",
+    "category": [
+        "Unique Assets Deck",
+        "Trinket",
+        "Tarot",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Unspeakable Research",
+    "category": [
+        "Unique Assets Deck",
+        "Task",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Agency Secrets",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Agent Callahan",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Amery Wendy-Smith",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Duke",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Light of Reason",
+    "category": [
+        "Unique Assets Deck",
+        "Task",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Professor Morgan",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Seeking the Masters",
+    "category": [
+        "Unique Assets Deck",
+        "Task",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Wave of Destruction",
+    "category": [
+        "Unique Assets Deck",
+        "Task",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ancient Scroll",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "Relic",
+        "Tome"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Dr. Ali Kafour",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Eye of Darkness",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "Magical"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Eye of Light",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "Magical"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Jack Brady",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Jake Williams",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Perplexing Idol",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "Magical",
+        "Relic"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Push It to the Limit",
+    "category": [
+        "Unique Assets Deck",
+        "Task"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Sacred Icon",
+    "category": [
+        "Unique Assets Deck",
+        "Trinket",
+        "Magical",
+        "Relic"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Tablet Shards",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "Relic"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Tempted by Darkness",
+    "category": [
+        "Unique Assets Deck",
+        "Item",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "The Messenger",
+    "category": [
+        "Unique Assets Deck",
+        "Ally",
+        "Character"
+    ],
+    "progression_skip_balancing": true
   }
 ]

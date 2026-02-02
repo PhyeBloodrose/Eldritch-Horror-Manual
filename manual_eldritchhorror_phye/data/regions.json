@@ -246,5 +246,9 @@
   "The Elder Things": {
     "connects_to": [],
     "requires": "|Rise of the Elder Things|"
+  },
+  "Ithaqua": {
+    "connects_to": [],
+    "requires": "|Ithaqua|"
   }
 }

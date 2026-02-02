@@ -2641,6 +2641,103 @@
     "requires": "|@Sea Clue|"
   },
   {
+    "name": "Ithaqua - A Spreading Storm",
+    "region": "Ithaqua",
+    "category": [
+        "Ancient Ones Mysteries",
+        "IthaquaMystery",
+        "Mountains of Madness"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Ithaqua - Exploring Hyperborea",
+    "region": "Ithaqua",
+    "category": [
+        "Ancient Ones Mysteries",
+        "IthaquaMystery",
+        "Mountains of Madness"
+    ],
+    "requires": "|@Investigators:4|"
+  },
+  {
+    "name": "Ithaqua - Growing Hunger",
+    "region": "Ithaqua",
+    "category": [
+        "Ancient Ones Mysteries",
+        "IthaquaMystery",
+        "Mountains of Madness"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4| AND (|@Weapon| OR |@Magical Weapon|)"
+  },
+  {
+    "name": "Ithaqua - Hyperborean Aurora",
+    "region": "Ithaqua",
+    "category": [
+        "Ancient Ones Mysteries",
+        "IthaquaMystery",
+        "Mountains of Madness"
+    ],
+    "requires": "|@Investigators:4| AND |@Spells:2|"
+  },
+  {
+    "name": "Ithaqua - The Gnoph-Keh Attack!",
+    "region": "Ithaqua",
+    "category": [
+        "Ancient Ones Mysteries",
+        "IthaquaMystery",
+        "Mountains of Madness"
+    ],
+    "requires": "|@Investigators:4| AND |@City Clue:2| AND (|@Weapon| OR |@Magical Weapon|)"
+  },
+  {
+    "name": "Ithaqua - Supplying the North",
+    "region": "Ithaqua",
+    "category": [
+        "Ancient Ones Mysteries",
+        "IthaquaMystery",
+        "Mountains of Madness"
+    ],
+    "requires": "|@Investigators:4| and |Provisions|"
+  },
+  {
+    "name": "Ithaqua Defeated",
+    "region": "The Elder Things",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AncientDefeated",
+        "Mountains of Madness"
+    ],
+    "requires": "{canReachCategory(IthaquaMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
+  },
+  {
+    "name": "Ithaqua - City Research Encounter",
+    "region": "Ithaqua",
+    "category": [
+        "Ancient Ones Research",
+        "Mountains of Madness"
+    ],
+    "requires": "|@City Clue|"
+  },
+  {
+    "name": "Ithaqua - Wilderness Research Encounter",
+    "region": "Ithaqua",
+    "category": [
+        "Ancient Ones Research",
+        "Mountains of Madness"
+    ],
+    "requires": "|@Wilderness Clue|"
+  },
+  {
+    "name": "Ithaqua - Sea Research Encounter",
+    "region": "Ithaqua",
+    "category": [
+        "Ancient Ones Research",
+        "Mountains of Madness"
+    ],
+    "requires": "|@Sea Clue|"
+  },
+  {
     "name": "Campaign Complete!",
     "region": "General Region",
     "victory": true,
