@@ -17,4 +17,9 @@ For this particular manual these are some things to keep in mind:
 * These will be randomized into the multiworld; Investigators, Ancient Ones, Clues, Spells, Assets and Artifacts.
 * When you obtain a card from the multiworld you put them in their respective deck. They are now in the pool of things you'll be able to obtain. The sames goes for clues, you put them in the Clue Pool.
 * Speaking of Clues, if you allow an expansion with a sideboard, their respective clues will also be accessible. As such it will sometime be required to use said sideboards to progress through the run.
-* You'll probably have to retry many times against an Ancient One before you're able to defeat it due to the nature of an Archipelago Run. Reminder, you need to defeat 3/6 in a row for the campaign to be considered completed. Good Luck!
+* You'll probably have to retry many times against an Ancient One before you're able to defeat it due to the nature of an Archipelago Run. Reminder, you need to defeat 3/6 in a row for the campaign to be considered completed. 
+* For Mysteries: If you have no mystery in logic, pick a random one for the ancient one you are facing. You are unable to do anything regarding said mystery until it gets in logic.
+* For Mysteries: When you do get mysteries in logic, feel free to pick and choose what mystery to go for until you've done all the checks available, then you may put it back into a mystery deck for said Ancient One if you have to face it again in the future.
+
+Good Luck!
+

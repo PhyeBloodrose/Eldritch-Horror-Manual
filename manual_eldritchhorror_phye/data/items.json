@@ -2169,12 +2169,13 @@
     "progression_skip_balancing": true
   },
   {
-    "count": 1,
+    "count": 4,
     "name": "I'm an Asset",
     "category": [
         "Assets Deck",
         "Item",
-        "Weapon"
+        "Weapon",
+        "Ally"
     ],
     "progression_skip_balancing": true
   }

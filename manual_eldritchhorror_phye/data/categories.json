@@ -107,6 +107,9 @@
     "Trinket": {
         "hidden": true
     },
+    "Ally": {
+        "hidden": true
+    },
     "Spells": {
         "hidden": true
     },
@@ -132,6 +135,9 @@
         "hidden": true
     },
     "Yog-SothothMystery": {
+        "hidden": true
+    },
+    "YigMystery": {
         "hidden": true
     }
 }

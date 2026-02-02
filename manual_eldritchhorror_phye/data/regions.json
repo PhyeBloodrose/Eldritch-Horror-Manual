@@ -238,5 +238,9 @@
   "Yog-Sothoth": {
     "connects_to": [],
     "requires": "|Yog-Sothoth|"
+  },
+  "Yig": {
+    "connects_to": [],
+    "requires": "|Yig|"
   }
 }

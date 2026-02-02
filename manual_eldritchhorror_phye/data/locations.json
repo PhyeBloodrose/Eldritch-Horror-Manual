@@ -139,6 +139,50 @@
     ]
   },
   {
+    "name": "Starting Asset for Reserve 1",
+    "region": "General Region",
+    "category": [
+      "Starting Stuff"
+    ],
+    "requires": "",
+    "place_item_category": [
+      "Assets Deck"
+    ]
+  },
+  {
+    "name": "Starting Asset for Reserve 2",
+    "region": "General Region",
+    "category": [
+      "Starting Stuff"
+    ],
+    "requires": "",
+    "place_item_category": [
+      "Assets Deck"
+    ]
+  },
+  {
+    "name": "Starting Asset for Reserve 3",
+    "region": "General Region",
+    "category": [
+      "Starting Stuff"
+    ],
+    "requires": "",
+    "place_item_category": [
+      "Assets Deck"
+    ]
+  },
+  {
+    "name": "Starting Asset for Reserve 4",
+    "region": "General Region",
+    "category": [
+      "Starting Stuff"
+    ],
+    "requires": "",
+    "place_item_category": [
+      "Assets Deck"
+    ]
+  },
+  {
     "name": "Akachi Onyele - Starting Equipment 1",
     "region": "Akachi",
     "category": [
@@ -2379,6 +2423,103 @@
     "region": "Yog-Sothoth",
     "category": [
         "Ancient Ones Research"
+    ],
+    "requires": "|@Sea Clue|"
+  },
+  {
+    "name": "Yig - Crown of the Serpent",
+    "region": "Yig",
+    "category": [
+        "Ancient Ones Mysteries",
+        "YigMystery",
+        "Forsaken Lore"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4| AND |Serpent Crown| AND |@Ally:2|"
+  },
+  {
+    "name": "Yig - Descendants of Yig",
+    "region": "Yig",
+    "category": [
+        "Ancient Ones Mysteries",
+        "YigMystery",
+        "Forsaken Lore"
+    ],
+    "requires": "|@Investigators:4| AND (|@Weapon| OR |@Magical Weapon|)"
+  },
+  {
+    "name": "Yig - K'n-yan Unearthed",
+    "region": "Yig",
+    "category": [
+        "Ancient Ones Mysteries",
+        "YigMystery",
+        "Forsaken Lore"
+    ],
+    "requires": "|@Investigators:4|"
+  },
+  {
+    "name": "Yig - Migration of Serpents",
+    "region": "Yig",
+    "category": [
+        "Ancient Ones Mysteries",
+        "YigMystery",
+        "Forsaken Lore"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Yig - Rise of the Serpent People",
+    "region": "Yig",
+    "category": [
+        "Ancient Ones Mysteries",
+        "YigMystery",
+        "Forsaken Lore"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Yig - The Winged Serpent",
+    "region": "Yig",
+    "category": [
+        "Ancient Ones Mysteries",
+        "YigMystery",
+        "Forsaken Lore"
+    ],
+    "requires": "|@Investigators:4| AND (|@Weapon| OR |@Magical Weapon|)"
+  },
+  {
+    "name": "Yig Defeated",
+    "region": "Yig",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AncientDefeated",
+        "Forsaken Lore"
+    ],
+    "requires": "{canReachCategory(Yog-SothothMystery,3)} AND |@Clues:12|"
+  },
+  {
+    "name": "Yig - City Research Encounter",
+    "region": "Yig",
+    "category": [
+        "Ancient Ones Research",
+        "Forsaken Lore"
+    ],
+    "requires": "|@City Clue|"
+  },
+  {
+    "name": "Yig - Wilderness Research Encounter",
+    "region": "Yig",
+    "category": [
+        "Ancient Ones Research",
+        "Forsaken Lore"
+    ],
+    "requires": "|@Wilderness Clue|"
+  },
+  {
+    "name": "Yig - Sea Research Encounter",
+    "region": "Yig",
+    "category": [
+        "Ancient Ones Research",
+        "Forsaken Lore"
     ],
     "requires": "|@Sea Clue|"
   },
