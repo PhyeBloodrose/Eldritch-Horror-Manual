@@ -2009,7 +2009,7 @@
         "Ancient Ones Mysteries",
         "AncientDefeated"
     ],
-    "requires": "{canReachCategory(AzathothMystery,3)}"
+    "requires": "{canReachCategory(AzathothMystery,3)} AND |@Clues:12|"
   },
   {
     "name": "Azathoth - City Research Encounter",
@@ -2098,7 +2098,7 @@
         "Ancient Ones Mysteries",
         "AncientDefeated"
     ],
-    "requires": "{canReachCategory(CthulhuMystery,3)}"
+    "requires": "{canReachCategory(CthulhuMystery,3)} AND |@Clues:12|"
   },
   {
     "name": "Cthulhu - City Research Encounter",
@@ -2187,7 +2187,7 @@
         "Ancient Ones Mysteries",
         "AncientDefeated"
     ],
-    "requires": "{canReachCategory(Shub-NiggurathMystery,3)}"
+    "requires": "{canReachCategory(Shub-NiggurathMystery,3)} AND |@Clues:12|"
   },
   {
     "name": "Shub-Niggurath - City Research Encounter",
@@ -2276,7 +2276,7 @@
         "Ancient Ones Mysteries",
         "AncientDefeated"
     ],
-    "requires": "{canReachCategory(Yog-SothothMystery,3)}"
+    "requires": "{canReachCategory(Yog-SothothMystery,3)} AND |@Clues:12|"
   },
   {
     "name": "Yog-Sothoth - City Research Encounter",
