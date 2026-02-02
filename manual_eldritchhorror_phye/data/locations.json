@@ -1923,6 +1923,14 @@
     "requires": ""
   },
   {
+    "name": "Successful Mystic Ruins Encounter",
+    "region": "General Region",
+    "category": [
+        "Investigator Encounters"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Successful Otherworld Encounter",
     "region": "General Region",
     "category": [
@@ -1940,6 +1948,78 @@
   },
   {
     "name": "Successful Research Encounter",
+    "region": "General Region",
+    "category": [
+        "Investigator Encounters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Successful San Francisco Encounter",
+    "region": "General Region",
+    "category": [
+        "Investigator Encounters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Successful Arkham Encounter",
+    "region": "General Region",
+    "category": [
+        "Investigator Encounters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Successful Buenos Aires Encounter",
+    "region": "General Region",
+    "category": [
+        "Investigator Encounters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Successful London Encounter",
+    "region": "General Region",
+    "category": [
+        "Investigator Encounters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Successful Rome Encounter",
+    "region": "General Region",
+    "category": [
+        "Investigator Encounters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Successful Istanbul Encounter",
+    "region": "General Region",
+    "category": [
+        "Investigator Encounters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Successful Shanghai Encounter",
+    "region": "General Region",
+    "category": [
+        "Investigator Encounters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Successful Tokyo Encounter",
+    "region": "General Region",
+    "category": [
+        "Investigator Encounters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Successful Sydney Encounter",
     "region": "General Region",
     "category": [
         "Investigator Encounters"

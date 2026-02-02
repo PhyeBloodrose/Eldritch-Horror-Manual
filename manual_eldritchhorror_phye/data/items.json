@@ -1778,52 +1778,392 @@
   },
   {
     "count": 1,
-    "name": "I'm a Spell",
+    "name": "Blessing of Isis",
     "category": [
         "Spells Deck",
         "Spells",
-        "Incantation",
+        "Ritual"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clairvoyance",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Incantation"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Conjuration",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Ritual"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Feed the Mind",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Ritual"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Flesh Ward",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Incantation"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Instill Bravery",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Incantation"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mists of Releh",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Incantation"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Plumb the Void",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Ritual"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Shriveling",
+    "category": [
+        "Spells Deck",
+        "Spells",
         "Ritual",
-        "Glamour",
         "Magical Weapon"
     ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
-    "name": "I'm a Spell 2",
+    "name": "Wither",
     "category": [
         "Spells Deck",
         "Spells",
         "Incantation",
-        "Ritual",
-        "Glamour",
         "Magical Weapon"
     ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
-    "name": "I'm a Spell 3",
+    "name": "Healing Words",
     "category": [
         "Spells Deck",
         "Spells",
         "Incantation",
-        "Ritual",
-        "Glamour",
-        "Magical Weapon"
+        "Forsaken Lore"
     ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
-    "name": "I'm a Spell 4",
+    "name": "Poison Mist",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Ritual",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Arcane Insight",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Ritual",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Banishment",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Ritual",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Intervene",
     "category": [
         "Spells Deck",
         "Spells",
         "Incantation",
-        "Ritual",
+        "Magical Weapon",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Storm of Spirits",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Incantation",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Astral Travel",
+    "category": [
+        "Spells Deck",
+        "Spells",
         "Glamour",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Azure Flame",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Glamour",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Markings of Isis",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Glamour",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Voice of Ra",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Glamour",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Alter Fate",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Glamour",
+        "Under The Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Enchant Weapon",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Glamour",
+        "Magical Weapon",
+        "Under The Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Enchanting Grace",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Glamour",
+        "Under The Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Forced Learning",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Glamour",
+        "Under The Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Shroud of Shadow",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Glamour",
+        "Under The Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Wrack",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Incantation",
+        "Magical Weapon",
+        "Under The Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Binding",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Incantation",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mind's Eye",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Glamour",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Summon Byakhee",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Ritual",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Dread Curse",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Incantation",
+        "Magical Weapon",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Find Gate",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Glamour",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Summoning",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Ritual",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Beast Within",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Glamour",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Occult Exaltation",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Ritual",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Spectral Razor",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Incantation",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Call the Storm",
+    "category": [
+        "Spells Deck",
+        "Spells",
+        "Ritual",
         "Magical Weapon"
     ],
     "progression_skip_balancing": true
@@ -1832,7 +2172,7 @@
     "count": 1,
     "name": "I'm an Asset",
     "category": [
-        "Asset Deck",
+        "Assets Deck",
         "Item",
         "Weapon"
     ],
