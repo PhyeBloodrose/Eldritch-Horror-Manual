@@ -256,23 +256,6 @@
     "requires": ""
   },
   {
-    "name": "Akachi Onyele - Mystic Ruins Encounter",
-    "region": "Akachi",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Akachi Onyele - Dream-Quest Encounter",
-    "region": "Akachi",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Charlie Kane - Starting Equipment",
     "region": "Charlie",
     "category": [
@@ -334,23 +317,6 @@
     "region": "Charlie",
     "category": [
       "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Charlie Kane - Mystic Ruins Encounter",
-    "region": "Charlie",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Charlie Kane - Dream-Quest Encounter",
-    "region": "Charlie",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
     ],
     "requires": ""
   },
@@ -428,23 +394,6 @@
     "requires": ""
   },
   {
-    "name": "Diana Stanley - Mystic Ruins Encounter",
-    "region": "Diana",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Diana Stanley - Dream-Quest Encounter",
-    "region": "Diana",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Jacqueline Fine - Starting Equipment 1",
     "region": "Jacqueline",
     "category": [
@@ -514,23 +463,6 @@
     "region": "Jacqueline",
     "category": [
       "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Jacqueline Fine - Mystic Ruins Encounter",
-    "region": "Jacqueline",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Jacqueline Fine - Dream-Quest Encounter",
-    "region": "Jacqueline",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
     ],
     "requires": ""
   },
@@ -608,23 +540,6 @@
     "requires": ""
   },
   {
-    "name": "Jim Culver - Mystic Ruins Encounter",
-    "region": "Jim",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Jim Culver - Dream-Quest Encounter",
-    "region": "Jim",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Leo Anderson - Starting Equipment",
     "region": "Leo",
     "category": [
@@ -686,23 +601,6 @@
     "region": "Leo",
     "category": [
       "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Leo Anderson - Mystic Ruins Encounter",
-    "region": "Leo",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Leo Anderson - Dream-Quest Encounter",
-    "region": "Leo",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
     ],
     "requires": ""
   },
@@ -780,23 +678,6 @@
     "requires": ""
   },
   {
-    "name": "Lily Chen - Mystic Ruins Encounter",
-    "region": "Lily",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Lily Chen - Dream-Quest Encounter",
-    "region": "Lily",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Lola Hayes - Starting Equipment",
     "region": "Lola",
     "category": [
@@ -858,23 +739,6 @@
     "region": "Lola",
     "category": [
       "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Lola Hayes - Mystic Ruins Encounter",
-    "region": "Lola",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Lola Hayes - Dream-Quest Encounter",
-    "region": "Lola",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
     ],
     "requires": ""
   },
@@ -952,23 +816,6 @@
     "requires": ""
   },
   {
-    "name": "Mark Harrigan - Mystic Ruins Encounter",
-    "region": "Mark",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Mark Harrigan - Dream-Quest Encounter",
-    "region": "Mark",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Norman Withers - Starting Equipment",
     "region": "Norman",
     "category": [
@@ -1030,23 +877,6 @@
     "region": "Norman",
     "category": [
       "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Norman Withers - Mystic Ruins Encounter",
-    "region": "Norman",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Norman Withers - Dream-Quest Encounter",
-    "region": "Norman",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
     ],
     "requires": ""
   },
@@ -1116,23 +946,6 @@
     "requires": ""
   },
   {
-    "name": "Silas Marsh - Mystic Ruins Encounter",
-    "region": "Silas",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Silas Marsh - Dream-Quest Encounter",
-    "region": "Silas",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Trish Scarborough - Starting Equipment",
     "region": "Trish",
     "category": [
@@ -1194,23 +1007,6 @@
     "region": "Trish",
     "category": [
       "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Trish Scarborough - Mystic Ruins Encounter",
-    "region": "Trish",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Trish Scarborough - Dream-Quest Encounter",
-    "region": "Trish",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
     ],
     "requires": ""
   },
@@ -1297,25 +1093,6 @@
     "requires": ""
   },
   {
-    "name": "Agnes Baker - Mystic Ruins Encounter",
-    "region": "Agnes",
-    "category": [
-        "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Agnes Baker - Dream-Quest Encounter",
-    "region": "Agnes",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Daisy Walker - Starting Equipment 1",
     "region": "Daisy",
     "category": [
@@ -1393,25 +1170,6 @@
     "region": "Daisy",
     "category": [
         "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Daisy Walker - Mystic Ruins Encounter",
-    "region": "Daisy",
-    "category": [
-        "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Daisy Walker - Dream-Quest Encounter",
-    "region": "Daisy",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
         "Mountains of Madness"
     ],
     "requires": ""
@@ -1508,25 +1266,6 @@
     "requires": ""
   },
   {
-    "name": "Finn Edwards - Mystic Ruins Encounter",
-    "region": "Finn",
-    "category": [
-        "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Finn Edwards - Dream-Quest Encounter",
-    "region": "Finn",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
     "name": "George Barnaby - Starting Equipment 1",
     "region": "George",
     "category": [
@@ -1604,25 +1343,6 @@
     "region": "George",
     "category": [
         "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "George Barnaby - Mystic Ruins Encounter",
-    "region": "George",
-    "category": [
-        "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "George Barnaby - Dream-Quest Encounter",
-    "region": "George",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
         "Mountains of Madness"
     ],
     "requires": ""
@@ -1710,25 +1430,6 @@
     "requires": ""
   },
   {
-    "name": "Patrice Hathaway - Mystic Ruins Encounter",
-    "region": "Patrice",
-    "category": [
-        "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Patrice Hathaway - Dream-Quest Encounter",
-    "region": "Patrice",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Tommy Muldoon - Starting Equipment",
     "region": "Tommy",
     "category": [
@@ -1797,25 +1498,6 @@
     "region": "Tommy",
     "category": [
         "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Tommy Muldoon - Mystic Ruins Encounter",
-    "region": "Tommy",
-    "category": [
-        "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Tommy Muldoon - Dream-Quest Encounter",
-    "region": "Tommy",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
         "Mountains of Madness"
     ],
     "requires": ""
@@ -1894,25 +1576,6 @@
     "requires": ""
   },
   {
-    "name": "Ursula Downs - Mystic Ruins Encounter",
-    "region": "Ursula",
-    "category": [
-        "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Ursula Downs - Dream-Quest Encounter",
-    "region": "Ursula",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Wilson Richards - Starting Equipment",
     "region": "Wilson",
     "category": [
@@ -1981,25 +1644,6 @@
     "region": "Wilson",
     "category": [
         "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Wilson Richards - Mystic Ruins Encounter",
-    "region": "Wilson",
-    "category": [
-        "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Wilson Richards - Dream-Quest Encounter",
-    "region": "Wilson",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
         "Mountains of Madness"
     ],
     "requires": ""
@@ -2087,25 +1731,6 @@
     "requires": ""
   },
   {
-    "name": "Marie Lambeau - Mystic Ruins Encounter",
-    "region": "Marie",
-    "category": [
-        "Investigator Encounters",
-        "Strange Remnants"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Marie Lambeau - Dream-Quest Encounter",
-    "region": "Marie",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
-        "Strange Remnants"
-    ],
-    "requires": ""
-  },
-  {
     "name": "\"Skids\" O'Toole - Starting Equipment",
     "region": "Skids",
     "category": [
@@ -2174,25 +1799,6 @@
     "region": "Skids",
     "category": [
         "Investigator Encounters",
-        "Strange Remnants"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "\"Skids\" O'Toole - Mystic Ruins Encounter",
-    "region": "Skids",
-    "category": [
-        "Investigator Encounters",
-        "Strange Remnants"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "\"Skids\" O'Toole - Dream-Quest Encounter",
-    "region": "Skids",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
         "Strange Remnants"
     ],
     "requires": ""
@@ -2271,25 +1877,6 @@
     "requires": ""
   },
   {
-    "name": "Tony Morgan - Mystic Ruins Encounter",
-    "region": "Tony",
-    "category": [
-        "Investigator Encounters",
-        "Strange Remnants"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Tony Morgan - Dream-Quest Encounter",
-    "region": "Tony",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
-        "Strange Remnants"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Zoey Samaras - Starting Equipment",
     "region": "Zoey",
     "category": [
@@ -2358,25 +1945,6 @@
     "region": "Zoey",
     "category": [
         "Investigator Encounters",
-        "Strange Remnants"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Zoey Samaras - Mystic Ruins Encounter",
-    "region": "Zoey",
-    "category": [
-        "Investigator Encounters",
-        "Strange Remnants"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Zoey Samaras - Dream-Quest Encounter",
-    "region": "Zoey",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
         "Strange Remnants"
     ],
     "requires": ""
@@ -2455,25 +2023,6 @@
     "requires": ""
   },
   {
-    "name": "Hank Samson - Mystic Ruins Encounter",
-    "region": "Hank",
-    "category": [
-        "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Hank Samson - Dream-Quest Encounter",
-    "region": "Hank",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Harvey Walters - Starting Equipment",
     "region": "Harvey",
     "category": [
@@ -2547,25 +2096,6 @@
     "requires": ""
   },
   {
-    "name": "Harvey Walters - Mystic Ruins Encounter",
-    "region": "Harvey",
-    "category": [
-        "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Harvey Walters - Dream-Quest Encounter",
-    "region": "Harvey",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Joe Diamond - Starting Equipment",
     "region": "Joe",
     "category": [
@@ -2634,25 +2164,6 @@
     "region": "Joe",
     "category": [
         "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Joe Diamond - Mystic Ruins Encounter",
-    "region": "Joe",
-    "category": [
-        "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Joe Diamond - Dream-Quest Encounter",
-    "region": "Joe",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
         "Under the Pyramids"
     ],
     "requires": ""
@@ -2740,25 +2251,6 @@
     "requires": ""
   },
   {
-    "name": "Mandy Thompson - Mystic Ruins Encounter",
-    "region": "Mandy",
-    "category": [
-        "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Mandy Thompson - Dream-Quest Encounter",
-    "region": "Mandy",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Minh Thi Phan - Starting Equipment 1",
     "region": "Minh",
     "category": [
@@ -2836,25 +2328,6 @@
     "region": "Minh",
     "category": [
         "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Minh Thi Phan - Mystic Ruins Encounter",
-    "region": "Minh",
-    "category": [
-        "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Minh Thi Phan - Dream-Quest Encounter",
-    "region": "Minh",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
         "Under the Pyramids"
     ],
     "requires": ""
@@ -2942,25 +2415,6 @@
     "requires": ""
   },
   {
-    "name": "Monterey Jack - Mystic Ruins Encounter",
-    "region": "Monterey",
-    "category": [
-        "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Monterey Jack - Dream-Quest Encounter",
-    "region": "Monterey",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Rex Murphy - Starting Equipment",
     "region": "Rex",
     "category": [
@@ -3034,25 +2488,6 @@
     "requires": ""
   },
   {
-    "name": "Rex Murphy - Mystic Ruins Encounter",
-    "region": "Rex",
-    "category": [
-        "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Rex Murphy - Dream-Quest Encounter",
-    "region": "Rex",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Sister Mary - Starting Equipment",
     "region": "Sister",
     "category": [
@@ -3121,25 +2556,6 @@
     "region": "Sister",
     "category": [
         "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Sister Mary - Mystic Ruins Encounter",
-    "region": "Sister",
-    "category": [
-        "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Sister Mary - Dream-Quest Encounter",
-    "region": "Sister",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
         "Under the Pyramids"
     ],
     "requires": ""
@@ -3227,25 +2643,6 @@
     "requires": ""
   },
   {
-    "name": "Dexter Drake - Mystic Ruins Encounter",
-    "region": "Dexter",
-    "category": [
-        "Investigator Encounters",
-        "Signs of Carcosa"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Dexter Drake - Dream-Quest Encounter",
-    "region": "Dexter",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
-        "Signs of Carcosa"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Jenny Barnes - Starting Equipment 1",
     "region": "Jenny",
     "category": [
@@ -3328,25 +2725,6 @@
     "requires": ""
   },
   {
-    "name": "Jenny Barnes - Mystic Ruins Encounter",
-    "region": "Jenny",
-    "category": [
-        "Investigator Encounters",
-        "Signs of Carcosa"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Jenny Barnes - Dream-Quest Encounter",
-    "region": "Jenny",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
-        "Signs of Carcosa"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Michael McGlen - Starting Equipment",
     "region": "Michael",
     "category": [
@@ -3415,25 +2793,6 @@
     "region": "Michael",
     "category": [
         "Investigator Encounters",
-        "Signs of Carcosa"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Michael McGlen - Mystic Ruins Encounter",
-    "region": "Michael",
-    "category": [
-        "Investigator Encounters",
-        "Signs of Carcosa"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Michael McGlen - Dream-Quest Encounter",
-    "region": "Michael",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
         "Signs of Carcosa"
     ],
     "requires": ""
@@ -3512,25 +2871,6 @@
     "requires": ""
   },
   {
-    "name": "Wendy Adams - Mystic Ruins Encounter",
-    "region": "Wendy",
-    "category": [
-        "Investigator Encounters",
-        "Signs of Carcosa"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Wendy Adams - Dream-Quest Encounter",
-    "region": "Wendy",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
-        "Signs of Carcosa"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Amanda Sharpe - Starting Equipment",
     "region": "Amanda",
     "category": [
@@ -3600,24 +2940,6 @@
     "category": [
         "Investigator Encounters",
         "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Amanda Sharpe - Mystic Ruins Encounter",
-    "region": "Amanda",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Amanda Sharpe - Dream-Quest Encounter",
-    "region": "Amanda",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
     ],
     "requires": ""
   },
@@ -3704,24 +3026,6 @@
     "requires": ""
   },
   {
-    "name": "Carolyn Fern - Mystic Ruins Encounter",
-    "region": "Carolyn",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Carolyn Fern - Dream-Quest Encounter",
-    "region": "Carolyn",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Darrell Simmons - Starting Equipment 1",
     "region": "Darrell",
     "category": [
@@ -3800,24 +3104,6 @@
     "category": [
         "Investigator Encounters",
         "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Darrell Simmons - Mystic Ruins Encounter",
-    "region": "Darrell",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Darrell Simmons - Dream-Quest Encounter",
-    "region": "Darrell",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
     ],
     "requires": ""
   },
@@ -3904,24 +3190,6 @@
     "requires": ""
   },
   {
-    "name": "Gloria Goldberg - Mystic Ruins Encounter",
-    "region": "Gloria",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Gloria Goldberg - Dream-Quest Encounter",
-    "region": "Gloria",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Kate Winthrop - Starting Equipment 1",
     "region": "Kate",
     "category": [
@@ -4000,24 +3268,6 @@
     "category": [
         "Investigator Encounters",
         "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Kate Winthrop - Mystic Ruins Encounter",
-    "region": "Kate",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Kate Winthrop - Dream-Quest Encounter",
-    "region": "Kate",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
     ],
     "requires": ""
   },
@@ -4104,25 +3354,16 @@
     "requires": ""
   },
   {
-    "name": "Luke Robinson - Mystic Ruins Encounter",
-    "region": "Luke",
+    "name": "Vincent Lee - Starting Equipment 1",
+    "region": "Vincent",
     "category": [
-        "Investigator Encounters",
+        "Investigator Unlocks",
         "The Dreamlands"
     ],
     "requires": ""
   },
   {
-    "name": "Luke Robinson - Dream-Quest Encounter",
-    "region": "Luke",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Vincent Lee - Starting Equipment",
+    "name": "Vincent Lee - Starting Equipment 2",
     "region": "Vincent",
     "category": [
         "Investigator Unlocks",
@@ -4191,24 +3432,6 @@
     "category": [
         "Investigator Encounters",
         "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Vincent Lee - Mystic Ruins Encounter",
-    "region": "Vincent",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Vincent Lee - Dream-Quest Encounter",
-    "region": "Vincent",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
     ],
     "requires": ""
   },
@@ -4295,24 +3518,6 @@
     "requires": ""
   },
   {
-    "name": "William Yorick - Mystic Ruins Encounter",
-    "region": "William",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "William Yorick - Dream-Quest Encounter",
-    "region": "William",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
     "name": "\"Ashcan\" Pete - Starting Equipment 1",
     "region": "Ashcan",
     "category": [
@@ -4390,25 +3595,6 @@
     "region": "Ashcan",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "\"Ashcan\" Pete - Mystic Ruins Encounter",
-    "region": "Ashcan",
-    "category": [
-        "Investigator Encounters",
-        "Cities in Ruins"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "\"Ashcan\" Pete - Dream-Quest Encounter",
-    "region": "Ashcan",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
         "Cities in Ruins"
     ],
     "requires": ""
@@ -4496,26 +3682,16 @@
     "requires": ""
   },
   {
-    "name": "Bob Jenkins - Mystic Ruins Encounter",
-    "region": "Bob",
+    "name": "Rita Young - Starting Equipment 1",
+    "region": "Rita",
     "category": [
-        "Investigator Encounters",
+        "Investigator Unlocks",
         "Cities in Ruins"
     ],
     "requires": ""
   },
   {
-    "name": "Bob Jenkins - Dream-Quest Encounter",
-    "region": "Bob",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
-        "Cities in Ruins"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Rita Young - Starting Equipment",
+    "name": "Rita Young - Starting Equipment 2",
     "region": "Rita",
     "category": [
         "Investigator Unlocks",
@@ -4583,25 +3759,6 @@
     "region": "Rita",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Rita Young - Mystic Ruins Encounter",
-    "region": "Rita",
-    "category": [
-        "Investigator Encounters",
-        "Cities in Ruins"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Rita Young - Dream-Quest Encounter",
-    "region": "Rita",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
         "Cities in Ruins"
     ],
     "requires": ""
@@ -4689,25 +3846,6 @@
     "requires": ""
   },
   {
-    "name": "Roland Banks - Mystic Ruins Encounter",
-    "region": "Roland",
-    "category": [
-        "Investigator Encounters",
-        "Cities in Ruins"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Roland Banks - Dream-Quest Encounter",
-    "region": "Roland",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands",
-        "Cities in Ruins"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Agatha Crane - Starting Equipment 1",
     "region": "Agatha",
     "category": [
@@ -4777,23 +3915,6 @@
     "region": "Agatha",
     "category": [
       "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Agatha Crane - Mystic Ruins Encounter",
-    "region": "Agatha",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Agatha Crane - Dream-Quest Encounter",
-    "region": "Agatha",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
     ],
     "requires": ""
   },
@@ -4871,23 +3992,6 @@
     "requires": ""
   },
   {
-    "name": "Calvin Wright - Mystic Ruins Encounter",
-    "region": "Calvin",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Calvin Wright - Dream-Quest Encounter",
-    "region": "Calvin",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Carson Sinclair - Starting Equipment 1",
     "region": "Carson",
     "category": [
@@ -4961,24 +4065,15 @@
     "requires": ""
   },
   {
-    "name": "Carson Sinclair - Mystic Ruins Encounter",
-    "region": "Carson",
+    "name": "Daniela Reyes - Starting Equipment 1",
+    "region": "Daniela",
     "category": [
-      "Investigator Encounters"
+        "Investigator Unlocks"
     ],
     "requires": ""
   },
   {
-    "name": "Carson Sinclair - Dream-Quest Encounter",
-    "region": "Carson",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Daniela Reyes - Starting Equipment",
+    "name": "Daniela Reyes - Starting Equipment 2",
     "region": "Daniela",
     "category": [
         "Investigator Unlocks"
@@ -5039,23 +4134,6 @@
     "region": "Daniela",
     "category": [
       "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Daniela Reyes - Mystic Ruins Encounter",
-    "region": "Daniela",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Daniela Reyes - Dream-Quest Encounter",
-    "region": "Daniela",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
     ],
     "requires": ""
   },
@@ -5125,23 +4203,6 @@
     "requires": ""
   },
   {
-    "name": "Father Mateo - Mystic Ruins Encounter",
-    "region": "Father",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Father Mateo - Dream-Quest Encounter",
-    "region": "Father",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Preston Fairmont - Starting Equipment",
     "region": "Preston",
     "category": [
@@ -5203,23 +4264,6 @@
     "region": "Preston",
     "category": [
       "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Preston Fairmont - Mystic Ruins Encounter",
-    "region": "Preston",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Preston Fairmont - Dream-Quest Encounter",
-    "region": "Preston",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
     ],
     "requires": ""
   },
@@ -5297,23 +4341,6 @@
     "requires": ""
   },
   {
-    "name": "Sefina Rousseau - Mystic Ruins Encounter",
-    "region": "Sefina",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Sefina Rousseau - Dream-Quest Encounter",
-    "region": "Sefina",
-    "category": [
-      "Investigator Encounters",
-      "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Any Investigator - Successful General City Encounter",
     "region": "General Region",
     "category": [
@@ -5339,14 +4366,6 @@
   },
   {
     "name": "Any Investigator - Successful Expedition Encounter",
-    "region": "General Region",
-    "category": [
-        "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Any Investigator - Successful Mystic Ruins Encounter",
     "region": "General Region",
     "category": [
         "Investigator Encounters"
@@ -6719,7 +5738,7 @@
         "HypnosMystery",
         "The Dreamlands"
     ],
-    "requires": "|@Investigators:4|"
+    "requires": "|@Investigators:4| AND |@Talents:2|"
   },
   {
     "name": "Hypnos - Dream Within a Dream",

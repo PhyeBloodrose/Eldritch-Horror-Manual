@@ -47,6 +47,14 @@
         "yaml_option": [ "Strange_Remnants", "Under_the_Pyramids" ],
         "hidden": true
     },
+    "CarcosaDream": {
+        "yaml_option": [ "Signs of Carcosa", "The Dreamlands" ],
+        "hidden": true
+    },
+    "DreamRuin": {
+        "yaml_option": [ "The Dreamlands", "Cities in Ruin" ],
+        "hidden": true
+    },
     "Personal Consequence": {
         "yaml_option": [ "Personal_Consequence" ],
         "hidden": true
@@ -158,6 +166,9 @@
         "hidden": true
     },
     "Glamour": {
+        "hidden": true
+    },
+    "Talents": {
         "hidden": true
     },
     "AncientDefeated": {

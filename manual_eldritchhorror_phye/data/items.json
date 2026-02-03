@@ -4797,5 +4797,179 @@
         "Character"
     ],
     "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Elusive",
+    "category": [
+        "Talent Conditions",
+        "Talents",
+        "CarcosaDream"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Headstrong",
+    "category": [
+        "Talent Conditions",
+        "Talents"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Martial Prowess",
+    "category": [
+        "Talent Conditions",
+        "Talents",
+        "CarcosaDream"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Resilient",
+    "category": [
+        "Talent Conditions",
+        "Talents"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Skulduggery",
+    "category": [
+        "Talent Conditions",
+        "Talents",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Studious",
+    "category": [
+        "Talent Conditions",
+        "Talents",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Composed",
+    "category": [
+        "Talent Conditions",
+        "Talents",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Moxie",
+    "category": [
+        "Talent Conditions",
+        "Talents",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Quick Study",
+    "category": [
+        "Talent Conditions",
+        "Talents",
+        "DreamRuin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Visions",
+    "category": [
+        "Talent Conditions",
+        "Talents",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Attuned",
+    "category": [
+        "Talent Conditions",
+        "Talents",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Guts",
+    "category": [
+        "Talent Conditions",
+        "Talents",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Practiced",
+    "category": [
+        "Talent Conditions",
+        "Talents"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Relentless",
+    "category": [
+        "Talent Conditions",
+        "Talents",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Rugged",
+    "category": [
+        "Talent Conditions",
+        "Talents",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Meditation",
+    "category": [
+        "Talent Conditions",
+        "Talents"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Perceptive",
+    "category": [
+        "Talent Conditions",
+        "Talents"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Silver Tongued",
+    "category": [
+        "Talent Conditions",
+        "Talents"
+    ],
+    "progression_skip_balancing": true
   }
 ]
