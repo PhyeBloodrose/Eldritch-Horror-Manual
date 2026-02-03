@@ -216,22 +216,6 @@
     "requires": ""
   },
   {
-    "name": "Akachi Onyele - Combat Encounter",
-    "region": "Akachi",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Akachi Onyele - Location Encounter",
-    "region": "Akachi",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Akachi Onyele - Research Encounter",
     "region": "Akachi",
     "category": [
@@ -277,22 +261,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Charlie Kane - Combat Encounter",
-    "region": "Charlie",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Charlie Kane - Location Encounter",
-    "region": "Charlie",
-    "category": [
-      "Investigator Encounters"
     ],
     "requires": ""
   },
@@ -354,22 +322,6 @@
     "requires": ""
   },
   {
-    "name": "Diana Stanley - Combat Encounter",
-    "region": "Diana",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Diana Stanley - Location Encounter",
-    "region": "Diana",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Diana Stanley - Research Encounter",
     "region": "Diana",
     "category": [
@@ -423,22 +375,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Jacqueline Fine - Combat Encounter",
-    "region": "Jacqueline",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Jacqueline Fine - Location Encounter",
-    "region": "Jacqueline",
-    "category": [
-      "Investigator Encounters"
     ],
     "requires": ""
   },
@@ -500,22 +436,6 @@
     "requires": ""
   },
   {
-    "name": "Jim Culver - Combat Encounter",
-    "region": "Jim",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Jim Culver - Location Encounter",
-    "region": "Jim",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Jim Culver - Research Encounter",
     "region": "Jim",
     "category": [
@@ -561,22 +481,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Leo Anderson - Combat Encounter",
-    "region": "Leo",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Leo Anderson - Location Encounter",
-    "region": "Leo",
-    "category": [
-      "Investigator Encounters"
     ],
     "requires": ""
   },
@@ -638,22 +542,6 @@
     "requires": ""
   },
   {
-    "name": "Lily Chen - Combat Encounter",
-    "region": "Lily",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Lily Chen - Location Encounter",
-    "region": "Lily",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Lily Chen - Research Encounter",
     "region": "Lily",
     "category": [
@@ -699,22 +587,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Lola Hayes - Combat Encounter",
-    "region": "Lola",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Lola Hayes - Location Encounter",
-    "region": "Lola",
-    "category": [
-      "Investigator Encounters"
     ],
     "requires": ""
   },
@@ -776,22 +648,6 @@
     "requires": ""
   },
   {
-    "name": "Mark Harrigan - Combat Encounter",
-    "region": "Mark",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Mark Harrigan - Location Encounter",
-    "region": "Mark",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Mark Harrigan - Research Encounter",
     "region": "Mark",
     "category": [
@@ -837,22 +693,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Norman Withers - Combat Encounter",
-    "region": "Norman",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Norman Withers - Location Encounter",
-    "region": "Norman",
-    "category": [
-      "Investigator Encounters"
     ],
     "requires": ""
   },
@@ -906,22 +746,6 @@
     "requires": ""
   },
   {
-    "name": "Silas Marsh - Combat Encounter",
-    "region": "Silas",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Silas Marsh - Location Encounter",
-    "region": "Silas",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Silas Marsh - Research Encounter",
     "region": "Silas",
     "category": [
@@ -967,22 +791,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Trish Scarborough - Combat Encounter",
-    "region": "Trish",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Trish Scarborough - Location Encounter",
-    "region": "Trish",
-    "category": [
-      "Investigator Encounters"
     ],
     "requires": ""
   },
@@ -1048,24 +856,6 @@
     "requires": ""
   },
   {
-    "name": "Agnes Baker - Combat Encounter",
-    "region": "Agnes",
-    "category": [
-      "Investigator Encounters",
-      "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Agnes Baker - Location Encounter",
-    "region": "Agnes",
-    "category": [
-        "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Agnes Baker - Research Encounter",
     "region": "Agnes",
     "category": [
@@ -1125,24 +915,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Daisy Walker - Combat Encounter",
-    "region": "Daisy",
-    "category": [
-        "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Daisy Walker - Location Encounter",
-    "region": "Daisy",
-    "category": [
-        "Investigator Encounters",
         "Mountains of Madness"
     ],
     "requires": ""
@@ -1221,24 +993,6 @@
     "requires": ""
   },
   {
-    "name": "Finn Edwards - Combat Encounter",
-    "region": "Finn",
-    "category": [
-        "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Finn Edwards - Location Encounter",
-    "region": "Finn",
-    "category": [
-        "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Finn Edwards - Research Encounter",
     "region": "Finn",
     "category": [
@@ -1298,24 +1052,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "George Barnaby - Combat Encounter",
-    "region": "George",
-    "category": [
-        "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "George Barnaby - Location Encounter",
-    "region": "George",
-    "category": [
-        "Investigator Encounters",
         "Mountains of Madness"
     ],
     "requires": ""
@@ -1385,24 +1121,6 @@
     "requires": ""
   },
   {
-    "name": "Patrice Hathaway - Combat Encounter",
-    "region": "Patrice",
-    "category": [
-        "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Patrice Hathaway - Location Encounter",
-    "region": "Patrice",
-    "category": [
-        "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Patrice Hathaway - Research Encounter",
     "region": "Patrice",
     "category": [
@@ -1453,24 +1171,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Tommy Muldoon - Combat Encounter",
-    "region": "Tommy",
-    "category": [
-        "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Tommy Muldoon - Location Encounter",
-    "region": "Tommy",
-    "category": [
-        "Investigator Encounters",
         "Mountains of Madness"
     ],
     "requires": ""
@@ -1531,24 +1231,6 @@
     "requires": ""
   },
   {
-    "name": "Ursula Downs - Combat Encounter",
-    "region": "Ursula",
-    "category": [
-        "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Ursula Downs - Location Encounter",
-    "region": "Ursula",
-    "category": [
-        "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Ursula Downs - Research Encounter",
     "region": "Ursula",
     "category": [
@@ -1599,24 +1281,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Wilson Richards - Combat Encounter",
-    "region": "Wilson",
-    "category": [
-        "Investigator Encounters",
-        "Mountains of Madness"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Wilson Richards - Location Encounter",
-    "region": "Wilson",
-    "category": [
-        "Investigator Encounters",
         "Mountains of Madness"
     ],
     "requires": ""
@@ -1686,24 +1350,6 @@
     "requires": ""
   },
   {
-    "name": "Marie Lambeau - Combat Encounter",
-    "region": "Marie",
-    "category": [
-        "Investigator Encounters",
-        "Strange Remnants"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Marie Lambeau - Location Encounter",
-    "region": "Marie",
-    "category": [
-        "Investigator Encounters",
-        "Strange Remnants"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Marie Lambeau - Research Encounter",
     "region": "Marie",
     "category": [
@@ -1754,24 +1400,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence",
-        "Strange Remnants"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "\"Skids\" O'Toole - Combat Encounter",
-    "region": "Skids",
-    "category": [
-        "Investigator Encounters",
-        "Strange Remnants"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "\"Skids\" O'Toole - Location Encounter",
-    "region": "Skids",
-    "category": [
-        "Investigator Encounters",
         "Strange Remnants"
     ],
     "requires": ""
@@ -1832,24 +1460,6 @@
     "requires": ""
   },
   {
-    "name": "Tony Morgan - Combat Encounter",
-    "region": "Tony",
-    "category": [
-        "Investigator Encounters",
-        "Strange Remnants"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Tony Morgan - Location Encounter",
-    "region": "Tony",
-    "category": [
-        "Investigator Encounters",
-        "Strange Remnants"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Tony Morgan - Research Encounter",
     "region": "Tony",
     "category": [
@@ -1900,24 +1510,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence",
-        "Strange Remnants"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Zoey Samaras - Combat Encounter",
-    "region": "Zoey",
-    "category": [
-        "Investigator Encounters",
-        "Strange Remnants"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Zoey Samaras - Location Encounter",
-    "region": "Zoey",
-    "category": [
-        "Investigator Encounters",
         "Strange Remnants"
     ],
     "requires": ""
@@ -1978,24 +1570,6 @@
     "requires": ""
   },
   {
-    "name": "Hank Samson - Combat Encounter",
-    "region": "Hank",
-    "category": [
-        "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Hank Samson - Location Encounter",
-    "region": "Hank",
-    "category": [
-        "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Hank Samson - Research Encounter",
     "region": "Hank",
     "category": [
@@ -2051,24 +1625,6 @@
     "requires": ""
   },
   {
-    "name": "Harvey Walters - Combat Encounter",
-    "region": "Harvey",
-    "category": [
-        "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Harvey Walters - Location Encounter",
-    "region": "Harvey",
-    "category": [
-        "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Harvey Walters - Research Encounter",
     "region": "Harvey",
     "category": [
@@ -2119,24 +1675,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Joe Diamond - Combat Encounter",
-    "region": "Joe",
-    "category": [
-        "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Joe Diamond - Location Encounter",
-    "region": "Joe",
-    "category": [
-        "Investigator Encounters",
         "Under the Pyramids"
     ],
     "requires": ""
@@ -2206,24 +1744,6 @@
     "requires": ""
   },
   {
-    "name": "Mandy Thompson - Combat Encounter",
-    "region": "Mandy",
-    "category": [
-        "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Mandy Thompson - Location Encounter",
-    "region": "Mandy",
-    "category": [
-        "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Mandy Thompson - Research Encounter",
     "region": "Mandy",
     "category": [
@@ -2283,24 +1803,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Minh Thi Phan - Combat Encounter",
-    "region": "Minh",
-    "category": [
-        "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Minh Thi Phan - Location Encounter",
-    "region": "Minh",
-    "category": [
-        "Investigator Encounters",
         "Under the Pyramids"
     ],
     "requires": ""
@@ -2370,24 +1872,6 @@
     "requires": ""
   },
   {
-    "name": "Monterey Jack - Combat Encounter",
-    "region": "Monterey",
-    "category": [
-        "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Monterey Jack - Location Encounter",
-    "region": "Monterey",
-    "category": [
-        "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Monterey Jack - Research Encounter",
     "region": "Monterey",
     "category": [
@@ -2443,24 +1927,6 @@
     "requires": ""
   },
   {
-    "name": "Rex Murphy - Combat Encounter",
-    "region": "Rex",
-    "category": [
-        "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Rex Murphy - Location Encounter",
-    "region": "Rex",
-    "category": [
-        "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Rex Murphy - Research Encounter",
     "region": "Rex",
     "category": [
@@ -2511,24 +1977,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Sister Mary - Combat Encounter",
-    "region": "Sister",
-    "category": [
-        "Investigator Encounters",
-        "Under the Pyramids"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Sister Mary - Location Encounter",
-    "region": "Sister",
-    "category": [
-        "Investigator Encounters",
         "Under the Pyramids"
     ],
     "requires": ""
@@ -2598,24 +2046,6 @@
     "requires": ""
   },
   {
-    "name": "Dexter Drake - Combat Encounter",
-    "region": "Dexter",
-    "category": [
-        "Investigator Encounters",
-        "Signs of Carcosa"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Dexter Drake - Location Encounter",
-    "region": "Dexter",
-    "category": [
-        "Investigator Encounters",
-        "Signs of Carcosa"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Dexter Drake - Research Encounter",
     "region": "Dexter",
     "category": [
@@ -2680,24 +2110,6 @@
     "requires": ""
   },
   {
-    "name": "Jenny Barnes - Combat Encounter",
-    "region": "Jenny",
-    "category": [
-        "Investigator Encounters",
-        "Signs of Carcosa"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Jenny Barnes - Location Encounter",
-    "region": "Jenny",
-    "category": [
-        "Investigator Encounters",
-        "Signs of Carcosa"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Jenny Barnes - Research Encounter",
     "region": "Jenny",
     "category": [
@@ -2748,24 +2160,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence",
-        "Signs of Carcosa"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Michael McGlen - Combat Encounter",
-    "region": "Michael",
-    "category": [
-        "Investigator Encounters",
-        "Signs of Carcosa"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Michael McGlen - Location Encounter",
-    "region": "Michael",
-    "category": [
-        "Investigator Encounters",
         "Signs of Carcosa"
     ],
     "requires": ""
@@ -2835,24 +2229,6 @@
     "requires": ""
   },
   {
-    "name": "Wendy Adams - Combat Encounter",
-    "region": "Wendy",
-    "category": [
-        "Investigator Encounters",
-        "Signs of Carcosa"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Wendy Adams - Location Encounter",
-    "region": "Wendy",
-    "category": [
-        "Investigator Encounters",
-        "Signs of Carcosa"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Wendy Adams - Research Encounter",
     "region": "Wendy",
     "category": [
@@ -2903,24 +2279,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Amanda Sharpe - Combat Encounter",
-    "region": "Amanda",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Amanda Sharpe - Location Encounter",
-    "region": "Amanda",
-    "category": [
-        "Investigator Encounters",
         "The Dreamlands"
     ],
     "requires": ""
@@ -2990,24 +2348,6 @@
     "requires": ""
   },
   {
-    "name": "Carolyn Fern - Combat Encounter",
-    "region": "Carolyn",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Carolyn Fern - Location Encounter",
-    "region": "Carolyn",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Carolyn Fern - Research Encounter",
     "region": "Carolyn",
     "category": [
@@ -3067,24 +2407,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Darrell Simmons - Combat Encounter",
-    "region": "Darrell",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Darrell Simmons - Location Encounter",
-    "region": "Darrell",
-    "category": [
-        "Investigator Encounters",
         "The Dreamlands"
     ],
     "requires": ""
@@ -3154,24 +2476,6 @@
     "requires": ""
   },
   {
-    "name": "Gloria Goldberg - Combat Encounter",
-    "region": "Gloria",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Gloria Goldberg - Location Encounter",
-    "region": "Gloria",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Gloria Goldberg - Research Encounter",
     "region": "Gloria",
     "category": [
@@ -3231,24 +2535,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Kate Winthrop - Combat Encounter",
-    "region": "Kate",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Kate Winthrop - Location Encounter",
-    "region": "Kate",
-    "category": [
-        "Investigator Encounters",
         "The Dreamlands"
     ],
     "requires": ""
@@ -3318,24 +2604,6 @@
     "requires": ""
   },
   {
-    "name": "Luke Robinson - Combat Encounter",
-    "region": "Luke",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Luke Robinson - Location Encounter",
-    "region": "Luke",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Luke Robinson - Research Encounter",
     "region": "Luke",
     "category": [
@@ -3395,24 +2663,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Vincent Lee - Combat Encounter",
-    "region": "Vincent",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Vincent Lee - Location Encounter",
-    "region": "Vincent",
-    "category": [
-        "Investigator Encounters",
         "The Dreamlands"
     ],
     "requires": ""
@@ -3482,24 +2732,6 @@
     "requires": ""
   },
   {
-    "name": "William Yorick - Combat Encounter",
-    "region": "William",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "William Yorick - Location Encounter",
-    "region": "William",
-    "category": [
-        "Investigator Encounters",
-        "The Dreamlands"
-    ],
-    "requires": ""
-  },
-  {
     "name": "William Yorick - Research Encounter",
     "region": "William",
     "category": [
@@ -3559,24 +2791,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence",
-        "Cities in Ruin"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "\"Ashcan\" Pete - Combat Encounter",
-    "region": "Ashcan",
-    "category": [
-        "Investigator Encounters",
-        "Cities in Ruin"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "\"Ashcan\" Pete - Location Encounter",
-    "region": "Ashcan",
-    "category": [
-        "Investigator Encounters",
         "Cities in Ruin"
     ],
     "requires": ""
@@ -3646,24 +2860,6 @@
     "requires": ""
   },
   {
-    "name": "Bob Jenkins - Combat Encounter",
-    "region": "Bob",
-    "category": [
-        "Investigator Encounters",
-        "Cities in Ruin"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Bob Jenkins - Location Encounter",
-    "region": "Bob",
-    "category": [
-        "Investigator Encounters",
-        "Cities in Ruin"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Bob Jenkins - Research Encounter",
     "region": "Bob",
     "category": [
@@ -3723,24 +2919,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence",
-        "Cities in Ruin"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Rita Young - Combat Encounter",
-    "region": "Rita",
-    "category": [
-        "Investigator Encounters",
-        "Cities in Ruin"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Rita Young - Location Encounter",
-    "region": "Rita",
-    "category": [
-        "Investigator Encounters",
         "Cities in Ruin"
     ],
     "requires": ""
@@ -3810,24 +2988,6 @@
     "requires": ""
   },
   {
-    "name": "Roland Banks - Combat Encounter",
-    "region": "Roland",
-    "category": [
-        "Investigator Encounters",
-        "Cities in Ruin"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Roland Banks - Location Encounter",
-    "region": "Roland",
-    "category": [
-        "Investigator Encounters",
-        "Cities in Ruin"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Roland Banks - Research Encounter",
     "region": "Roland",
     "category": [
@@ -3884,22 +3044,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Agatha Crane - Combat Encounter",
-    "region": "Agatha",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Agatha Crane - Location Encounter",
-    "region": "Agatha",
-    "category": [
-      "Investigator Encounters"
     ],
     "requires": ""
   },
@@ -3961,22 +3105,6 @@
     "requires": ""
   },
   {
-    "name": "Calvin Wright - Combat Encounter",
-    "region": "Calvin",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Calvin Wright - Location Encounter",
-    "region": "Calvin",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Calvin Wright - Research Encounter",
     "region": "Calvin",
     "category": [
@@ -4030,22 +3158,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Carson Sinclair - Combat Encounter",
-    "region": "Carson",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Carson Sinclair - Location Encounter",
-    "region": "Carson",
-    "category": [
-      "Investigator Encounters"
     ],
     "requires": ""
   },
@@ -4107,22 +3219,6 @@
     "requires": ""
   },
   {
-    "name": "Daniela Reyes - Combat Encounter",
-    "region": "Daniela",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Daniela Reyes - Location Encounter",
-    "region": "Daniela",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Daniela Reyes - Research Encounter",
     "region": "Daniela",
     "category": [
@@ -4172,22 +3268,6 @@
     "requires": ""
   },
   {
-    "name": "Father Mateo - Combat Encounter",
-    "region": "Father",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Father Mateo - Location Encounter",
-    "region": "Father",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Father Mateo - Research Encounter",
     "region": "Father",
     "category": [
@@ -4233,22 +3313,6 @@
     "category": [
         "Personal Stories",
         "Personal Consequence"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Preston Fairmont - Combat Encounter",
-    "region": "Preston",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Preston Fairmont - Location Encounter",
-    "region": "Preston",
-    "category": [
-      "Investigator Encounters"
     ],
     "requires": ""
   },
@@ -4310,22 +3374,6 @@
     "requires": ""
   },
   {
-    "name": "Sefina Rousseau - Combat Encounter",
-    "region": "Sefina",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Sefina Rousseau - Location Encounter",
-    "region": "Sefina",
-    "category": [
-      "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Sefina Rousseau - Research Encounter",
     "region": "Sefina",
     "category": [
@@ -4353,7 +3401,7 @@
     "name": "Any Investigator - Successful General City Encounter",
     "region": "General Region",
     "category": [
-        "Investigator Encounters"
+        "Any Investigator Encounters"
     ],
     "requires": ""
   },
@@ -4361,7 +3409,7 @@
     "name": "Any Investigator - Successful General Wilderness Encounter",
     "region": "General Region",
     "category": [
-        "Investigator Encounters"
+        "Any Investigator Encounters"
     ],
     "requires": ""
   },
@@ -4369,7 +3417,7 @@
     "name": "Any Investigator - Successful General Sea Encounter",
     "region": "General Region",
     "category": [
-        "Investigator Encounters"
+        "Any Investigator Encounters"
     ],
     "requires": ""
   },
@@ -4377,23 +3425,15 @@
     "name": "Any Investigator - Successful Expedition Encounter",
     "region": "General Region",
     "category": [
-        "Investigator Encounters"
+        "Any Investigator Encounters"
     ],
     "requires": ""
   },
   {
-    "name": "Any Investigator - Successful Otherworld Encounter",
+    "name": "Any Investigator - Successful Other World Encounter",
     "region": "General Region",
     "category": [
-        "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Any Investigator - Successful Combat Encounter",
-    "region": "General Region",
-    "category": [
-        "Investigator Encounters"
+        "Any Investigator Encounters"
     ],
     "requires": ""
   },
@@ -4401,7 +3441,7 @@
     "name": "Any Investigator - Successful Research Encounter",
     "region": "General Region",
     "category": [
-        "Investigator Encounters"
+        "Any Investigator Encounters"
     ],
     "requires": ""
   },
@@ -4409,7 +3449,7 @@
     "name": "Any Investigator - Successful America Encounter",
     "region": "General Region",
     "category": [
-        "Investigator Encounters"
+        "Any Investigator Encounters"
     ],
     "requires": ""
   },
@@ -4417,7 +3457,7 @@
     "name": "Any Investigator - Successful Europe Encounter",
     "region": "General Region",
     "category": [
-        "Investigator Encounters"
+        "Any Investigator Encounters"
     ],
     "requires": ""
   },
@@ -4425,7 +3465,39 @@
     "name": "Any Investigator - Successful Asia Encounter",
     "region": "General Region",
     "category": [
-        "Investigator Encounters"
+        "Any Investigator Encounters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Buy from the Reserve - Slot 1",
+    "region": "General Region",
+    "category": [
+        "Any Investigator Encounters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Buy from the Reserve - Slot 2",
+    "region": "General Region",
+    "category": [
+        "Any Investigator Encounters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Buy from the Reserve - Slot 3",
+    "region": "General Region",
+    "category": [
+        "Any Investigator Encounters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Buy from the Reserve - Slot 4",
+    "region": "General Region",
+    "category": [
+        "Any Investigator Encounters"
     ],
     "requires": ""
   },
