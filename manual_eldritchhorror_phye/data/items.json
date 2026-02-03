@@ -2545,6 +2545,1156 @@
   },
   {
     "count": 1,
+    "name": ".45 Colt Revolver",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Weapon",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Appeal to the Council",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Bodyguard",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Conspiracy Theorist",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Elder SIgn",
+    "category": [
+        "Assets Deck",
+        "Trinket",
+        "Magical",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Enchanted Blade",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Magical Weapon",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Fresh Fruit",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Intelligence Report",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lantern",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lucky Ring",
+    "category": [
+        "Assets Deck",
+        "Trinket",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mystic Bounty Hunter",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Police Assistance",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Police Ledger",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Research Student",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Syndicate Agent",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Tear Gas",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Weapon",
+        "Forsaken Lore"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Astronomy Guidebook",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Blunderbuss",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Weapon",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Courier Needed!",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Cultist's Journal",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Magical",
+        "Tome",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Gambler's Dice",
+    "category": [
+        "Assets Deck",
+        "Trinket",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Genealogy Research",
+    "category": [
+        "Assets Deck",
+        "Task",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Investment",
+    "category": [
+        "Assets Deck",
+        "Task",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Map of the Ley Lines",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mineralogy Research",
+    "category": [
+        "Assets Deck",
+        "Task",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Monster Hunter",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Newspaper Report",
+    "category": [
+        "Assets Deck",
+        "Task",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Patrolling the Streets",
+    "category": [
+        "Assets Deck",
+        "Task",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Profane Tome",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Search the Archives",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Secret Page",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Tome of Horrors",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome",
+        "Mountains of Madness"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Agent of Secrets",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Arcane Blade",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Magical Weapon",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Consecration",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Expedition Guide",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Expedition Map",
+    "category": [
+        "Assets Deck",
+        "Trinket",
+        "Tome",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Gruesome Talisman",
+    "category": [
+        "Assets Deck",
+        "Trinket",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Handcuffs",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Holy Spear",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Magical Weapon",
+        "Relic",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lavish Feast",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Medical Journal",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Museum Curator",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mysterious Tome",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Opus Arcana",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ritual Dagger",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Magical Weapon",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Tome of Secrets",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome",
+        "Strange Remnants"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": ".32 Colt Pocket",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Weapon",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ancient Tome",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Relic",
+        "Tome",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ankh",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Relic",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Arcane Scroll",
+    "category": [
+        "Assets Deck",
+        "Trinket",
+        "Tome",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Book of Spells",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Curiousity Shoppe",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Enchanted Dagger",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Magical Weapon",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lucky Talisman",
+    "category": [
+        "Assets Deck",
+        "Trinket",
+        "Relic",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Magick Shoppe",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Magnifying Glass",
+    "category": [
+        "Assets Deck",
+        "Trinket",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Psychoanalyst",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ritual Candles",
+    "category": [
+        "Assets Deck",
+        "Trinket",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Scribe's Journal",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Sledgehammer",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Weapon",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Treasure Hunter",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ward Evil",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "Under the Pyramids"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Arcane Assistant",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Assassination",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Chief Inspector",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Enchanted Cane",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Magical Weapon",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Esteemed Author",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Fine Jewelry",
+    "category": [
+        "Assets Deck",
+        "Trinket",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Flamethrower",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Weapon",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lodge Disciple",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lodge Physician",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Occult Text",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Rumor Mill",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Security Squad",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Specialist",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Three-card Monte",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Tommy Gun",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Weapon",
+        "Signs of Carcosa"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Alchemical Concoction",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Magical",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Arcanist",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Camera",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Divination",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Dream Box",
+    "category": [
+        "Assets Deck",
+        "Trinket",
+        "Magical",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Dream Diary",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Enchanted Bow",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Magical Weapon",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Forbidden Text",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Hitman",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Night Classes",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Occult Grimoire",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Otherworld Codex",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Police Raid",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Seek the Truth",
+    "category": [
+        "Assets Deck",
+        "Task",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Skeleton Keys",
+    "category": [
+        "Assets Deck",
+        "Trinket",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Willful Aristocrat",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "The Dreamlands"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Agency Stakeout",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Arcane Sutra",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Forbidden Secrets",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Gatling Gun",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Weapon",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Grisly Totem",
+    "category": [
+        "Assets Deck",
+        "Trinket",
+        "Magical",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lodge Hunter",
+    "category": [
+        "Assets Deck",
+        "Ally",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mauser C96",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Weapon",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mission Briefing",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mystic Scroll",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "News Report",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Occult Scripture",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Painkillers",
+    "category": [
+        "Assets Deck",
+        "Trinket",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Private Flight",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Silver Twilight Host",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Training Regimen",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Winchester Rifle",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Weapon",
+        "Cities in Ruin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
     "name": "Ancient Manuscript",
     "category": [
         "Assets Deck",
