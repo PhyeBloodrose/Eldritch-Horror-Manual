@@ -3236,6 +3236,103 @@
     "requires": "|@Sea Clue|"
   },
   {
+    "name": "Atlach-Nacha - Beasts from Beyond",
+    "region": "Atlach-Nacha",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Atlach-NachaMystery",
+        "The Dreamlands"
+    ],
+    "requires": "|@Investigators:4| AND (|@Weapon| OR |@Magical Weapon|)"
+  },
+  {
+    "name": "Atlach-Nacha - Caught in the Web",
+    "region": "Atlach-Nacha",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Atlach-NachaMystery",
+        "The Dreamlands"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Atlach-Nacha - Severing the Links",
+    "region": "Atlach-Nacha",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Atlach-NachaMystery",
+        "The Dreamlands"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4| AND |@Spells:4|"
+  },
+  {
+    "name": "Atlach-Nacha - Shroud of the Spider-Mother",
+    "region": "Atlach-Nacha",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Atlach-NachaMystery",
+        "The Dreamlands"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Atlach-Nacha - Sleeper of N'kai",
+    "region": "Atlach-Nacha",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Atlach-NachaMystery",
+        "The Dreamlands"
+    ],
+    "requires": "|@Investigators:4| AND (|@Clues:6| OR |@Spells:4|)"
+  },
+  {
+    "name": "Atlach-Nacha - The Brood",
+    "region": "Atlach-Nacha",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Atlach-NachaMystery",
+        "The Dreamlands"
+    ],
+    "requires": "|@Investigators:4| AND |Crux of Cykranosh| AND (|@Weapon| OR |@Magical Weapon|)"
+  },
+  {
+    "name": "Atlach-Nacha Defeated",
+    "region": "Atlach-Nacha",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AncientDefeated",
+        "The Dreamlands"
+    ],
+    "requires": "{canReachCategory(Atlach-NachaMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
+  },
+  {
+    "name": "Atlach-Nacha - City Research Encounter",
+    "region": "Atlach-Nacha",
+    "category": [
+        "Ancient Ones Research",
+        "The Dreamlands"
+    ],
+    "requires": "|@City Clue|"
+  },
+  {
+    "name": "Atlach-Nacha - Wilderness Research Encounter",
+    "region": "Atlach-Nacha",
+    "category": [
+        "Ancient Ones Research",
+        "The Dreamlands"
+    ],
+    "requires": "|@Wilderness Clue|"
+  },
+  {
+    "name": "Atlach-Nacha - Sea Research Encounter",
+    "region": "Atlach-Nacha",
+    "category": [
+        "Ancient Ones Research",
+        "The Dreamlands"
+    ],
+    "requires": "|@Sea Clue|"
+  },
+  {
     "name": "Antediluvium - Dread Countenance",
     "region": "Antediluvium",
     "category": [
