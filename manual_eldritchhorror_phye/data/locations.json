@@ -3119,6 +3119,123 @@
     "requires": "|@Sea Clue|"
   },
   {
+    "name": "Hastur - Beneath the Alien Sky",
+    "region": "Hastur",
+    "category": [
+        "Ancient Ones Mysteries",
+        "HasturMystery",
+        "Signs of Carcosa"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:8|"
+  },
+  {
+    "name": "Hastur - Cities on the Lake",
+    "region": "Hastur",
+    "category": [
+        "Ancient Ones Mysteries",
+        "HasturMystery",
+        "Signs of Carcosa"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:8|"
+  },
+  {
+    "name": "Hastur - Finding The Way",
+    "region": "Hastur",
+    "category": [
+        "Ancient Ones Mysteries",
+        "HasturMystery",
+        "Signs of Carcosa"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4| AND |Key to Carcosa|"
+  },
+  {
+    "name": "Hastur - He Who Is Not to be Named",
+    "region": "Hastur",
+    "category": [
+        "Ancient Ones Mysteries",
+        "HasturMystery",
+        "Signs of Carcosa"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:8|"
+  },
+  {
+    "name": "Hastur - Ravages of the Blight",
+    "region": "Hastur",
+    "category": [
+        "Ancient Ones Mysteries",
+        "HasturMystery",
+        "Signs of Carcosa"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:12| AND |@Ally:4|"
+  },
+  {
+    "name": "Hastur - Spawn of Hastur",
+    "region": "Hastur",
+    "category": [
+        "Ancient Ones Mysteries",
+        "HasturMystery",
+        "Signs of Carcosa"
+    ],
+    "requires": "|@Investigators:4| AND (|@Weapon| OR |@Magical Weapon|)"
+  },
+  {
+    "name": "Hastur - The King in Yellow",
+    "region": "Hastur",
+    "category": [
+        "Ancient Ones Mysteries",
+        "HasturMystery",
+        "Signs of Carcosa"
+    ],
+    "requires": "|@Investigators:4|"
+  },
+  {
+    "name": "Hastur - The Yellow Sign",
+    "region": "Hastur",
+    "category": [
+        "Ancient Ones Mysteries",
+        "HasturMystery",
+        "Signs of Carcosa"
+    ],
+    "requires": "|@Investigators:4|"
+  },
+  {
+    "name": "Hastur Defeated",
+    "region": "Hastur",
+    "category": [
+         "Ancient Ones Mysteries",
+         "AncientDefeated",
+         "Signs of Carcosa"
+    ],
+    "requires": "{canReachCategory(HasturMystery,2)} AND |@Ancient Ones:3|"
+  },
+  {
+    "name": "Hastur - City Research Encounter",
+    "region": "Hastur",
+    "category": [
+        "Ancient Ones Research",
+        "Signs of Carcosa"
+    ],
+    "requires": "|@City Clue|"
+  },
+  {
+    "name": "Hastur - Wilderness Research Encounter",
+    "region": "Hastur",
+    "category": [
+        "Ancient Ones Research",
+        "Signs of Carcosa"
+    ],
+    "requires": "|@Wilderness Clue|"
+  },
+  {
+    "name": "Hastur - Sea Research Encounter",
+    "region": "Hastur",
+    "category": [
+        "Ancient Ones Research",
+        "Signs of Carcosa"
+    ],
+    "requires": "|@Sea Clue|"
+  },
+  {
     "name": "Antediluvium - Dread Countenance",
     "region": "Antediluvium",
     "category": [
