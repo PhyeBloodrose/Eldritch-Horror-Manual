@@ -3430,6 +3430,103 @@
     "requires": "|@Sea Clue|"
   },
   {
+    "name": "Shudde M'ell - Bringer of Ruin",
+    "region": "Shudde M'ell",
+    "category": [
+        "Ancient Ones Mysteries",
+        "ShuddeMellMystery",
+        "Cities in Ruin"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Shudde M'ell - Disaster Relief Effort",
+    "region": "Shudde M'ell",
+    "category": [
+        "Ancient Ones Mysteries",
+        "ShuddeMellMystery",
+        "Cities in Ruin"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Shudde M'ell - Exploring G'harne",
+    "region": "Shudde M'ell",
+    "category": [
+        "Ancient Ones Mysteries",
+        "ShuddeMellMystery",
+        "Cities in Ruin"
+    ],
+    "requires": "|@Investigators:4|"
+  },
+  {
+    "name": "Shudde M'ell - Renewing the Seal",
+    "region": "Shudde M'ell",
+    "category": [
+        "Ancient Ones Mysteries",
+        "ShuddeMellMystery",
+        "Cities in Ruin"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Shudde M'ell - The Burrowers Beneath",
+    "region": "Shudde M'ell",
+    "category": [
+        "Ancient Ones Mysteries",
+        "ShuddeMellMystery",
+        "Cities in Ruin"
+    ],
+    "requires": "|@Investigators:4| AND |@City Clue| AND |@Wilderness Clue| AND (|@Weapon| OR |@Magical Weapon|)"
+  },
+  {
+    "name": "Shudde M'ell - The Worldrender",
+    "region": "Shudde M'ell",
+    "category": [
+        "Ancient Ones Mysteries",
+        "ShuddeMellMystery",
+        "Cities in Ruin"
+    ],
+    "requires": "|@Investigators:4| AND |Vach-Viraj Chant|"
+  },
+  {
+    "name": "Shudde M'ell Defeated",
+    "region": "Shudde M'ell",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AncientDefeated",
+        "Cities in Ruin"
+    ],
+    "requires": "{canReachCategory(ShuddeMellMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
+  },
+  {
+    "name": "Shudde M'ell - City Research Encounter",
+    "region": "Shudde M'ell",
+    "category": [
+        "Ancient Ones Research",
+        "Cities in Ruin"
+    ],
+    "requires": "|@City Clue|"
+  },
+  {
+    "name": "Shudde M'ell - Wilderness Research Encounter",
+    "region": "Shudde M'ell",
+    "category": [
+        "Ancient Ones Research",
+        "Cities in Ruin"
+    ],
+    "requires": "|@Wilderness Clue|"
+  },
+  {
+    "name": "Shudde M'ell - Sea Research Encounter",
+    "region": "Shudde M'ell",
+    "category": [
+        "Ancient Ones Research",
+        "Cities in Ruin"
+    ],
+    "requires": "|@Sea Clue|"
+  },
+  {
     "name": "Antediluvium - Dread Countenance",
     "region": "Antediluvium",
     "category": [

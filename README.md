@@ -5,6 +5,12 @@ Minimum requirements to play this Manual:
   
 You may have to use proxies to use the preludes you do not have access to since the preludes required may be from other expansions.
 
+If you do not want to use proxies for the Preludes of the Core Set Ancient Ones, these are the expansions you require to obtain as well:
+* Azathoth - Mountains of Madness
+* Cthulhu - Under the Pyramids
+* Shub-Niggurath - The Dreamlands
+* Yog-Sothoth - Strange Remnants
+
 ## Campaign Rules
 For more information about how the Campaign Mode works, look no further than this wiki: https://eldritchhorror.fandom.com/wiki/Campaign
 
