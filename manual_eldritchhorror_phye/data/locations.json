@@ -3022,6 +3022,103 @@
     "requires": "|@Sea Clue|"
   },
   {
+    "name": "Nephren-Ka - Exploring Egypt",
+    "region": "Nephren-Ka",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Nephren-KaMystery",
+        "Under the Pyramids"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Nephren-Ka - Haunter of the Dark",
+    "region": "Nephren-Ka",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Nephren-KaMystery",
+        "Under the Pyramids"
+    ],
+    "requires": "|@Investigators:4| AND |Shining Trapezohedron| AND (|@Weapon| OR |@Magical Weapon|)"
+  },
+  {
+    "name": "Nephren-Ka - Stricken from History",
+    "region": "Nephren-Ka",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Nephren-KaMystery",
+        "Under the Pyramids"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Nephren-Ka - The Beast",
+    "region": "Nephren-Ka",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Nephren-KaMystery",
+        "Under the Pyramids"
+    ],
+    "requires": "|@Investigators:4| AND |@Relic| AND (|@Weapon| OR |@Magical Weapon|)"
+  },
+  {
+    "name": "Nephren-Ka - The Black Wind",
+    "region": "Nephren-Ka",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Nephren-KaMystery",
+        "Under the Pyramids"
+    ],
+    "requires": "|@Investigators:4|"
+  },
+  {
+    "name": "Nephren-Ka - Worshippers of a Forsaken Pharaoh",
+    "region": "Nephren-Ka",
+    "category": [
+        "Ancient Ones Mysteries",
+        "Nephren-KaMystery",
+        "Under the Pyramids"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4| AND (|@Weapon| OR |@Magical Weapon|)"
+  },
+  {
+    "name": "Nephren-Ka Defeated",
+    "region": "Nephren-Ka",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AncientDefeated",
+        "Under the Pyramids"
+    ],
+    "requires": "{canReachCategory(Nephren-KaMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
+  },
+  {
+    "name": "Nephren-Ka - City Research Encounter",
+    "region": "Nephren-Ka",
+    "category": [
+        "Ancient Ones Research",
+        "Under the Pyramids"
+    ],
+    "requires": "|@City Clue|"
+  },
+  {
+    "name": "Nephren-Ka - Wilderness Research Encounter",
+    "region": "Nephren-Ka",
+    "category": [
+        "Ancient Ones Research",
+        "Under the Pyramids"
+    ],
+    "requires": "|@Wilderness Clue|"
+  },
+  {
+    "name": "Nephren-Ka - Sea Research Encounter",
+    "region": "Nephren-Ka",
+    "category": [
+        "Ancient Ones Research",
+        "Under the Pyramids"
+    ],
+    "requires": "|@Sea Clue|"
+  },
+  {
     "name": "Antediluvium - Dread Countenance",
     "region": "Antediluvium",
     "category": [
