@@ -2408,6 +2408,7 @@
         "Item",
         "Magical Weapon",
         "Relic",
+        "FlipRelic",
         "StrangePyramid"
     ],
     "progression_skip_balancing": true
@@ -2451,7 +2452,8 @@
         "Unique Assets Deck",
         "Item",
         "Magical",
-        "Relic"
+        "Relic",
+        "FlipRelic"
     ],
     "progression_skip_balancing": true
   },
@@ -2463,6 +2465,7 @@
         "Item",
         "Magical",
         "Relic",
+        "FlipRelic",
         "StrangePyramid"
     ],
     "progression_skip_balancing": true
@@ -2495,7 +2498,8 @@
         "Unique Assets Deck",
         "Item",
         "Magical",
-        "Relic"
+        "Relic",
+        "FlipRelic"
     ],
     "progression_skip_balancing": true
   },
@@ -2506,6 +2510,7 @@
         "Unique Assets Deck",
         "Item",
         "Relic",
+        "FlipRelic",
         "Strange Remnants"
     ],
     "progression_skip_balancing": true
@@ -2516,7 +2521,8 @@
     "category": [
         "Unique Assets Deck",
         "Item",
-        "Relic"
+        "Relic",
+        "FlipRelic"
     ],
     "progression_skip_balancing": true
   },
@@ -2528,6 +2534,7 @@
         "Item",
         "Magical",
         "Relic",
+        "FlipRelic",
         "Under the Pyramids"
     ],
     "progression_skip_balancing": true
@@ -2550,7 +2557,8 @@
         "Unique Assets Deck",
         "Item",
         "Magical",
-        "Relic"
+        "Relic",
+        "FlipRelic"
     ],
     "progression_skip_balancing": true
   },
@@ -2583,6 +2591,7 @@
         "Unique Assets Deck",
         "Item",
         "Relic",
+        "FlipRelic",
         "Under the Pyramids"
     ],
     "progression_skip_balancing": true
@@ -2616,6 +2625,7 @@
         "Trinket",
         "Magical",
         "Relic",
+        "FlipScarab",
         "Under the Pyramids"
     ],
     "progression_skip_balancing": true
@@ -2638,6 +2648,7 @@
         "Trinket",
         "Magical",
         "Relic",
+        "FlipScarab",
         "Under the Pyramids"
     ],
     "progression_skip_balancing": true
@@ -2650,6 +2661,7 @@
         "Item",
         "Magical",
         "Relic",
+        "FlipRelic",
         "Under the Pyramids"
     ],
     "progression_skip_balancing": true
@@ -2671,7 +2683,8 @@
         "Unique Assets Deck",
         "Ally",
         "Magical",
-        "Relic"
+        "Relic",
+        "FlipRelic"
     ],
     "progression_skip_balancing": true
   },
@@ -2987,6 +3000,7 @@
         "Unique Assets Deck",
         "Item",
         "Relic",
+        "FlipRelic",
         "Tome"
     ],
     "progression_skip_balancing": true
@@ -3048,7 +3062,8 @@
         "Unique Assets Deck",
         "Item",
         "Magical",
-        "Relic"
+        "Relic",
+        "FlipRelic"
     ],
     "progression_skip_balancing": true
   },
@@ -3068,7 +3083,8 @@
         "Unique Assets Deck",
         "Trinket",
         "Magical",
-        "Relic"
+        "Relic",
+        "FlipRelic"
     ],
     "progression_skip_balancing": true
   },
@@ -3078,7 +3094,8 @@
     "category": [
         "Unique Assets Deck",
         "Item",
-        "Relic"
+        "Relic",
+        "FlipRelic"
     ],
     "progression_skip_balancing": true
   },

@@ -2867,7 +2867,7 @@
         "Ancient Ones Mysteries",
         "Strange Remnants"
     ],
-    "requires": "|@Investigators:4| AND |@Clues:4| AND |@Relic:4|"
+    "requires": "|@Investigators:4| AND |@Clues:4| AND (|@FlipRelic:4| OR {OptOne((|@FlipScarab:2| AND |@FlipRelic:2|))})"
   },
   {
     "name": "Syzygy - Shrouded in Mysticism",
@@ -3326,6 +3326,103 @@
   {
     "name": "Atlach-Nacha - Sea Research Encounter",
     "region": "Atlach-Nacha",
+    "category": [
+        "Ancient Ones Research",
+        "The Dreamlands"
+    ],
+    "requires": "|@Sea Clue|"
+  },
+  {
+    "name": "Hypnos - Descending the Steps",
+    "region": "Hypnos",
+    "category": [
+        "Ancient Ones Mysteries",
+        "HypnosMystery",
+        "The Dreamlands"
+    ],
+    "requires": "|@Investigators:4|"
+  },
+  {
+    "name": "Hypnos - Dream Within a Dream",
+    "region": "Hypnos",
+    "category": [
+        "Ancient Ones Mysteries",
+        "HypnosMystery",
+        "The Dreamlands"
+    ],
+    "requires": "|@Investigators:4|"
+  },
+  {
+    "name": "Hypnos - Dreamwalker",
+    "region": "Hypnos",
+    "category": [
+        "Ancient Ones Mysteries",
+        "HypnosMystery",
+        "The Dreamlands"
+    ],
+    "requires": "|@Investigators:4| AND |@City Clue:2|"
+  },
+  {
+    "name": "Hypnos - Master of Dreams",
+    "region": "Hypnos",
+    "category": [
+        "Ancient Ones Mysteries",
+        "HypnosMystery",
+        "The Dreamlands"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Hypnos - The Hubris of Man",
+    "region": "Hypnos",
+    "category": [
+        "Ancient Ones Mysteries",
+        "HypnosMystery",
+        "The Dreamlands"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4| AND |Elder Key| AND |@Task|"
+  },
+  {
+    "name": "Hypnos - Visions of Hypnos",
+    "region": "Hypnos",
+    "category": [
+        "Ancient Ones Mysteries",
+        "HypnosMystery",
+        "The Dreamlands"
+    ],
+    "requires": "|@Investigators:4| AND |@Clues:4|"
+  },
+  {
+    "name": "Hypnos Defeated",
+    "region": "Hypnos",
+    "category": [
+        "Ancient Ones Mysteries",
+        "AncientDefeated",
+        "The Dreamlands"
+    ],
+    "requires": "{canReachCategory(HypnosMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
+  },
+  {
+    "name": "Hypnos - City Research Encounter",
+    "region": "Hypnos",
+    "category": [
+        "Ancient Ones Research",
+        "The Dreamlands"
+    ],
+    "requires": "|@City Clue|"
+  },
+  {
+    "name": "Hypnos - Wilderness Research Encounter",
+    "region": "Hypnos",
+    "category": [
+        "Ancient Ones Research",
+        "The Dreamlands"
+    ],
+    "requires": "|@Wilderness Clue|"
+  },
+  {
+    "name": "Hypnos - Sea Research Encounter",
+    "region": "Hypnos",
     "category": [
         "Ancient Ones Research",
         "The Dreamlands"

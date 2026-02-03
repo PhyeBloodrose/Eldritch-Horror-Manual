@@ -124,6 +124,12 @@
     "Relic": {
         "hidden": true
     },
+    "FlipRelic": {
+        "hidden": true
+    },
+    "FlipScarab": {
+        "hidden": true
+    },
     "Trinket": {
         "hidden": true
     },
@@ -182,6 +188,12 @@
         "hidden": true
     },
     "HasturMystery": {
+        "hidden": true
+    },
+    "Atlach-NachaMystery": {
+        "hidden": true
+    },
+    "HypnosMystery": {
         "hidden": true
     },
     "AntediluviumMystery": {
