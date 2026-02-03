@@ -269,7 +269,7 @@
     "category": [
       "Personal Stories"
     ],
-    "requires": ""
+    "requires": "{canReachCategory(Ancient Ones Mysteries,1)}"
   },
   {
     "name": "Charlie Kane - Citizen Kane - Dark Times",
@@ -415,7 +415,7 @@
     "category": [
       "Personal Stories"
     ],
-    "requires": ""
+    "requires": "|@Clues:7|"
   },
   {
     "name": "Jacqueline Fine - Arbiter of Fate - Dark Future",
@@ -553,7 +553,7 @@
     "category": [
       "Personal Stories"
     ],
-    "requires": ""
+    "requires": "|@Ally:5|"
   },
   {
     "name": "Leo Anderson - The Expedition - All Your Fault",
@@ -829,7 +829,7 @@
     "category": [
       "Personal Stories"
     ],
-    "requires": ""
+    "requires": "{canReachCategory(Ancient Ones Mysteries,1)}"
   },
   {
     "name": "Norman Withers - Written in the Stars - Discredited",
@@ -959,7 +959,7 @@
     "category": [
       "Personal Stories"
     ],
-    "requires": ""
+    "requires": "{canReachCategory(Ancient Ones Mysteries,1)}"
   },
   {
     "name": "Trish Scarborough - Cracking the Code - Shadows",
@@ -1117,7 +1117,7 @@
         "Personal Stories",
         "Mountains of Madness"
     ],
-    "requires": ""
+    "requires": "|@Clues:7|"
   },
   {
     "name": "Daisy Walker - Unknown Secrets - Anterograde Amnesia",
@@ -1208,7 +1208,7 @@
         "Personal Stories",
         "Mountains of Madness"
     ],
-    "requires": ""
+    "requires": "|Courier Run| AND |@City Clue| AND |@Clues:3|"
   },
   {
     "name": "Finn Edwards - Don't Get Caught - Known Criminal",
@@ -1372,7 +1372,7 @@
         "Personal Stories",
         "Mountains of Madness"
     ],
-    "requires": ""
+    "requires": "|@Clues:5|"
   },
   {
     "name": "Patrice Hathaway - Cadenza - Chant du Cygne",
@@ -1518,7 +1518,7 @@
         "Personal Stories",
         "Mountains of Madness"
     ],
-    "requires": ""
+    "requires": "|@Artifact Deck|"
   },
   {
     "name": "Ursula Downs - Next Big Discovery - Pandora's Box",
@@ -1673,7 +1673,7 @@
         "Personal Stories",
         "Strange Remnants"
     ],
-    "requires": ""
+    "requires": "|@Glamour| AND |@Ritual| AND |@Incantation|"
   },
   {
     "name": "Marie Lambeau - Grand-mere's Warning - Evil of Old",
@@ -1892,7 +1892,7 @@
         "Personal Stories",
         "Strange Remnants"
     ],
-    "requires": ""
+    "requires": "|@FlipTask:3|"
   },
   {
     "name": "Zoey Samaras - In His Name - Gone Astray",
@@ -1965,7 +1965,7 @@
         "Personal Stories",
         "Under the Pyramids"
     ],
-    "requires": ""
+    "requires": "|@Clues:3|"
   },
   {
     "name": "Hank Samson - Where's Pa? - Congenital Analgesia",
@@ -2111,7 +2111,7 @@
         "Personal Stories",
         "Under the Pyramids"
     ],
-    "requires": ""
+    "requires": "{canReachCategory(Ancient Ones Mysteries,1)}"
   },
   {
     "name": "Joe Diamond - Finish the Job - Cold Case",
@@ -2193,7 +2193,7 @@
         "Personal Stories",
         "Under the Pyramids"
     ],
-    "requires": ""
+    "requires": "{canReachCategory(Ancient Ones Mysteries,1)}"
   },
   {
     "name": "Mandy Thompson - Connect the Dots - Inevitability",
@@ -2275,7 +2275,7 @@
         "Personal Stories",
         "Under the Pyramids"
     ],
-    "requires": ""
+    "requires": "{canReachCategory(Ancient Ones Mysteries,1)}"
   },
   {
     "name": "Minh Thi Phan - Alone and Afraid - Falling Apart",
@@ -2430,7 +2430,7 @@
         "Personal Stories",
         "Under the Pyramids"
     ],
-    "requires": ""
+    "requires": "|@Clues:7|"
   },
   {
     "name": "Rex Murphy - Dispelling the Curse - Downward Spiral",
@@ -2503,7 +2503,7 @@
         "Personal Stories",
         "Under the Pyramids"
     ],
-    "requires": ""
+    "requires": "{canReachCategory(Ancient Ones Mysteries,1)}"
   },
   {
     "name": "Sister Mary - He is My Shepherd - Faith Shaken",
@@ -2585,7 +2585,7 @@
         "Personal Stories",
         "Signs of Carcosa"
     ],
-    "requires": ""
+    "requires": "|@Spells|"
   },
   {
     "name": "Dexter Drake - The Great Drake - Delve Too Deep",
@@ -2667,7 +2667,7 @@
         "Personal Stories",
         "Signs of Carcosa"
     ],
-    "requires": ""
+    "requires": "|@Clues:5|"
   },
   {
     "name": "Jenny Barnes - Search for Isabelle - Too Late",
@@ -2798,7 +2798,16 @@
     "requires": ""
   },
   {
-    "name": "Wendy Adams - Starting Equipment",
+    "name": "Wendy Adams - Starting Equipment 1",
+    "region": "Wendy",
+    "category": [
+        "Investigator Unlocks",
+        "Signs of Carcosa"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Wendy Adams - Starting Equipment 2",
     "region": "Wendy",
     "category": [
         "Investigator Unlocks",
@@ -2813,7 +2822,7 @@
         "Personal Stories",
         "Signs of Carcosa"
     ],
-    "requires": ""
+    "requires": "|@Clues:6|"
   },
   {
     "name": "Wendy Adams - Memento - Downtrodden",
@@ -2886,7 +2895,7 @@
         "Personal Stories",
         "The Dreamlands"
     ],
-    "requires": ""
+    "requires": "|@Clues:3|"
   },
   {
     "name": "Amanda Sharpe - Dreaming of R'lyeh - Deep Destiny",
@@ -2968,7 +2977,7 @@
         "Personal Stories",
         "The Dreamlands"
     ],
-    "requires": ""
+    "requires": "|@Clues:8| AND |@Investigators:2|"
   },
   {
     "name": "Carolyn Fern - Final Analysis - Growing Unrest",
@@ -3050,7 +3059,7 @@
         "Personal Stories",
         "The Dreamlands"
     ],
-    "requires": ""
+    "requires": "|@Clues:3|"
   },
   {
     "name": "Darrell Simmons - A Thousand Words - The Film is Ruined",
@@ -3132,7 +3141,7 @@
         "Personal Stories",
         "The Dreamlands"
     ],
-    "requires": ""
+    "requires": "{canReachCategory(Ancient Ones Mysteries,1)}"
   },
   {
     "name": "Gloria Goldberg - Based on a True Story - Captivated",
@@ -3296,7 +3305,7 @@
         "Personal Stories",
         "The Dreamlands"
     ],
-    "requires": ""
+    "requires": "{canReachCategory(Ancient Ones Mysteries,1)}"
   },
   {
     "name": "Luke Robinson - Shadow of Doubt - Insomnia",
@@ -3378,7 +3387,7 @@
         "Personal Stories",
         "The Dreamlands"
     ],
-    "requires": ""
+    "requires": "{canReachCategory(Ancient Ones Mysteries,1)}"
   },
   {
     "name": "Vincent Lee - The Doctor is In - Mortal Wounds",
@@ -3460,7 +3469,7 @@
         "Personal Stories",
         "The Dreamlands"
     ],
-    "requires": ""
+    "requires": "{canReachCategory(Ancient Ones Mysteries,1)}"
   },
   {
     "name": "William Yorick - To Be Or Not To Be - Alas, Poor Yorick",
@@ -3522,7 +3531,7 @@
     "region": "Ashcan",
     "category": [
         "Investigator Unlocks",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3531,7 +3540,7 @@
     "region": "Ashcan",
     "category": [
         "Investigator Unlocks",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3540,9 +3549,9 @@
     "region": "Ashcan",
     "category": [
         "Personal Stories",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
-    "requires": ""
+    "requires": "|Duke| AND |@Clues:5|"
   },
   {
     "name": "\"Ashcan\" Pete - Powerful Nightmares - Barely Holding On",
@@ -3550,7 +3559,7 @@
     "category": [
         "Personal Stories",
         "Personal Consequence",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3559,7 +3568,7 @@
     "region": "Ashcan",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3568,7 +3577,7 @@
     "region": "Ashcan",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3577,7 +3586,7 @@
     "region": "Ashcan",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3586,7 +3595,7 @@
     "region": "Ashcan",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3595,7 +3604,7 @@
     "region": "Ashcan",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3604,7 +3613,7 @@
     "region": "Bob",
     "category": [
         "Investigator Unlocks",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3613,7 +3622,7 @@
     "region": "Bob",
     "category": [
         "Investigator Unlocks",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3622,9 +3631,9 @@
     "region": "Bob",
     "category": [
         "Personal Stories",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
-    "requires": ""
+    "requires": "|@1Cost| AND |@2Cost| AND |@3Cost| AND |@4Cost:2|"
   },
   {
     "name": "Bob Jenkins - Doing Business - Greed",
@@ -3632,7 +3641,7 @@
     "category": [
         "Personal Stories",
         "Personal Consequence",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3641,7 +3650,7 @@
     "region": "Bob",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3650,7 +3659,7 @@
     "region": "Bob",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3659,7 +3668,7 @@
     "region": "Bob",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3668,7 +3677,7 @@
     "region": "Bob",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3677,7 +3686,7 @@
     "region": "Bob",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3686,7 +3695,7 @@
     "region": "Rita",
     "category": [
         "Investigator Unlocks",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3695,7 +3704,7 @@
     "region": "Rita",
     "category": [
         "Investigator Unlocks",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3704,7 +3713,7 @@
     "region": "Rita",
     "category": [
         "Personal Stories",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3714,7 +3723,7 @@
     "category": [
         "Personal Stories",
         "Personal Consequence",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3723,7 +3732,7 @@
     "region": "Rita",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3732,7 +3741,7 @@
     "region": "Rita",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3741,7 +3750,7 @@
     "region": "Rita",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3750,7 +3759,7 @@
     "region": "Rita",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3759,7 +3768,7 @@
     "region": "Rita",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3768,7 +3777,7 @@
     "region": "Roland",
     "category": [
         "Investigator Unlocks",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3777,7 +3786,7 @@
     "region": "Roland",
     "category": [
         "Investigator Unlocks",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3786,9 +3795,9 @@
     "region": "Roland",
     "category": [
         "Personal Stories",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
-    "requires": ""
+    "requires": "|@Clues:3|"
   },
   {
     "name": "Roland Banks - The Truth is Out There - Early Retirement",
@@ -3796,7 +3805,7 @@
     "category": [
         "Personal Stories",
         "Personal Consequence",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3805,7 +3814,7 @@
     "region": "Roland",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3814,7 +3823,7 @@
     "region": "Roland",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3823,7 +3832,7 @@
     "region": "Roland",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3832,7 +3841,7 @@
     "region": "Roland",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3841,7 +3850,7 @@
     "region": "Roland",
     "category": [
         "Investigator Encounters",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "requires": ""
   },
@@ -3867,7 +3876,7 @@
     "category": [
         "Personal Stories"
     ],
-    "requires": ""
+    "requires": "|@Clues:7| AND (|@Ritual| or |@TomeAction|)"
   },
   {
     "name": "Agatha Crane - The Scientific Method - Superstition",
@@ -4013,7 +4022,7 @@
     "category": [
         "Personal Stories"
     ],
-    "requires": ""
+    "requires": "|@Clues:3|"
   },
   {
     "name": "Carson Sinclair - Seeking Answers - Failed Again",
@@ -4151,7 +4160,7 @@
     "category": [
         "Personal Stories"
     ],
-    "requires": ""
+    "requires": "|@Investigators:2|"
   },
   {
     "name": "Father Mateo - In Nomine Patris - Undeniable",
@@ -4216,7 +4225,7 @@
     "category": [
         "Personal Stories"
     ],
-    "requires": ""
+    "requires": "|@Possessions:8|"
   },
   {
     "name": "Preston Fairmont - Wealth Without Work - Festering Greed",
@@ -4397,7 +4406,7 @@
     "requires": ""
   },
   {
-    "name": "Any Investigator - Successful San Francisco Encounter",
+    "name": "Any Investigator - Successful America Encounter",
     "region": "General Region",
     "category": [
         "Investigator Encounters"
@@ -4405,7 +4414,7 @@
     "requires": ""
   },
   {
-    "name": "Any Investigator - Successful Arkham Encounter",
+    "name": "Any Investigator - Successful Europe Encounter",
     "region": "General Region",
     "category": [
         "Investigator Encounters"
@@ -4413,154 +4422,10 @@
     "requires": ""
   },
   {
-    "name": "Any Investigator - Successful Buenos Aires Encounter",
+    "name": "Any Investigator - Successful Asia Encounter",
     "region": "General Region",
     "category": [
         "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Any Investigator - Successful London Encounter",
-    "region": "General Region",
-    "category": [
-        "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Any Investigator - Successful Rome Encounter",
-    "region": "General Region",
-    "category": [
-        "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Any Investigator - Successful Istanbul Encounter",
-    "region": "General Region",
-    "category": [
-        "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Any Investigator - Successful Shanghai Encounter",
-    "region": "General Region",
-    "category": [
-        "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Any Investigator - Successful Tokyo Encounter",
-    "region": "General Region",
-    "category": [
-        "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Any Investigator - Successful Sydney Encounter",
-    "region": "General Region",
-    "category": [
-        "Investigator Encounters"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Brotherhood of the Dark Pharaoh - Investigating the Greath Sphinx - Stage I",
-    "region": "BDP_1",
-    "category": [
-        "Adventures"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Brotherhood of the Dark Pharaoh - Labyrinth of Queen Nitocris - Stage 2",
-    "region": "BDP_2",
-    "category": [
-        "Adventures"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Brotherhood of the Dark Pharaoh - Eye of Light - Stage 3",
-    "region": "BDP_3",
-    "category": [
-        "Adventures"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Cult of the Bloody Tongue - Mountain of the Black Wind - Stage I",
-    "region": "CBT_1",
-    "category": [
-        "Adventures"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Cult of the Bloody Tongue - Attacked in Transit - Stage 2",
-    "region": "CBT_2",
-    "category": [
-        "Adventures"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Cult of the Bloody Tongue - God of the Bloody Tongue - Stage 3",
-    "region": "CBT_3",
-    "category": [
-        "Adventures"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Order of the Bloated Woman - Eye of Darkness - Stage I",
-    "region": "OBW_1",
-    "category": [
-        "Adventures"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Order of the Bloated Woman - To Gray Dragon Island - Stage 2",
-    "region": "OBW_2",
-    "category": [
-        "Adventures"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Order of the Bloated Woman - The Bloated Woman - Stage 3",
-    "region": "OBW_3",
-    "category": [
-        "Adventures"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Cult of the Sand Bat - Outback Investigation - Stage I",
-    "region": "CSB_1",
-    "category": [
-        "Adventures"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Cult of the Sand Bat - The City Beneath the Sands - Stage 2",
-    "region": "CSB_2",
-    "category": [
-        "Adventures"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Cult of the Sand Bat - Hour of the Sand Bat - Stage 3",
-    "region": "CSB_3",
-    "category": [
-        "Adventures"
     ],
     "requires": ""
   },
@@ -4707,7 +4572,7 @@
         "CthulhuMystery",
         "Forsaken Lore"
     ],
-    "requires": "|@Investigators:4| AND |@Spells:4| AND |@Clues:4|"
+    "requires": "|@Investigators:4| AND |@Spells:2| AND |@Clues:4|"
   },
   {
     "name": "Cthulhu Defeated",
@@ -4838,7 +4703,7 @@
         "Ancient Ones Mysteries",
         "Yog-SothothMystery"
     ],
-    "requires": "|@Investigators:4| AND |@Spells:4| AND |@Clues:4|"
+    "requires": "|@Investigators:4| AND |@Spells:2| AND |@Clues:4|"
   },
   {
     "name": "Yog-Sothoth - Spawn of Yog-Sothoth",
@@ -4865,7 +4730,7 @@
         "Ancient Ones Mysteries",
         "Yog-SothothMystery"
     ],
-    "requires": "|@Investigators:4| AND |@Spells:4|"
+    "requires": "|@Investigators:4| AND |@Spells:2|"
   },
   {
     "name": "Yog-Sothoth - The Stone Circles",
@@ -5172,7 +5037,7 @@
         "IthaquaMystery",
         "Mountains of Madness"
     ],
-    "requires": "|@Investigators:4| AND |@Spells:2|"
+    "requires": "|@Investigators:4| AND |@Spells|"
   },
   {
     "name": "Ithaqua - The Gnoph-Keh Attack!",
@@ -5247,7 +5112,7 @@
         "Ancient Ones Mysteries",
         "Strange Remnants"
     ],
-    "requires": "|@Investigators:4| AND |@Spells:2|"
+    "requires": "|@Investigators:4| AND |@Spells|"
   },
   {
     "name": "Syzygy - Plea to the Court of Azathoth",
@@ -5274,7 +5139,7 @@
         "Ancient Ones Mysteries",
         "Strange Remnants"
     ],
-    "requires": "|@Investigators:4| AND |@Clues:4| AND |@Spells:4|"
+    "requires": "|@Investigators:4| AND |@Clues:4| AND |@Spells:2|"
   },
   {
     "name": "Syzygy - Unearthly Piping",
@@ -5283,7 +5148,7 @@
         "Ancient Ones Mysteries",
         "Strange Remnants"
     ],
-    "requires": "|@Investigators:4| AND |@Clues:4| AND |@Spells:4|"
+    "requires": "|@Investigators:4| AND |@Clues:4| AND |@Spells:2|"
   },
   {
     "name": "Syzygy Defeated",
@@ -5661,7 +5526,7 @@
         "Atlach-NachaMystery",
         "The Dreamlands"
     ],
-    "requires": "|@Investigators:4| AND |@Clues:4| AND |@Spells:4|"
+    "requires": "|@Investigators:4| AND |@Clues:4| AND |@Spells:2|"
   },
   {
     "name": "Atlach-Nacha - Shroud of the Spider-Mother",
@@ -5681,7 +5546,7 @@
         "Atlach-NachaMystery",
         "The Dreamlands"
     ],
-    "requires": "|@Investigators:4| AND (|@Clues:6| OR |@Spells:4|)"
+    "requires": "|@Investigators:4| AND (|@Clues:6| OR |@Spells:2|)"
   },
   {
     "name": "Atlach-Nacha - The Brood",
@@ -5931,7 +5796,7 @@
         "Ancient Ones Mysteries",
         "AntediluviumMystery"
     ],
-    "requires": "|@Investigators:4| AND |@Clues:4| AND |@Spells:2| AND |Grotesque Statue|"
+    "requires": "|@Investigators:4| AND |@Clues:4| AND |@Spells| AND |Grotesque Statue|"
   },
   {
     "name": "Antediluvium - Emerald Dreams",
@@ -5940,7 +5805,7 @@
         "Ancient Ones Mysteries",
         "AntediluviumMystery"
     ],
-    "requires": "|@Investigators:4| AND |@Clues:4| AND |@Spells:4|"
+    "requires": "|@Investigators:4| AND |@Clues:4| AND |@Spells:2|"
   },
   {
     "name": "Antediluvium - Sleeper Ascendant",
@@ -5967,7 +5832,7 @@
         "Ancient Ones Mysteries",
         "AntediluviumMystery"
     ],
-    "requires": "|@Investigators:4| AND |@Spells:2|"
+    "requires": "|@Investigators:4| AND |@Spells|"
   },
   {
     "name": "Antediluvium - Time Immemorial",
@@ -5985,7 +5850,7 @@
         "Ancient Ones Mysteries",
         "AncientDefeated"
     ],
-    "requires": "{canReachCategory(AntediluviumMystery,3)} AND |@Clues:12| AND |@Spells:12| AND |@Ancient Ones:3|"
+    "requires": "{canReachCategory(AntediluviumMystery,3)} AND |@Clues:12| AND |@Spells:6| AND |@Ancient Ones:3|"
   },
   {
     "name": "Antediluvium - City Research Encounter",
@@ -6087,6 +5952,6 @@
     "category": [
       "Victory Condition"
     ],
-    "requires": "{canReachCategory(AncientDefeated,6)}"
+    "requires": "({canReachCategory(AncientDefeated,3)} AND {YamlEnabled(Short_Game)}) OR ({canReachCategory(AncientDefeated,6)} AND {YamlDisabled(Short_Game)})"
   }
 ]

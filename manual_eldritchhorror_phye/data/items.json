@@ -526,7 +526,7 @@
     "name": "\"Ashcan\" Pete",
     "category": [
       "Investigators",
-      "Cities in Ruins"
+      "Cities in Ruin"
     ],
     "progression": true
   },
@@ -535,7 +535,7 @@
     "name": "Bob Jenkins",
     "category": [
       "Investigators",
-      "Cities in Ruins"
+      "Cities in Ruin"
     ],
     "progression": true
   },
@@ -544,7 +544,7 @@
     "name": "Rita Young",
     "category": [
       "Investigators",
-      "Cities in Ruins"
+      "Cities in Ruin"
     ],
     "progression": true
   },
@@ -553,7 +553,7 @@
     "name": "Roland Banks",
     "category": [
       "Investigators",
-      "Cities in Ruins"
+      "Cities in Ruin"
     ],
     "progression": true
   },
@@ -1201,7 +1201,8 @@
     "category": [
         "Artifact Deck",
         "Item",
-        "Tome"
+        "Tome",
+        "TomeAction"
     ],
     "progression_skip_balancing": true
   },
@@ -1211,7 +1212,8 @@
     "category": [
         "Artifact Deck",
         "Item",
-        "Tome"
+        "Tome",
+        "TomeAction"
     ],
     "progression_skip_balancing": true
   },
@@ -1281,7 +1283,8 @@
     "category": [
         "Artifact Deck",
         "Item",
-        "Tome"
+        "Tome",
+        "TomeAction"
     ],
     "progression_skip_balancing": true
   },
@@ -1321,7 +1324,8 @@
     "category": [
         "Artifact Deck",
         "Item",
-        "Tome"
+        "Tome",
+        "TomeAction"
     ],
     "progression_skip_balancing": true
   },
@@ -1364,6 +1368,7 @@
         "Artifact Deck",
         "Item",
         "Tome",
+        "TomeAction",
         "Forsaken Lore"
     ],
     "progression_skip_balancing": true
@@ -1419,6 +1424,7 @@
         "Artifact Deck",
         "Item",
         "Tome",
+        "TomeAction",
         "Forsaken Lore"
     ],
     "progression_skip_balancing": true
@@ -1461,6 +1467,7 @@
         "Artifact Deck",
         "Item",
         "Tome",
+        "TomeAction",
         "Mountains of Madness"
     ],
     "progression_skip_balancing": true
@@ -1493,6 +1500,7 @@
         "Artifact Deck",
         "Item",
         "Tome",
+        "TomeAction",
         "Mountains of Madness"
     ],
     "progression_skip_balancing": true
@@ -1504,6 +1512,7 @@
         "Artifact Deck",
         "Item",
         "Tome",
+        "TomeAction",
         "Mountains of Madness"
     ],
     "progression_skip_balancing": true
@@ -1676,6 +1685,7 @@
         "Artifact Deck",
         "Item",
         "Tome",
+        "TomeAction",
         "The Dreamlands"
     ],
     "progression_skip_balancing": true
@@ -1698,7 +1708,7 @@
         "Artifact Deck",
         "Item",
         "Magical Weapon",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "progression_skip_balancing": true
   },
@@ -1710,7 +1720,7 @@
         "Item",
         "Relic",
         "Tome",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "progression_skip_balancing": true
   },
@@ -1721,7 +1731,7 @@
         "Artifact Deck",
         "Item",
         "Elixir",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "progression_skip_balancing": true
   },
@@ -1733,7 +1743,7 @@
         "Item",
         "Magical",
         "Tome",
-        "Cities in Ruins"
+        "Cities in Ruin"
     ],
     "progression_skip_balancing": true
   },
@@ -1996,7 +2006,7 @@
         "Spells Deck",
         "Spells",
         "Glamour",
-        "Under The Pyramids"
+        "Under the Pyramids"
     ],
     "progression_skip_balancing": true
   },
@@ -2008,7 +2018,7 @@
         "Spells",
         "Glamour",
         "Magical Weapon",
-        "Under The Pyramids"
+        "Under the Pyramids"
     ],
     "progression_skip_balancing": true
   },
@@ -2019,7 +2029,7 @@
         "Spells Deck",
         "Spells",
         "Glamour",
-        "Under The Pyramids"
+        "Under the Pyramids"
     ],
     "progression_skip_balancing": true
   },
@@ -2030,7 +2040,7 @@
         "Spells Deck",
         "Spells",
         "Glamour",
-        "Under The Pyramids"
+        "Under the Pyramids"
     ],
     "progression_skip_balancing": true
   },
@@ -2041,7 +2051,7 @@
         "Spells Deck",
         "Spells",
         "Glamour",
-        "Under The Pyramids"
+        "Under the Pyramids"
     ],
     "progression_skip_balancing": true
   },
@@ -2053,7 +2063,7 @@
         "Spells",
         "Incantation",
         "Magical Weapon",
-        "Under The Pyramids"
+        "Under the Pyramids"
     ],
     "progression_skip_balancing": true
   },
@@ -2174,7 +2184,9 @@
     "category": [
         "Assets Deck",
         "Trinket",
-        "Weapon"
+        "Weapon",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2184,7 +2196,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "Weapon"
+        "Weapon",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2194,7 +2208,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "Weapon"
+        "Weapon",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2203,7 +2219,8 @@
     "name": "Agency Quarantine",
     "category": [
         "Assets Deck",
-        "Service"
+        "Service",
+        "4Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -2213,7 +2230,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "Tome"
+        "Tome",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2222,7 +2241,9 @@
     "name": "Arcane Scholar",
     "category": [
         "Assets Deck",
-        "Ally"
+        "Ally",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2232,7 +2253,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "Tome"
+        "Tome",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2242,7 +2265,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "Weapon"
+        "Weapon",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2251,7 +2276,9 @@
     "name": "Bandages",
     "category": [
         "Assets Deck",
-        "Item"
+        "Item",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2261,7 +2288,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "Weapon"
+        "Weapon",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2271,7 +2300,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "Weapon"
+        "Weapon",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2280,7 +2311,9 @@
     "name": "Cat Burglar",
     "category": [
         "Assets Deck",
-        "Ally"
+        "Ally",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2289,7 +2322,8 @@
     "name": "Charter Flight",
     "category": [
         "Assets Deck",
-        "Service"
+        "Service",
+        "1Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -2299,7 +2333,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "Teamwork"
+        "Teamwork",
+        "1Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -2309,7 +2344,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "Weapon"
+        "Weapon",
+        "4Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2319,7 +2356,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "Weapon"
+        "Weapon",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2328,7 +2367,9 @@
     "name": "Fine Clothes",
     "category": [
         "Assets Deck",
-        "Item"
+        "Item",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2337,7 +2378,9 @@
     "name": "Fishing Net",
     "category": [
         "Assets Deck",
-        "Item"
+        "Item",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2346,7 +2389,9 @@
     "name": "Hired Muscle",
     "category": [
         "Assets Deck",
-        "Ally"
+        "Ally",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2355,7 +2400,9 @@
     "name": "Holy Cross",
     "category": [
         "Assets Deck",
-        "Item"
+        "Item",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2365,7 +2412,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "Magical"
+        "Magical",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2374,7 +2423,9 @@
     "name": "Kerosene",
     "category": [
         "Assets Deck",
-        "Item"
+        "Item",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2384,7 +2435,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "Tome"
+        "Tome",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2393,7 +2446,9 @@
     "name": "Lodge Researcher",
     "category": [
         "Assets Deck",
-        "Ally"
+        "Ally",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2402,7 +2457,9 @@
     "name": "Lucky Cigarette Case",
     "category": [
         "Assets Deck",
-        "Trinket"
+        "Trinket",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2411,7 +2468,9 @@
     "name": "Lucky Rabbit's Foot",
     "category": [
         "Assets Deck",
-        "Trinket"
+        "Trinket",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2420,7 +2479,9 @@
     "name": "Personal Assistant",
     "category": [
         "Assets Deck",
-        "Ally"
+        "Ally",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2429,7 +2490,9 @@
     "name": "Pocket Watch",
     "category": [
         "Assets Deck",
-        "Trinket"
+        "Trinket",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2438,7 +2501,8 @@
     "name": "Private Care",
     "category": [
         "Assets Deck",
-        "Service"
+        "Service",
+        "2Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -2447,7 +2511,9 @@
     "name": "Private Investigator",
     "category": [
         "Assets Deck",
-        "Ally"
+        "Ally",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2456,7 +2522,9 @@
     "name": "Protective Amulet",
     "category": [
         "Assets Deck",
-        "Item"
+        "Item",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2465,7 +2533,9 @@
     "name": "Puzzle Box",
     "category": [
         "Assets Deck",
-        "Trinket"
+        "Trinket",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2474,7 +2544,8 @@
     "name": "Sanctuary",
     "category": [
         "Assets Deck",
-        "Service"
+        "Service",
+        "2Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -2483,7 +2554,8 @@
     "name": "Silver Twilight Ritual",
     "category": [
         "Assets Deck",
-        "Service"
+        "Service",
+        "3Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -2493,7 +2565,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "Magical Weapon"
+        "Magical Weapon",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2502,7 +2576,9 @@
     "name": "Urban Guide",
     "category": [
         "Assets Deck",
-        "Ally"
+        "Ally",
+        "4Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2511,7 +2587,9 @@
     "name": "Vatican Missionary",
     "category": [
         "Assets Deck",
-        "Ally"
+        "Ally",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2520,7 +2598,9 @@
     "name": "Whiskey",
     "category": [
         "Assets Deck",
-        "Item"
+        "Item",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2530,7 +2610,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "Teamwork"
+        "Teamwork",
+        "1Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -2539,7 +2620,9 @@
     "name": "Witch Doctor",
     "category": [
         "Assets Deck",
-        "Ally"
+        "Ally",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2550,7 +2633,9 @@
         "Assets Deck",
         "Item",
         "Weapon",
-        "Forsaken Lore"
+        "Forsaken Lore",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2560,7 +2645,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "Forsaken Lore"
+        "Forsaken Lore",
+        "1Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -2570,7 +2656,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "Forsaken Lore"
+        "Forsaken Lore",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2580,7 +2668,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "Forsaken Lore"
+        "Forsaken Lore",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2591,7 +2681,9 @@
         "Assets Deck",
         "Trinket",
         "Magical",
-        "Forsaken Lore"
+        "Forsaken Lore",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2602,7 +2694,9 @@
         "Assets Deck",
         "Item",
         "Magical Weapon",
-        "Forsaken Lore"
+        "Forsaken Lore",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2612,7 +2706,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "Forsaken Lore"
+        "Forsaken Lore",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2622,7 +2718,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "Forsaken Lore"
+        "Forsaken Lore",
+        "3Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -2632,7 +2729,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "Forsaken Lore"
+        "Forsaken Lore",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2642,7 +2741,9 @@
     "category": [
         "Assets Deck",
         "Trinket",
-        "Forsaken Lore"
+        "Forsaken Lore",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2652,7 +2753,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "Forsaken Lore"
+        "Forsaken Lore",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2662,7 +2765,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "Forsaken Lore"
+        "Forsaken Lore",
+        "1Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -2672,7 +2776,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "Forsaken Lore"
+        "Forsaken Lore",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2682,7 +2788,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "Forsaken Lore"
+        "Forsaken Lore",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2692,7 +2800,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "Forsaken Lore"
+        "Forsaken Lore",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2703,7 +2813,9 @@
         "Assets Deck",
         "Item",
         "Weapon",
-        "Forsaken Lore"
+        "Forsaken Lore",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2714,7 +2826,9 @@
         "Assets Deck",
         "Item",
         "Tome",
-        "Mountains of Madness"
+        "Mountains of Madness",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2725,7 +2839,9 @@
         "Assets Deck",
         "Item",
         "Weapon",
-        "Mountains of Madness"
+        "Mountains of Madness",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2735,7 +2851,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "Mountains of Madness"
+        "Mountains of Madness",
+        "1Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -2747,7 +2864,9 @@
         "Item",
         "Magical",
         "Tome",
-        "Mountains of Madness"
+        "Mountains of Madness",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2757,7 +2876,9 @@
     "category": [
         "Assets Deck",
         "Trinket",
-        "Mountains of Madness"
+        "Mountains of Madness",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2767,7 +2888,9 @@
     "category": [
         "Assets Deck",
         "Task",
-        "Mountains of Madness"
+        "Mountains of Madness",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2777,7 +2900,9 @@
     "category": [
         "Assets Deck",
         "Task",
-        "Mountains of Madness"
+        "Mountains of Madness",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2788,7 +2913,9 @@
         "Assets Deck",
         "Item",
         "Tome",
-        "Mountains of Madness"
+        "Mountains of Madness",
+        "4Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2798,7 +2925,9 @@
     "category": [
         "Assets Deck",
         "Task",
-        "Mountains of Madness"
+        "Mountains of Madness",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2808,7 +2937,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "Mountains of Madness"
+        "Mountains of Madness",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2818,7 +2949,9 @@
     "category": [
         "Assets Deck",
         "Task",
-        "Mountains of Madness"
+        "Mountains of Madness",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2828,7 +2961,9 @@
     "category": [
         "Assets Deck",
         "Task",
-        "Mountains of Madness"
+        "Mountains of Madness",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2839,7 +2974,9 @@
         "Assets Deck",
         "Item",
         "Tome",
-        "Mountains of Madness"
+        "Mountains of Madness",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2849,7 +2986,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "Mountains of Madness"
+        "Mountains of Madness",
+        "2Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -2860,7 +2998,9 @@
         "Assets Deck",
         "Item",
         "Tome",
-        "Mountains of Madness"
+        "Mountains of Madness",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2871,7 +3011,9 @@
         "Assets Deck",
         "Item",
         "Tome",
-        "Mountains of Madness"
+        "Mountains of Madness",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2881,7 +3023,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "Strange Remnants"
+        "Strange Remnants",
+        "4Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2892,7 +3036,9 @@
         "Assets Deck",
         "Item",
         "Magical Weapon",
-        "Strange Remnants"
+        "Strange Remnants",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2902,7 +3048,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "Strange Remnants"
+        "Strange Remnants",
+        "2Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -2912,7 +3059,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "Strange Remnants"
+        "Strange Remnants",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2923,7 +3072,9 @@
         "Assets Deck",
         "Trinket",
         "Tome",
-        "Strange Remnants"
+        "Strange Remnants",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2933,7 +3084,9 @@
     "category": [
         "Assets Deck",
         "Trinket",
-        "Strange Remnants"
+        "Strange Remnants",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2943,7 +3096,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "Strange Remnants"
+        "Strange Remnants",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2955,7 +3110,9 @@
         "Item",
         "Magical Weapon",
         "Relic",
-        "Strange Remnants"
+        "Strange Remnants",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2965,7 +3122,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "Strange Remnants"
+        "Strange Remnants",
+        "1Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -2976,7 +3134,9 @@
         "Assets Deck",
         "Item",
         "Tome",
-        "Strange Remnants"
+        "Strange Remnants",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2986,7 +3146,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "Strange Remnants"
+        "Strange Remnants",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -2997,7 +3159,9 @@
         "Assets Deck",
         "Item",
         "Tome",
-        "Strange Remnants"
+        "Strange Remnants",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3008,7 +3172,9 @@
         "Assets Deck",
         "Item",
         "Tome",
-        "Strange Remnants"
+        "Strange Remnants",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3019,7 +3185,9 @@
         "Assets Deck",
         "Item",
         "Magical Weapon",
-        "Strange Remnants"
+        "Strange Remnants",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3030,7 +3198,9 @@
         "Assets Deck",
         "Item",
         "Tome",
-        "Strange Remnants"
+        "Strange Remnants",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3041,7 +3211,9 @@
         "Assets Deck",
         "Item",
         "Weapon",
-        "Under the Pyramids"
+        "Under the Pyramids",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3053,7 +3225,10 @@
         "Item",
         "Relic",
         "Tome",
-        "Under the Pyramids"
+        "TomeAction",
+        "Under the Pyramids",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3064,7 +3239,9 @@
         "Assets Deck",
         "Item",
         "Relic",
-        "Under the Pyramids"
+        "Under the Pyramids",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3075,7 +3252,9 @@
         "Assets Deck",
         "Trinket",
         "Tome",
-        "Under the Pyramids"
+        "Under the Pyramids",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3086,7 +3265,9 @@
         "Assets Deck",
         "Item",
         "Tome",
-        "Under the Pyramids"
+        "Under the Pyramids",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3096,7 +3277,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "Under the Pyramids"
+        "Under the Pyramids",
+        "4Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -3107,7 +3289,9 @@
         "Assets Deck",
         "Item",
         "Magical Weapon",
-        "Under the Pyramids"
+        "Under the Pyramids",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3118,7 +3302,9 @@
         "Assets Deck",
         "Trinket",
         "Relic",
-        "Under the Pyramids"
+        "Under the Pyramids",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3128,7 +3314,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "Under the Pyramids"
+        "Under the Pyramids",
+        "2Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -3138,7 +3325,9 @@
     "category": [
         "Assets Deck",
         "Trinket",
-        "Under the Pyramids"
+        "Under the Pyramids",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3148,7 +3337,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "Under the Pyramids"
+        "Under the Pyramids",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3158,7 +3349,9 @@
     "category": [
         "Assets Deck",
         "Trinket",
-        "Under the Pyramids"
+        "Under the Pyramids",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3169,7 +3362,9 @@
         "Assets Deck",
         "Item",
         "Tome",
-        "Under the Pyramids"
+        "Under the Pyramids",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3180,7 +3375,9 @@
         "Assets Deck",
         "Item",
         "Weapon",
-        "Under the Pyramids"
+        "Under the Pyramids",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3190,7 +3387,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "Under the Pyramids"
+        "Under the Pyramids",
+        "4Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3200,7 +3399,9 @@
     "category": [
         "Assets Deck",
         "Service",
-        "Under the Pyramids"
+        "Under the Pyramids",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3210,7 +3411,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "Signs of Carcosa"
+        "Signs of Carcosa",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3220,7 +3423,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "Signs of Carcosa"
+        "Signs of Carcosa",
+        "2Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -3230,7 +3434,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "Signs of Carcosa"
+        "Signs of Carcosa",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3241,7 +3447,9 @@
         "Assets Deck",
         "Item",
         "Magical Weapon",
-        "Signs of Carcosa"
+        "Signs of Carcosa",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3251,7 +3459,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "Signs of Carcosa"
+        "Signs of Carcosa",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3261,7 +3471,9 @@
     "category": [
         "Assets Deck",
         "Trinket",
-        "Signs of Carcosa"
+        "Signs of Carcosa",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3272,7 +3484,9 @@
         "Assets Deck",
         "Item",
         "Weapon",
-        "Signs of Carcosa"
+        "Signs of Carcosa",
+        "4Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3282,7 +3496,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "Signs of Carcosa"
+        "Signs of Carcosa",
+        "4Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3292,7 +3508,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "Signs of Carcosa"
+        "Signs of Carcosa",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3303,7 +3521,9 @@
         "Assets Deck",
         "Item",
         "Tome",
-        "Signs of Carcosa"
+        "Signs of Carcosa",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3313,7 +3533,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "Signs of Carcosa"
+        "Signs of Carcosa",
+        "1Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -3323,7 +3544,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "Signs of Carcosa"
+        "Signs of Carcosa",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3333,7 +3556,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "Signs of Carcosa"
+        "Signs of Carcosa",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3343,7 +3568,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "Signs of Carcosa"
+        "Signs of Carcosa",
+        "1Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -3354,7 +3580,9 @@
         "Assets Deck",
         "Item",
         "Weapon",
-        "Signs of Carcosa"
+        "Signs of Carcosa",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3365,7 +3593,9 @@
         "Assets Deck",
         "Item",
         "Magical",
-        "The Dreamlands"
+        "The Dreamlands",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3375,7 +3605,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "The Dreamlands"
+        "The Dreamlands",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3385,7 +3617,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "The Dreamlands"
+        "The Dreamlands",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3395,7 +3629,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "The Dreamlands"
+        "The Dreamlands",
+        "1Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -3406,7 +3641,9 @@
         "Assets Deck",
         "Trinket",
         "Magical",
-        "The Dreamlands"
+        "The Dreamlands",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3417,7 +3654,9 @@
         "Assets Deck",
         "Item",
         "Tome",
-        "The Dreamlands"
+        "The Dreamlands",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3428,7 +3667,9 @@
         "Assets Deck",
         "Item",
         "Magical Weapon",
-        "The Dreamlands"
+        "The Dreamlands",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3439,7 +3680,9 @@
         "Assets Deck",
         "Item",
         "Tome",
-        "The Dreamlands"
+        "The Dreamlands",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3449,7 +3692,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "The Dreamlands"
+        "The Dreamlands",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3459,7 +3704,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "The Dreamlands"
+        "The Dreamlands",
+        "2Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -3470,7 +3716,9 @@
         "Assets Deck",
         "Item",
         "Tome",
-        "The Dreamlands"
+        "The Dreamlands",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3481,7 +3729,9 @@
         "Assets Deck",
         "Item",
         "Tome",
-        "The Dreamlands"
+        "The Dreamlands",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3491,7 +3741,9 @@
     "category": [
         "Assets Deck",
         "Service",
-        "The Dreamlands"
+        "The Dreamlands",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3501,7 +3753,9 @@
     "category": [
         "Assets Deck",
         "Task",
-        "The Dreamlands"
+        "The Dreamlands",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3511,7 +3765,9 @@
     "category": [
         "Assets Deck",
         "Trinket",
-        "The Dreamlands"
+        "The Dreamlands",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3521,7 +3777,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "The Dreamlands"
+        "The Dreamlands",
+        "4Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3531,7 +3789,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "Cities in Ruin"
+        "Cities in Ruin",
+        "3Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -3542,7 +3801,9 @@
         "Assets Deck",
         "Item",
         "Tome",
-        "Cities in Ruin"
+        "Cities in Ruin",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3553,7 +3814,9 @@
         "Assets Deck",
         "Item",
         "Tome",
-        "Cities in Ruin"
+        "Cities in Ruin",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3564,7 +3827,9 @@
         "Assets Deck",
         "Item",
         "Weapon",
-        "Cities in Ruin"
+        "Cities in Ruin",
+        "4Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3575,7 +3840,9 @@
         "Assets Deck",
         "Trinket",
         "Magical",
-        "Cities in Ruin"
+        "Cities in Ruin",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3585,7 +3852,9 @@
     "category": [
         "Assets Deck",
         "Ally",
-        "Cities in Ruin"
+        "Cities in Ruin",
+        "4Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3596,7 +3865,9 @@
         "Assets Deck",
         "Item",
         "Weapon",
-        "Cities in Ruin"
+        "Cities in Ruin",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3606,7 +3877,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "Cities in Ruin"
+        "Cities in Ruin",
+        "1Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -3617,7 +3889,9 @@
         "Assets Deck",
         "Item",
         "Tome",
-        "Cities in Ruin"
+        "Cities in Ruin",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3627,7 +3901,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "Cities in Ruin"
+        "Cities in Ruin",
+        "1Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -3638,7 +3913,9 @@
         "Assets Deck",
         "Item",
         "Tome",
-        "Cities in Ruin"
+        "Cities in Ruin",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3648,7 +3925,9 @@
     "category": [
         "Assets Deck",
         "Trinket",
-        "Cities in Ruin"
+        "Cities in Ruin",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3658,7 +3937,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "Cities in Ruin"
+        "Cities in Ruin",
+        "2Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -3668,7 +3948,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "Cities in Ruin"
+        "Cities in Ruin",
+        "3Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -3678,7 +3959,8 @@
     "category": [
         "Assets Deck",
         "Service",
-        "Cities in Ruin"
+        "Cities in Ruin",
+        "2Cost"
     ],
     "progression_skip_balancing": true
   },
@@ -3689,7 +3971,9 @@
         "Assets Deck",
         "Item",
         "Weapon",
-        "Cities in Ruin"
+        "Cities in Ruin",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3700,7 +3984,9 @@
         "Assets Deck",
         "Trinket",
         "Relic",
-        "Tome"
+        "Tome",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3709,7 +3995,9 @@
     "name": "Astute Researcher",
     "category": [
         "Assets Deck",
-        "Ally"
+        "Ally",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3720,7 +4008,9 @@
         "Assets Deck",
         "Item",
         "Relic",
-        "Magical Weapon"
+        "Magical Weapon",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3730,7 +4020,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "Weapon"
+        "Weapon",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3741,7 +4033,9 @@
         "Assets Deck",
         "Item",
         "Magical",
-        "Relic"
+        "Relic",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3752,7 +4046,9 @@
         "Assets Deck",
         "Item",
         "Magical Weapon",
-        "Relic"
+        "Relic",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3762,7 +4058,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "Tome"
+        "Tome",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3772,7 +4070,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "Tome"
+        "Tome",
+        "4Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3781,7 +4081,9 @@
     "name": "Museum Director",
     "category": [
         "Assets Deck",
-        "Ally"
+        "Ally",
+        "4Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3791,7 +4093,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "Tome"
+        "Tome",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3802,7 +4106,9 @@
         "Assets Deck",
         "Item",
         "Relic",
-        "Tome"
+        "Tome",
+        "3Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3813,7 +4119,9 @@
         "Assets Deck",
         "Item",
         "Magical",
-        "Relic"
+        "Relic",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3823,7 +4131,9 @@
     "category": [
         "Assets Deck",
         "Item",
-        "Tome"
+        "Tome",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3834,7 +4144,9 @@
         "Assets Deck",
         "Item",
         "Magical Weapon",
-        "Relic"
+        "Relic",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3843,7 +4155,9 @@
     "name": "Treasured Memento",
     "category": [
         "Assets Deck",
-        "Trinket"
+        "Trinket",
+        "1Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3854,7 +4168,9 @@
         "Assets Deck",
         "Item",
         "Magical Weapon",
-        "Relic"
+        "Relic",
+        "2Cost",
+        "Possessions"
     ],
     "progression_skip_balancing": true
   },
@@ -3896,6 +4212,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
+        "FlipTask",
         "MountainRuin"
     ],
     "progression_skip_balancing": true
@@ -3960,6 +4277,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
+        "FlipTask",
         "MountainRuin"
     ],
     "progression_skip_balancing": true
@@ -3993,6 +4311,7 @@
         "Unique Assets Deck",
         "Item",
         "Tome",
+        "TomeAction",
         "Mountains of Madness"
     ],
     "progression_skip_balancing": true
@@ -4024,6 +4343,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
+        "FlipTask",
         "MountainPyramid"
     ],
     "progression_skip_balancing": true
@@ -4033,7 +4353,8 @@
     "name": "Sacrifices to Make",
     "category": [
         "Unique Assets Deck",
-        "Task"
+        "Task",
+        "FlipTask"
     ],
     "progression_skip_balancing": true
   },
@@ -4043,6 +4364,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
+        "FlipTask",
         "MountainStrange"
     ],
     "progression_skip_balancing": true
@@ -4064,6 +4386,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
+        "FlipTask",
         "MountainDream"
     ],
     "progression_skip_balancing": true
@@ -4120,6 +4443,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
+        "FlipTask",
         "Strange Remnants"
     ],
     "progression_skip_balancing": true
@@ -4155,6 +4479,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
+        "FlipTask",
         "Strange Remnants"
     ],
     "progression_skip_balancing": true
@@ -4225,6 +4550,7 @@
         "Unique Assets Deck",
         "Item",
         "Tome",
+        "TomeAction",
         "Under the Pyramids"
     ],
     "progression_skip_balancing": true
@@ -4292,6 +4618,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
+        "FlipTask",
         "Under the Pyramids"
     ],
     "progression_skip_balancing": true
@@ -4315,6 +4642,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
+        "FlipTask",
         "Under the Pyramids"
     ],
     "progression_skip_balancing": true
@@ -4395,6 +4723,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
+        "FlipTask",
         "Signs of Carcosa"
     ],
     "progression_skip_balancing": true
@@ -4405,6 +4734,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
+        "FlipTask",
         "Signs of Carcosa"
     ],
     "progression_skip_balancing": true
@@ -4437,6 +4767,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
+        "FlipTask",
         "Signs of Carcosa"
     ],
     "progression_skip_balancing": true
@@ -4447,6 +4778,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
+        "FlipTask",
         "Signs of Carcosa"
     ],
     "progression_skip_balancing": true
@@ -4479,6 +4811,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
+        "FlipTask",
         "The Dreamlands"
     ],
     "progression_skip_balancing": true
@@ -4500,6 +4833,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
+        "FlipTask",
         "The Dreamlands"
     ],
     "progression_skip_balancing": true
@@ -4553,6 +4887,7 @@
         "Unique Assets Deck",
         "Item",
         "Tome",
+        "TomeAction",
         "The Dreamlands"
     ],
     "progression_skip_balancing": true
@@ -4585,6 +4920,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
+        "FlipTask",
         "The Dreamlands"
     ],
     "progression_skip_balancing": true
@@ -4637,6 +4973,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
+        "FlipTask",
         "Cities in Ruin"
     ],
     "progression_skip_balancing": true
@@ -4658,6 +4995,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
+        "FlipTask",
         "Cities in Ruin"
     ],
     "progression_skip_balancing": true
@@ -4668,6 +5006,7 @@
     "category": [
         "Unique Assets Deck",
         "Task",
+        "FlipTask",
         "Cities in Ruin"
     ],
     "progression_skip_balancing": true
@@ -4751,7 +5090,8 @@
     "name": "Push It to the Limit",
     "category": [
         "Unique Assets Deck",
-        "Task"
+        "Task",
+        "FlipTask"
     ],
     "progression_skip_balancing": true
   },
@@ -4784,6 +5124,7 @@
     "category": [
         "Unique Assets Deck",
         "Item",
+        "FlipTask",
         "Mountains of Madness"
     ],
     "progression_skip_balancing": true

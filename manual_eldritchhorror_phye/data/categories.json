@@ -28,31 +28,31 @@
         "hidden": true
     },
     "MountainRuin": {
-        "yaml_option": [ "Mountains_of_Madness", "Cities_in_Ruin" ],
+        "yaml_option": [ "Mountain_Ruin" ],
         "hidden": true
     },
     "MountainPyramid": {
-        "yaml_option": [ "Mountains_of_Madness", "Under_the_Pyramids" ],
+        "yaml_option": [ "Mountain_Pyramid" ],
         "hidden": true
     },
     "MountainStrange": {
-        "yaml_option": [ "Mountains_of_Madness", "Strange_Remnants" ],
+        "yaml_option": [ "Mountain_Strange" ],
         "hidden": true
     },
     "MountainDream": {
-        "yaml_option": [ "Mountains_of_Madness", "The_Dreamlands" ],
+        "yaml_option": [ "Mountain_Dream" ],
         "hidden": true
     },
     "StrangePyramid": {
-        "yaml_option": [ "Strange_Remnants", "Under_the_Pyramids" ],
+        "yaml_option": [ "Strange_Pyramid" ],
         "hidden": true
     },
     "CarcosaDream": {
-        "yaml_option": [ "Signs of Carcosa", "The Dreamlands" ],
+        "yaml_option": [ "Carcosa_Dream" ],
         "hidden": true
     },
     "DreamRuin": {
-        "yaml_option": [ "The Dreamlands", "Cities in Ruin" ],
+        "yaml_option": [ "Dream_Ruin" ],
         "hidden": true
     },
     "Personal Consequence": {
@@ -102,16 +102,34 @@
     "City Clue": {
         "hidden": true
     },
-    "Wilderess Clue": {
+    "Wilderness Clue": {
         "hidden": true
     },
     "Sea Clue": {
+        "hidden": true
+    },
+    "Possessions": {
+        "hidden": true
+    },
+    "1Cost": {
+        "hidden": true
+    },
+    "2Cost": {
+        "hidden": true
+    },
+    "3Cost": {
+        "hidden": true
+    },
+    "4Cost": {
         "hidden": true
     },
     "Item": {
         "hidden": true
     },
     "Tome": {
+        "hidden": true
+    },
+    "TomeAction": {
         "hidden": true
     },
     "Magical": {
@@ -148,6 +166,9 @@
         "hidden": true
     },
     "Task": {
+        "hidden": true
+    },
+    "FlipTask": {
         "hidden": true
     },
     "Tarot": {

@@ -95,6 +95,62 @@
             "default": false,
             "group": "Expansions"
         },
+        "Mountain_Ruin": {
+            "description": [
+                "Enable this if you are using either the 'Mountains of Madness' or 'Cities in Ruin' expansion to allow multi-expansion cards to appear properly."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Multi-Expansion Cards"
+        },
+        "Mountain_Pyramid": {
+            "description": [
+                "Enable this if you are using either the 'Mountains of Madness' or 'Under the Pyramids' expansion to allow multi-expansion cards to appear properly."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Multi-Expansion Cards"
+        },
+        "Mountain_Strange": {
+            "description": [
+                "Enable this if you are using either the 'Mountains of Madness' or 'Strange Remnants' expansion to allow multi-expansion cards to appear properly."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Multi-Expansion Cards"
+        },
+        "Mountain_Dream": {
+            "description": [
+                "Enable this if you are using either the 'Mountains of Madness' or 'The Dreamlands' expansion to allow multi-expansion cards to appear properly."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Multi-Expansion Cards"
+        },
+        "Strange_Pyramid": {
+            "description": [
+                "Enable this if you are using either the 'Strange Remnants' or 'Under the Pyramids' expansion to allow multi-expansion cards to appear properly."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Multi-Expansion Cards"
+        },
+        "Carcosa_Dream": {
+            "description": [
+                "Enable this if you are using either the 'Signs of Carcosa' or 'The Dreamlands' expansion to allow multi-expansion cards to appear properly."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Multi-Expansion Cards"
+        },
+        "Dream_Ruin": {
+            "description": [
+                "Enable this if you are using either the 'The Dreamlands' or 'Cities in Ruin' expansion to allow multi-expansion cards to appear properly."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Multi-Expansion Cards"
+        },
         "Second_Investigator": {
             "description": [
                 "Starts the Game with another investigator."
