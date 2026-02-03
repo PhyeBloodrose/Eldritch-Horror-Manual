@@ -2169,13 +2169,542 @@
     "progression_skip_balancing": true
   },
   {
-    "count": 4,
-    "name": "I'm an Asset",
+    "count": 1,
+    "name": ".18 Derringer",
+    "category": [
+        "Assets Deck",
+        "Trinket",
+        "Weapon"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": ".38 Revolver",
     "category": [
         "Assets Deck",
         "Item",
-        "Weapon",
+        "Weapon"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": ".45 Automatic",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Weapon"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Agency Quarantine",
+    "category": [
+        "Assets Deck",
+        "Service"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Arcane Manuscripts",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Arcane Scholar",
+    "category": [
+        "Assets Deck",
         "Ally"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Arcane Tome",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Axe",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Weapon"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Bandages",
+    "category": [
+        "Assets Deck",
+        "Item"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Bull Whip",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Weapon"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Carbine Rifle",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Weapon"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Cat Burglar",
+    "category": [
+        "Assets Deck",
+        "Ally"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Charter Flight",
+    "category": [
+        "Assets Deck",
+        "Service"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Delivery Service",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "Teamwork"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Double-barreled Shotgun",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Weapon"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Dynamite",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Weapon"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Fine Clothes",
+    "category": [
+        "Assets Deck",
+        "Item"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Fishing Net",
+    "category": [
+        "Assets Deck",
+        "Item"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Hired Muscle",
+    "category": [
+        "Assets Deck",
+        "Ally"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Holy Cross",
+    "category": [
+        "Assets Deck",
+        "Item"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Holy Water",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Magical"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Kerosene",
+    "category": [
+        "Assets Deck",
+        "Item"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "King James Bible",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lodge Researcher",
+    "category": [
+        "Assets Deck",
+        "Ally"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lucky Cigarette Case",
+    "category": [
+        "Assets Deck",
+        "Trinket"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lucky Rabbit's Foot",
+    "category": [
+        "Assets Deck",
+        "Trinket"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Personal Assistant",
+    "category": [
+        "Assets Deck",
+        "Ally"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Pocket Watch",
+    "category": [
+        "Assets Deck",
+        "Trinket"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Private Care",
+    "category": [
+        "Assets Deck",
+        "Service"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Private Investigator",
+    "category": [
+        "Assets Deck",
+        "Ally"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Protective Amulet",
+    "category": [
+        "Assets Deck",
+        "Item"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Puzzle Box",
+    "category": [
+        "Assets Deck",
+        "Trinket"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Sanctuary",
+    "category": [
+        "Assets Deck",
+        "Service"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Silver Twilight Ritual",
+    "category": [
+        "Assets Deck",
+        "Service"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Spirit Dagger",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Magical Weapon"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Urban Guide",
+    "category": [
+        "Assets Deck",
+        "Ally"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Vatican Missionary",
+    "category": [
+        "Assets Deck",
+        "Ally"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Whiskey",
+    "category": [
+        "Assets Deck",
+        "Item"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Wireless Report",
+    "category": [
+        "Assets Deck",
+        "Service",
+        "Teamwork"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Witch Doctor",
+    "category": [
+        "Assets Deck",
+        "Ally"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ancient Manuscript",
+    "category": [
+        "Assets Deck",
+        "Trinket",
+        "Relic",
+        "Tome"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Astute Researcher",
+    "category": [
+        "Assets Deck",
+        "Ally"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Blessed Blade",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Relic",
+        "Magical Weapon"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Chainsaw",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Weapon"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Enchanted Jewelry",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Magical",
+        "Relic"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Expert's Blade",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Magical Weapon",
+        "Relic"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Grim Lexicon",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Grotesque Compendium",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Museum Director",
+    "category": [
+        "Assets Deck",
+        "Ally"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mystic Tome",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Occult Tablet",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Relic",
+        "Tome"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Protective Totem",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Magical",
+        "Relic"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Scroll of Secrets",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Tome"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Timeworn Brand",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Magical Weapon",
+        "Relic"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Treasured Memento",
+    "category": [
+        "Assets Deck",
+        "Trinket"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Vampiric Talisman",
+    "category": [
+        "Assets Deck",
+        "Item",
+        "Magical Weapon",
+        "Relic"
     ],
     "progression_skip_balancing": true
   },

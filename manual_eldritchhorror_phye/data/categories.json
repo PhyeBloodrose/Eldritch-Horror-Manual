@@ -145,6 +145,9 @@
     "Tarot": {
         "hidden": true
     },
+    "Service": {
+        "hidden": true
+    },
     "Spells": {
         "hidden": true
     },
