@@ -30,6 +30,14 @@
             "default": false,
             "group": "Options"
         },
+        "Only_One_Ancient": {
+            "description": [
+                "This will require you to defeat 1 Ancient One, essentially turning it into a normal game of Eldritch Horror."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Options"
+        },
         "Personal_Consequence": {
             "description": [
                 "This will add Personal Stories' Consequences as checks.",

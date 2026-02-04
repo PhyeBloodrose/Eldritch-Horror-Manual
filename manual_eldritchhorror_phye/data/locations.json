@@ -5024,6 +5024,6 @@
     "category": [
       "Victory Condition"
     ],
-    "requires": "({canReachCategory(AncientDefeated,3)} AND {YamlEnabled(Short_Game)}) OR ({canReachCategory(AncientDefeated,6)} AND {YamlDisabled(Short_Game)})"
+    "requires": "({canReachCategory(AncientDefeated,3)} AND {YamlEnabled(Short_Game)}) OR {canReachCategory(AncientDefeated,6)} OR ({canReachCategory(AncientDefeated,1)} AND {YamlEnabled(Only_One_Ancient)})"
   }
 ]
