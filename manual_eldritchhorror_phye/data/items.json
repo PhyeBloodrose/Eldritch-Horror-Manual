@@ -4857,7 +4857,7 @@
         "Item",
         "The Dreamlands"
     ],
-    "progression_skip_balancing": true
+    "useful": true
   },
   {
     "count": 1,
@@ -4933,7 +4933,7 @@
         "Item",
         "Cities in Ruin"
     ],
-    "progression_skip_balancing": true
+    "useful": true
   },
   {
     "count": 1,

@@ -3564,7 +3564,7 @@
         "Ancient Ones Mysteries",
         "AncientDefeated"
     ],
-    "requires": "{canReachCategory(AzathothMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
+    "requires": "{canReachCategory(AzathothMystery,3)} AND |@Clues:12| AND (|@Ancient Ones:3| OR {YamlEnabled(Only_One_Ancient)})"
   },
   {
     "name": "Azathoth - City Research Encounter",
@@ -3653,7 +3653,7 @@
         "Ancient Ones Mysteries",
         "AncientDefeated"
     ],
-    "requires": "{canReachCategory(CthulhuMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
+    "requires": "{canReachCategory(CthulhuMystery,3)} AND |@Clues:12| AND (|@Ancient Ones:3| OR {YamlEnabled(Only_One_Ancient)})"
   },
   {
     "name": "Cthulhu - City Research Encounter",
@@ -3742,7 +3742,7 @@
         "Ancient Ones Mysteries",
         "AncientDefeated"
     ],
-    "requires": "{canReachCategory(Shub-NiggurathMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
+    "requires": "{canReachCategory(Shub-NiggurathMystery,3)} AND |@Clues:12| AND (|@Ancient Ones:3| OR {YamlEnabled(Only_One_Ancient)})"
   },
   {
     "name": "Shub-Niggurath - City Research Encounter",
@@ -3831,7 +3831,7 @@
         "Ancient Ones Mysteries",
         "AncientDefeated"
     ],
-    "requires": "{canReachCategory(Yog-SothothMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
+    "requires": "{canReachCategory(Yog-SothothMystery,3)} AND |@Clues:12| AND (|@Ancient Ones:3| OR {YamlEnabled(Only_One_Ancient)})"
   },
   {
     "name": "Yog-Sothoth - City Research Encounter",
@@ -3925,7 +3925,7 @@
         "AncientDefeated",
         "Forsaken Lore"
     ],
-    "requires": "{canReachCategory(YigMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
+    "requires": "{canReachCategory(YigMystery,3)} AND |@Clues:12| AND (|@Ancient Ones:3| OR {YamlEnabled(Only_One_Ancient)})"
   },
   {
     "name": "Yig - City Research Encounter",
@@ -4042,7 +4042,7 @@
         "AncientDefeated",
         "Mountains of Madness"
     ],
-    "requires": "{canReachCategory(TheElderThingsMystery,4)} AND |@Clues:16| AND |@Ancient Ones:3|"
+    "requires": "{canReachCategory(TheElderThingsMystery,4)} AND |@Clues:16| AND (|@Ancient Ones:3| OR {YamlEnabled(Only_One_Ancient)})"
   },
   {
     "name": "Rise of the Elder Things - City Research Encounter",
@@ -4139,7 +4139,7 @@
         "AncientDefeated",
         "Mountains of Madness"
     ],
-    "requires": "{canReachCategory(IthaquaMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
+    "requires": "{canReachCategory(IthaquaMystery,3)} AND |@Clues:12| AND (|@Ancient Ones:3| OR {YamlEnabled(Only_One_Ancient)})"
   },
   {
     "name": "Ithaqua - City Research Encounter",
@@ -4230,7 +4230,7 @@
         "AncientDefeated",
         "Strange Remnants"
     ],
-    "requires": "|@Investigators:4| AND |@Clues:4| AND |@Ancient Ones:3|"
+    "requires": "|@Investigators:4| AND |@Clues:4| AND (|@Ancient Ones:3| OR {YamlEnabled(Only_One_Ancient)})"
   },
   {
     "name": "Syzygy - City Research Encounter",
@@ -4327,7 +4327,7 @@
         "AncientDefeated",
         "Under the Pyramids"
     ],
-    "requires": "{canReachCategory(AbhothMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
+    "requires": "{canReachCategory(AbhothMystery,3)} AND |@Clues:12| AND (|@Ancient Ones:3| OR {YamlEnabled(Only_One_Ancient)})"
   },
   {
     "name": "Abhoth - City Research Encounter",
@@ -4424,7 +4424,7 @@
         "AncientDefeated",
         "Under the Pyramids"
     ],
-    "requires": "{canReachCategory(Nephren-KaMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
+    "requires": "{canReachCategory(Nephren-KaMystery,3)} AND |@Clues:12| AND (|@Ancient Ones:3| OR {YamlEnabled(Only_One_Ancient)})"
   },
   {
     "name": "Nephren-Ka - City Research Encounter",
@@ -4541,7 +4541,7 @@
          "AncientDefeated",
          "Signs of Carcosa"
     ],
-    "requires": "{canReachCategory(HasturMystery,2)} AND |@Ancient Ones:3|"
+    "requires": "{canReachCategory(HasturMystery,2)} AND (|@Ancient Ones:3| OR {YamlEnabled(Only_One_Ancient)})"
   },
   {
     "name": "Hastur - City Research Encounter",
@@ -4638,7 +4638,7 @@
         "AncientDefeated",
         "The Dreamlands"
     ],
-    "requires": "{canReachCategory(Atlach-NachaMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
+    "requires": "{canReachCategory(Atlach-NachaMystery,3)} AND |@Clues:12| AND (|@Ancient Ones:3| OR {YamlEnabled(Only_One_Ancient)})"
   },
   {
     "name": "Atlach-Nacha - City Research Encounter",
@@ -4735,7 +4735,7 @@
         "AncientDefeated",
         "The Dreamlands"
     ],
-    "requires": "{canReachCategory(HypnosMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
+    "requires": "{canReachCategory(HypnosMystery,3)} AND |@Clues:12| AND (|@Ancient Ones:3| OR {YamlEnabled(Only_One_Ancient)})"
   },
   {
     "name": "Hypnos - City Research Encounter",
@@ -4832,7 +4832,7 @@
         "AncientDefeated",
         "Cities in Ruin"
     ],
-    "requires": "{canReachCategory(ShuddeMellMystery,3)} AND |@Clues:12| AND |@Ancient Ones:3|"
+    "requires": "{canReachCategory(ShuddeMellMystery,3)} AND |@Clues:12| AND (|@Ancient Ones:3| OR {YamlEnabled(Only_One_Ancient)})"
   },
   {
     "name": "Shudde M'ell - City Research Encounter",
@@ -4922,7 +4922,7 @@
         "Ancient Ones Mysteries",
         "AncientDefeated"
     ],
-    "requires": "{canReachCategory(AntediluviumMystery,3)} AND |@Clues:12| AND |@Spells:6| AND |@Ancient Ones:3|"
+    "requires": "{canReachCategory(AntediluviumMystery,3)} AND |@Clues:12| AND |@Spells:6| AND (|@Ancient Ones:3| OR {YamlEnabled(Only_One_Ancient)})"
   },
   {
     "name": "Antediluvium - City Research Encounter",
@@ -4991,7 +4991,7 @@
         "Ancient Ones Mysteries",
         "AncientDefeated"
     ],
-    "requires": "{canReachCategory(NyarlathotepMystery,2)} AND |@Clues:10|  AND |@Ancient Ones:3|"
+    "requires": "{canReachCategory(NyarlathotepMystery,2)} AND |@Clues:10|  AND (|@Ancient Ones:3| OR {YamlEnabled(Only_One_Ancient)})"
   },
   {
     "name": "Nyarlathotep - City Research Encounter",
